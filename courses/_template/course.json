@@ -1,0 +1,20 @@
+{
+  "id": "_template",
+  "title": "新しい教材のタイトル",
+  "shortTitle": "短縮名",
+  "description": "教材の一言説明（カード一覧に表示されます）",
+  "longDescription": "教材の詳しい説明（コース詳細画面に表示されます）",
+  "icon": "📚",
+  "color": "#3B5FE0",
+  "cardsFile": "atomic_cards.json",
+  "quizFile": "quiz_questions.json",
+  "chapters": [
+    "第1章のカテゴリ名",
+    "第2章のカテゴリ名",
+    "第3章のカテゴリ名"
+  ],
+  "bonusChapters": [],
+  "passThreshold": 70,
+  "chapterQuizSize": 8,
+  "version": "1.0.0"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Q-001",
+    "type": "multiple_choice",
+    "source_card_ids": ["SAMPLE-001"],
+    "category": "第1章のカテゴリ名",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "（四択問題の質問文）",
+    "choices": ["選択肢A", "選択肢B", "選択肢C", "選択肢D"],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "（正解の理由と、他の選択肢が不適切な理由）",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "Q-002",
+    "type": "true_false",
+    "source_card_ids": ["SAMPLE-001"],
+    "category": "第1章のカテゴリ名",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "（○×問題の文）",
+    "choices": [true, false],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "（解説）",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "Q-003",
+    "type": "fill_blank",
+    "source_card_ids": ["SAMPLE-002"],
+    "category": "第1章のカテゴリ名",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "（　）に入る語句を答えてください。",
+    "choices": null,
+    "correct_answer": "正答",
+    "accepted_answers": ["正答", "表記ゆれ1", "表記ゆれ2"],
+    "explanation": "（解説）",
+    "clinical_pearl": null,
+    "tags": []
+  }
+]

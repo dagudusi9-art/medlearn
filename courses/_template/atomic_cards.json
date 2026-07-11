@@ -1,0 +1,24 @@
+[
+  {
+    "id": "SAMPLE-001",
+    "category": "第1章のカテゴリ名",
+    "importance": 5,
+    "question": "（ここに一問一答形式の質問文を書きます）",
+    "answer": "（簡潔な答え）",
+    "explanation": "（なぜそうなのか、実務者の考え方も含めた解説）",
+    "clinical_pearl": "（現場で役立つポイント。なければ null）",
+    "common_mistake": "（初心者が間違えやすい点。なければ null）",
+    "related": ["SAMPLE-002"]
+  },
+  {
+    "id": "SAMPLE-002",
+    "category": "第1章のカテゴリ名",
+    "importance": 4,
+    "question": "（2枚目のサンプルカード）",
+    "answer": "（答え）",
+    "explanation": null,
+    "clinical_pearl": null,
+    "common_mistake": null,
+    "related": []
+  }
+]

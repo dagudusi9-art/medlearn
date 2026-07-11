@@ -1,0 +1,3729 @@
+[
+  {
+    "id": "Q-001",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-001"
+    ],
+    "category": "Vascular Access",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "TAVIの大腿動脈穿刺で最も重要視される基本原則は何か？",
+    "choices": [
+      "血管へできるだけ真っ直ぐ入ること（straight entry）",
+      "できるだけ深く刺すこと",
+      "複数回穿刺してベストな場所を探すこと",
+      "まず静脈から穿刺練習すること"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "大口径シースを扱うTAVIでは穿刺経路が直線的でないと、その後のデバイス操作・シース交換・ProGlideによる止血まで全工程に悪影響が及ぶため。",
+    "clinical_pearl": "穿刺直後に術者が『まっすぐ入っているか』をどう確認しているかに注目する。",
+    "tags": [
+      "access"
+    ]
+  },
+  {
+    "id": "Q-002",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-002"
+    ],
+    "category": "Vascular Access",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "穿刺時に抵抗を感じた場合、皮下で何が起きている可能性が高いか？",
+    "choices": [
+      "血管を貫通した合図",
+      "ループ（looping）やキンク（kinking）",
+      "穿刺が成功した合図",
+      "局所麻酔が効いていない合図"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "抵抗は経路が真っ直ぐでないサインであり、そのまま押し進めると経路がさらに悪化する。",
+    "clinical_pearl": null,
+    "tags": [
+      "access"
+    ]
+  },
+  {
+    "id": "Q-003",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-003"
+    ],
+    "category": "Vascular Access",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "「Z-shaped tract（Z字トラクト）」とは何か？",
+    "choices": [
+      "穿刺後にできるZ型の血腫",
+      "血管が自然に持つ蛇行形態",
+      "皮膚から血管まで一直線ではなく、途中で方向転換した不良な穿刺経路",
+      "エコー画像上のアーチファクト"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "針の角度を血管に届かせるために途中で急に変えることで生じ、デバイス操作性を著しく損なう。",
+    "clinical_pearl": null,
+    "tags": [
+      "access"
+    ]
+  },
+  {
+    "id": "Q-004",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-005",
+      "TAVI-003"
+    ],
+    "category": "Vascular Access",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "穿刺経路がZ字になりかけている場合、正しい対処法は何か？",
+    "choices": [
+      "その場で角度を急にして届かせる",
+      "圧を強めてそのまま押し進める",
+      "エコーを外して手探りで進める",
+      "一度針を抜いて、より後方（back）から刺し直す"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "途中で無理に角度修正するとかえって経路が悪化するため、最初から直線的な経路になるよう刺し直す方が結果的に成功率が高い。",
+    "clinical_pearl": "この『抜いて刺し直す』判断の早さは術者の熟練度を示す見学ポイント。",
+    "tags": [
+      "access",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-005",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-008"
+    ],
+    "category": "Vascular Access",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "穿刺位置が高すぎる場合に生じやすい合併症は何か？",
+    "choices": [
+      "後腹膜出血（retroperitoneal hemorrhage）",
+      "下肢虚血",
+      "心タンポナーデ",
+      "冠動脈閉塞"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "高位穿刺は用手圧迫が効きにくい後腹膜腔に及ぶため、出血が診断・制御されにくい。",
+    "clinical_pearl": null,
+    "tags": [
+      "access",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-006",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-009"
+    ],
+    "category": "Vascular Access",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "穿刺位置が低すぎる場合に生じやすい合併症はどれか？",
+    "choices": [
+      "後腹膜出血",
+      "SFAやprofundaの穿刺・分岐部損傷・閉鎖不全",
+      "AV block",
+      "僧帽弁損傷"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "CFA分岐部より末梢での穿刺は血管径が細くなり、閉鎖デバイスの効果も落ちるため合併症リスクが上がる。",
+    "clinical_pearl": null,
+    "tags": [
+      "access",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-007",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-007"
+    ],
+    "category": "Vascular Access",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "TAVIの大腿動脈穿刺で標準的に推奨される穿刺法は超音波ガイド下穿刺であるが、その理由として最も適切なものはどれか？",
+    "choices": [
+      "放射線被曝を避けるため",
+      "手技時間を短縮するため",
+      "大口径シースを扱うため穿刺位置の正確性が合併症予防に直結するから",
+      "局所麻酔を省略できるから"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "大口径シースを扱うTAVIでは穿刺位置の正確性が合併症予防に直結するため、ランドマーク法のみに頼らずエコーで確認する。",
+    "clinical_pearl": "エコーで具体的にどの構造物（前壁・分岐部・石灰化など）を確認しているかに注目する。",
+    "tags": [
+      "access",
+      "imaging"
+    ]
+  },
+  {
+    "id": "Q-008",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-013"
+    ],
+    "category": "Vascular Access",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "大口径シース抜去時、Guidewireは止血が確認できるまで抜かずに残しておくべきである。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Guidewireが残っていれば閉鎖失敗時に再度シースやバルーンを挿入するリカバリー手段を確保できる。この講演を通じて繰り返される核心メッセージ。",
+    "clinical_pearl": "『Wireを残す』という発言・行動に注目する。",
+    "tags": [
+      "access",
+      "wire_management"
+    ]
+  },
+  {
+    "id": "Q-009",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-006"
+    ],
+    "category": "Vascular Access",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "肥満患者では、通常と同じ角度・深さの感覚で穿刺しても特に問題は生じない。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "肥満患者は皮下脂肪が厚く、皮膚から血管までの距離が長くなるため経路が曲がりやすく、Z字トラクトが起こりやすい。",
+    "clinical_pearl": null,
+    "tags": [
+      "access",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-010",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-011"
+    ],
+    "category": "Vascular Access",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "TAVIの標準的な穿刺目標血管は（　）と呼ばれる総大腿動脈である。",
+    "choices": null,
+    "correct_answer": "CFA",
+    "accepted_answers": [
+      "CFA",
+      "総大腿動脈",
+      "common femoral artery",
+      "Common Femoral Artery"
+    ],
+    "explanation": "TAVIの標準的な大腿動脈アクセス部位である。",
+    "clinical_pearl": null,
+    "tags": [
+      "access",
+      "terminology"
+    ]
+  },
+  {
+    "id": "Q-011",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-012"
+    ],
+    "category": "Vascular Access",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "最初の穿刺時のFluoro画像を保存しておく理由は、後で出血などのトラブルが起きた際に、その画像を参照して何を迅速に把握するためか。",
+    "choices": null,
+    "correct_answer": "穿刺位置",
+    "accepted_answers": [
+      "穿刺位置",
+      "穿刺した位置",
+      "puncture site",
+      "the puncture site"
+    ],
+    "explanation": "穿刺位置とバルーンなど対応時の位置を比較することで、出血などのトラブル対応が迅速になる。",
+    "clinical_pearl": "術者が最初のFluoroを保存する習慣を持っているか観察するとよい。",
+    "tags": [
+      "access",
+      "technique"
+    ]
+  },
+  {
+    "id": "Q-012",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-014"
+    ],
+    "category": "ProGlide",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Perclose ProGlideはどのような機序で穿刺孔を閉鎖するデバイスか？",
+    "choices": [
+      "栓（プラグ）で穴を埋める",
+      "接着剤で血管壁を封鎖する",
+      "バルーンで圧迫止血する",
+      "血管壁に糸をかけて縫合閉鎖する"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Plug型デバイス（Angio-Sealなど）とは異なり、ProGlideは縫合ベースの閉鎖デバイスであり、この違いがpre-close techniqueの根拠になっている。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "device"
+    ]
+  },
+  {
+    "id": "Q-013",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-015"
+    ],
+    "category": "ProGlide",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "「Pre-close technique」とは何か？",
+    "choices": [
+      "大口径シース挿入前の細いシース段階でProGlideを展開し、糸だけを体外に残しておき、手技終了後にその糸を締めて閉鎖する手法",
+      "大口径シース抜去後に初めてProGlideを展開する手法",
+      "シース抜去前に完全結紮を済ませておく手法",
+      "穿刺前に皮膚切開で血管を露出しておく手法"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "大口径シース抜去後は血管壁に直接デバイスを再展開するのが困難なため、あらかじめ細い段階で糸を仕込んでおく。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "pre-close"
+    ]
+  },
+  {
+    "id": "Q-014",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-016"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Pre-close techniqueで、ProGlide展開直後にすぐ結紮しない理由は何か？",
+    "choices": [
+      "結紮には長い時間が必要なため",
+      "大口径シース挿入前に結紮すると血管を閉じてしまうため",
+      "糸が乾燥して弱くなるため",
+      "患者の血圧が安定していないため"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "大口径シースを挿入する前に結紮してしまうと血管を閉じてしまうため、結紮は最終段階まで待つ。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "pre-close"
+    ]
+  },
+  {
+    "id": "Q-015",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-017"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "従来の標準的なProGlide配置法（Double ProGlide）では、2個をどのような位置関係で配置するか？",
+    "choices": [
+      "完全に同じ位置に重ねて配置する",
+      "180度対側に配置する",
+      "角度をずらして配置する（典型的には10時方向と2時方向）",
+      "血管の前壁と後壁に1つずつ配置する"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "2本の糸を異なる方向から締めることで、大きな穿刺孔を左右から寄せて安定して閉じるという考え方。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "double"
+    ]
+  },
+  {
+    "id": "Q-016",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-019"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Double ProGlideで2本のデバイス・糸が近接することにより生じうる問題として適切でないものはどれか？",
+    "choices": [
+      "糸同士が絡む",
+      "footplateが互いに近づきすぎる",
+      "内膜損傷や狭窄のリスクが上がる",
+      "血管合併症が単独使用より必ず減少する"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Double ProGlideは複数デバイスによる相互干渉が主なリスクであり、『常にSingleより安全』というのは誤解。実際の観察研究では合併症率はほぼ同等だった。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "double",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-017",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-020",
+      "TAVI-021"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "2025年の大規模観察研究で、SingleとDouble ProGlideの血管合併症率およびデバイスfailure率はどうだったか？",
+    "choices": [
+      "合併症率はほぼ同等で、failure率はSingle群の方が少なかった",
+      "合併症率はDoubleが有意に少なかった",
+      "failure率はDoubleの方が少なかった",
+      "両者に差は一切報告されなかった"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "施設・術者・症例選択の影響が大きく、Double ProGlideが常に優れるわけではないことを示唆する。デバイス数が少ない方が相互干渉のリスクが低い。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "evidence"
+    ]
+  },
+  {
+    "id": "Q-018",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-022"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Single ProGlide＋plug device併用の閉鎖法を何と呼ぶか？",
+    "choices": [
+      "Double closure",
+      "Hybrid closure",
+      "Cross closure",
+      "Sandwich closure"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "ProGlideで穿刺孔をある程度寄せ、残った小さなleakをplug device（Angio-Seal、FemoSealなど）で塞ぐ考え方。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "hybrid"
+    ]
+  },
+  {
+    "id": "Q-019",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-026"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "この演者はFootplateが正しく展開されているかをどのように判断しているか？",
+    "choices": [
+      "必ず超音波で確認している",
+      "造影剤の逆流の有無で確認している",
+      "超音波ではなく手の感触（tactile feedback）で判断している",
+      "患者の疼痛反応で確認している"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "デバイスを軽く引いたときの抵抗や、footplateが前壁に当たる感触だけで熟練術者は判断できる。",
+    "clinical_pearl": "『footplateの確認は超音波を使わない』という発言は、熟練術者の判断基準として興味深い観察ポイント。全ての術者がエコーで確認するわけではない点に注意。",
+    "tags": [
+      "proglide",
+      "footplate"
+    ]
+  },
+  {
+    "id": "Q-020",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-028"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Footplateが後壁まで押し付けられた状態で針を出すとどのようなリスクがあるか？",
+    "choices": [
+      "糸が絡んで結紮できなくなるだけ",
+      "シースが抜けなくなる",
+      "特にリスクはない",
+      "後壁まで貫いてしまい、閉鎖失敗・解離・狭窄・出血の原因になる"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Footplateは前壁のみを貫くためのガイドであり、後壁を巻き込むと重大な合併症につながる。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "footplate",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-021",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-031"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "シースを抜きながら助手が行う圧迫はどの方向に加えるべきか、またその理由は？",
+    "choices": [
+      "シースの長軸方向。横から押すとシースが曲がってしまうため",
+      "シースに対して垂直方向。止血効果が高いため",
+      "患者の頭側方向。血流を減らすため",
+      "方向は特に問われない"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "横から押すとシースが曲がってしまうため、軸方向に沿って圧迫する。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "technique"
+    ]
+  },
+  {
+    "id": "Q-022",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-033",
+      "TAVI-034"
+    ],
+    "category": "ProGlide",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "「ProGlide pinch」を避けるために術者は糸をどのように締めるべきか？",
+    "choices": [
+      "できるだけ短時間で一気に締める",
+      "一気に強く締めず、少しずつ（incremental）に締め、都度止血の状態を確認する",
+      "締める前に必ずヘパリンを追加投与する",
+      "対側から圧迫しながら締める"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "ProGlide pinchは過度で急速なテンションで糸を締めると生じ、狭窄・閉塞・下肢虚血の原因となる。段階的に締めて都度確認することで過度な締結を避けられる。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "pinch",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-023",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-040"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "閉鎖確認後、足背動脈・後脛骨動脈のdistal pulseを必ず確認する理由は何か？",
+    "choices": [
+      "患者の血圧を測定するため",
+      "麻酔科医への報告義務のため",
+      "ProGlide pinchによる狭窄があれば脈が減弱・消失するため",
+      "心拍数を確認するため"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "止血確認のみで満足しdistal pulseの確認を省略すると、ProGlide pinchによる下肢虚血を見逃す可能性がある。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "pinch",
+      "assessment"
+    ]
+  },
+  {
+    "id": "Q-024",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-041",
+      "TAVI-042"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "最終groin造影（final groin shot）で確認すべき3項目は何か？",
+    "choices": [
+      "PVL・AR・Gradient",
+      "CO・BP・HR",
+      "RCC・LCC・NCC",
+      "Extravasation・Dissection・Narrowing"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "これらはそれぞれ出血・血管損傷・ProGlide pinchのサインとなる。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "imaging"
+    ]
+  },
+  {
+    "id": "Q-025",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-043"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "最終造影を省略しない理由として演者が挙げた表現に近いものはどれか？",
+    "choices": [
+      "『20人に1人は造影しておけばよかったとなる』",
+      "『造影剤アレルギーのリスクがあるから省略すべき』",
+      "『保険適応上必須だから』",
+      "『他のモダリティでは絶対に代替できないから』"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "95%は造影不要でも5%程度は『やっておけばよかった』となる症例があるという考え方で、ルーチンでの造影省略を戒めている。",
+    "clinical_pearl": "造影を省略しないルーチンの重要性を示すエピソード。",
+    "tags": [
+      "proglide",
+      "imaging",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-026",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-048",
+      "TAVI-049"
+    ],
+    "category": "ProGlide",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Guidewireを結紮完了まで残しておくことの最大のメリットは何か？",
+    "choices": [
+      "手技時間を短縮できること",
+      "何が起きてもリカバリー（バルーンタンポナーデ、covered stentなど）が可能になること",
+      "放射線被曝を減らせること",
+      "患者の疼痛を軽減できること"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "『逃げ道』を確保しておくことがアクセス管理の基本思想であり、講演で最も繰り返し強調されるメッセージの一つ。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "wire_management"
+    ]
+  },
+  {
+    "id": "Q-027",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-016"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Pre-close techniqueでは、ProGlide展開直後にすぐ結紮を行う。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "結紮は糸だけを体外に残し、大口径シース抜去後の手技終了時まで行わない。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "pre-close"
+    ]
+  },
+  {
+    "id": "Q-028",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-021"
+    ],
+    "category": "ProGlide",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "2025年の観察研究では、デバイスfailure率はDouble ProGlide群の方が少なかった。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "実際にはSingle群の方がfailure率が少なく、デバイス数が少ない方が相互干渉のリスクが低いことを示唆する。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "evidence"
+    ]
+  },
+  {
+    "id": "Q-029",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-037",
+      "TAVI-038"
+    ],
+    "category": "ProGlide",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "完全止血が確認できた後も、皮下トラクト（シース挿入経路）からのじわ出血を防ぐため1〜2分程度軽くアクセス部を圧迫する。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "動脈自体が閉じても皮下の穴からじわっと出血することがあるため、完全止血=作業終了と考えず追加の軽い圧迫を行う。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "hemostasis"
+    ]
+  },
+  {
+    "id": "Q-030",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-039"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Guidewireを抜去する際は、勢いよく一気に引き抜く方が血管内膜を傷つけにくい。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Guidewireは硬く、雑に抜くと内膜損傷を起こす可能性があるため、血管壁を傷つけないよう支えながら真っ直ぐ抜くべきである。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "wire_management",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-031",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-049",
+      "TAVI-222"
+    ],
+    "category": "ProGlide",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "近年のTAVIでは、弁展開よりもアクセス部の閉鎖が手技全体の中で最も危険な部分になりつつあると考えられている。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "弁展開技術が成熟する一方、アクセス関連合併症の方が問題になりやすいという認識が広がっている。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-032",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-025"
+    ],
+    "category": "ProGlide",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "ProGlide先端にある、血管内側から前壁に当てる小さな構造物を（　）と呼ぶ。",
+    "choices": null,
+    "correct_answer": "Footplate",
+    "accepted_answers": [
+      "Footplate",
+      "footplate",
+      "フットプレート"
+    ],
+    "explanation": "針が前壁のみを貫くためのガイド（アンカー）となる構造。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "footplate"
+    ]
+  },
+  {
+    "id": "Q-033",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-036"
+    ],
+    "category": "ProGlide",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "結紮の最終段階で結び目を血管まで送り込むために使用する器具を（　）と呼ぶ。",
+    "choices": null,
+    "correct_answer": "ノットプッシャー",
+    "accepted_answers": [
+      "ノットプッシャー",
+      "knot pusher",
+      "Knot Pusher",
+      "ノットプッシャー(knot pusher)"
+    ],
+    "explanation": "結び目を血管まで送り込むために使う器具。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "device"
+    ]
+  },
+  {
+    "id": "Q-034",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-052"
+    ],
+    "category": "ProGlide",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "アクセス部の漏れに対する追加対応として使われるplug-based closure deviceの代表例は（　）である。",
+    "choices": null,
+    "correct_answer": "MANTA",
+    "accepted_answers": [
+      "MANTA",
+      "Manta"
+    ],
+    "explanation": "アクセス部の漏れに対する追加対応の一つとして挙げられるplug-based closure device。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "device"
+    ]
+  },
+  {
+    "id": "Q-035",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-045"
+    ],
+    "category": "ProGlide",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Single ProGlide閉鎖後、あえて6Frシースを一旦戻してから少量造影を行う目的は、（　）の有無を確認するためである。",
+    "choices": null,
+    "correct_answer": "漏れ",
+    "accepted_answers": [
+      "漏れ",
+      "造影剤の漏れ",
+      "leak",
+      "もれ"
+    ],
+    "explanation": "6Frシースを介して少量造影を行うことで閉鎖部からの漏れの有無を確認し、漏れがあれば追加ProGlideや8Frへの拡大、plug deviceなどの対応につなげる。",
+    "clinical_pearl": null,
+    "tags": [
+      "proglide",
+      "technique"
+    ]
+  },
+  {
+    "id": "Q-036",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-053"
+    ],
+    "category": "Valve Crossing",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "術者が『TAVI手技の中で最も難しい場面の一つ』と表現しているのはどの操作か？",
+    "choices": [
+      "シースを挿入する操作",
+      "ProGlideの結紮操作",
+      "ガイドワイヤーを大動脈弁を越えて左室に通す操作",
+      "Rapid pacingの開始操作"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "重症AS弁は狭く石灰化しているため、通過には繊細な操作が要求される。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_crossing"
+    ]
+  },
+  {
+    "id": "Q-037",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-056"
+    ],
+    "category": "Valve Crossing",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "石灰化した大動脈弁をワイヤーで通過させる際、狙うべき構造とその理由として正しいものはどれか？",
+    "choices": [
+      "弁尖の中央。最短距離であるため",
+      "弁輪の最も低い部分。抵抗が少ないため",
+      "NCCの基部。石灰化が少ないため",
+      "Commissure（交連）。弁尖中央より通過しやすいため"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "弁尖の中央（石灰化が強い部分）を押すよりも交連部の方が通過しやすい。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_crossing",
+      "commissure"
+    ]
+  },
+  {
+    "id": "Q-038",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-057",
+      "TAVI-058"
+    ],
+    "category": "Valve Crossing",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "弁通過操作で強調される『small movements』とはどのような操作か？",
+    "choices": [
+      "1mm単位で押す・少し回す・心拍に合わせるなど小さな操作の繰り返し",
+      "カテーテルを大きく引いて再挿入する操作",
+      "ガイドワイヤーを完全に交換する操作",
+      "バルーンで弁を先に拡張する操作"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "石灰化した弁を力任せに押すのではなく、細かい操作の積み重ねで通過させる。",
+    "clinical_pearl": "熟練者は『通った・通らない』の結果だけでなく、こうした小さな操作の積み重ねをしている点に注目する。",
+    "tags": [
+      "valve_crossing",
+      "technique"
+    ]
+  },
+  {
+    "id": "Q-039",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-059"
+    ],
+    "category": "Valve Crossing",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "弁通過操作で心拍に合わせてタイミングを取る理由は何か？",
+    "choices": [
+      "心拍数を記録するため",
+      "収縮・拡張で弁の開き方が微妙に変わり、開きやすいタイミングで進めやすくなるため",
+      "造影剤の分布を均一にするため",
+      "患者の血圧を安定させるため"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "心周期を無視して一定のペースで押し進めると通過しにくくなる。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_crossing",
+      "timing"
+    ]
+  },
+  {
+    "id": "Q-040",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-060"
+    ],
+    "category": "Valve Crossing",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "ワイヤーが弁を通過した後、左室内に深く入れすぎるとどのようなリスクがあるか？",
+    "choices": [
+      "AV blockのリスクが完全に消失する",
+      "穿刺部出血のリスクが増加する",
+      "心室壁または僧帽弁を損傷するリスク",
+      "弁尖の石灰化が進行する"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "弁通過の達成感からワイヤーを必要以上に深く進めてしまうと、心室壁や僧帽弁を損傷しうるため必要十分な長さのみ挿入する。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_crossing",
+      "complication",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-041",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-062"
+    ],
+    "category": "Valve Crossing",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "外科的AVRとTAVIにおける自己弁への対応の違いとして正しいものはどれか？",
+    "choices": [
+      "両者とも自己弁を必ず切除する",
+      "TAVIでも弁を切除してから展開する",
+      "外科では自己弁をそのまま温存する点は同じ",
+      "外科は弁を切除して人工弁を縫着するが、TAVIは石灰化した自己弁をそのまま通過・拡張する"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "自己弁をそのまま通過・拡張するのがTAVIならではの発想であり、外科経験者には新鮮に映る点である。",
+    "clinical_pearl": "心臓外科的視点から見ると特に興味深いポイント。",
+    "tags": [
+      "valve_crossing",
+      "anatomy"
+    ]
+  },
+  {
+    "id": "Q-042",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-063"
+    ],
+    "category": "Valve Crossing",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "弁通過の判断は主に触覚のみに頼り、Fluoroやカテーテル操作から得られる情報は重要視されない。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "熟練術者はFluoro、CT、カテーテル操作から得られる『ここに隙間がありそう』という感覚を総合的に頼りにしている。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_crossing"
+    ]
+  },
+  {
+    "id": "Q-043",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-267"
+    ],
+    "category": "Valve Crossing",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "見学では、弁通過が『通った・通らない』という結果だけでなく、通過に至るまでの細かい操作の積み重ねに注目すべきである。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "経験の浅い観察者は結果のみに注目し途中の操作を見逃しがちであるため、過程に注目することが学びを深める。",
+    "clinical_pearl": "見学では結果でなく過程（操作の細かさ）に注目する。",
+    "tags": [
+      "valve_crossing",
+      "observation"
+    ]
+  },
+  {
+    "id": "Q-044",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-055"
+    ],
+    "category": "Valve Crossing",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "大動脈弁を構成する3尖は、RCC・LCC・（　）である。",
+    "choices": null,
+    "correct_answer": "NCC",
+    "accepted_answers": [
+      "NCC",
+      "Non-coronary cusp",
+      "無冠尖",
+      "non-coronary cusp"
+    ],
+    "explanation": "大動脈弁は右冠尖（RCC）・左冠尖（LCC）・無冠尖（NCC）の3尖から構成される。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_crossing",
+      "anatomy"
+    ]
+  },
+  {
+    "id": "Q-045",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-064"
+    ],
+    "category": "Safari Wire",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Safari wireとは何か？",
+    "choices": [
+      "TAVI専用の左室サポート（スティッフ）ワイヤー",
+      "冠動脈造影用の柔らかいワイヤー",
+      "心房中隔穿刺用ワイヤー",
+      "ペースメーカーリード"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "通常のストレートワイヤーは弁を越えられても人工弁デリバリーシステムを支えるだけの剛性を持たないため、最終的にSafari wireへ交換する。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire"
+    ]
+  },
+  {
+    "id": "Q-046",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-065"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "なぜ通常のストレートワイヤーのままデリバリーシステムを進められないのか？",
+    "choices": [
+      "長さが足りないため",
+      "剛性（サポート）が不足しており大口径デリバリーシステムを支えきれないため",
+      "放射線に写らないため",
+      "血栓形成のリスクが高いため"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "通常のストレートワイヤーは大口径デリバリーシステムを支えるサポート力が不足している。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire"
+    ]
+  },
+  {
+    "id": "Q-047",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-066",
+      "TAVI-067"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "カテーテル交換に約260cmのexchange-length wireを用いる理由は何か？",
+    "choices": [
+      "260cmでないと心尖部に届かないため",
+      "260cmは保険適応上の規定であるため",
+      "通常長（180cm）ではカテーテル交換中にワイヤーが抜けてしまうため",
+      "短いワイヤーは不整脈を誘発しやすいため"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "通常の180cmワイヤーではカテーテル交換中にワイヤーが抜けてしまうため、長いワイヤーを使う。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "exchange"
+    ]
+  },
+  {
+    "id": "Q-048",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-070",
+      "TAVI-071"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Safari wire交換中に常時心電図を確認しながら行う理由は何か？",
+    "choices": [
+      "患者の体位変換のタイミングを図るため",
+      "造影剤アレルギーの兆候を見るため",
+      "麻酔深度を評価するため",
+      "心内膜刺激によるPVC/VTや、伝導系圧迫によるAV blockを早期に発見するため"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Safari wireが左室心尖部に接触することでPVC/VTが誘発されうるほか、伝導系圧迫によるAV blockも起こりうるため常時モニターする。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "arrhythmia"
+    ]
+  },
+  {
+    "id": "Q-049",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-075"
+    ],
+    "category": "Safari Wire",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Safari wireは『LVに入っていればよい』わけではなく、どこまで正しく到達していることを確認すべきか？",
+    "choices": [
+      "心尖部（apex）",
+      "僧帽弁輪",
+      "左室流出路",
+      "大動脈基部"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "位置が不適切（側壁など）だと穿孔リスクが高まるため、心尖部までの正確な到達を確認する必要がある。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "apex"
+    ]
+  },
+  {
+    "id": "Q-050",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-077",
+      "TAVI-078"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "ワイヤーが僧帽弁装置に絡んだ場合に起こりうる問題として適切でないものはどれか？",
+    "choices": [
+      "ワイヤー操作が不安定になる",
+      "デリバリーシステムが進みやすくなる",
+      "MRが悪化する",
+      "腱索損傷"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "僧帽弁装置に絡むとワイヤー操作が不安定になり、MR悪化・腱索損傷・デリバリーシステムが『進まなくなる』などの問題が生じる。『進みやすくなる』は誤り。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "mitral",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-051",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-079",
+      "TAVI-080"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Safari wireの先端がJ字形で心尖部に軽くループを作るように設計されている利点として適切でないものはどれか？",
+    "choices": [
+      "心尖部を一点で突かない",
+      "穿孔リスクを減らす",
+      "心拍出量を増加させる",
+      "安定したサポートになる"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "J字形のループ設計は心尖部を一点で突かず穿孔リスクを減らし安定したサポートになるが、心拍出量の増加とは無関係。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "device"
+    ]
+  },
+  {
+    "id": "Q-052",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-081"
+    ],
+    "category": "Safari Wire",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Fluoroのみに頼った位置確認の落とし穴を示す典型例として挙げられているのはどれか？",
+    "choices": [
+      "Fluoro上でワイヤーが全く映らなかった症例",
+      "Fluoroで造影剤が漏出していた症例",
+      "Fluoroで弁位置が高すぎた症例",
+      "Fluoro上は心尖部に見えたが実際は左室基部の側壁に当たっていた症例"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "この教訓的症例のため、Fluoroに加えてEchoでの確認も必要である。",
+    "clinical_pearl": "この教訓的症例（Fluoroでapexに見えたがEchoでは側壁だった）は典型例として重要。",
+    "tags": [
+      "safari_wire",
+      "imaging"
+    ]
+  },
+  {
+    "id": "Q-053",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-084",
+      "TAVI-085"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "弁通過が理想的でなかった場合、術者はSafari wireへの直接移行と安全な二段階交換法のどちらを選ぶ方針で、その閾値はどう設定されているか？",
+    "choices": [
+      "安全な二段階交換法を選び、切り替える閾値を非常に低く設定している",
+      "直接移行を選び、切り替える閾値を高く設定している",
+      "症例ごとにランダムに選択する",
+      "必ず外科医に判断を委ねる"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "『Exchange wireへ切り替える閾値は非常に低く設定している』という保守的な方針で、少しでも不安ならすぐ切り替える。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "exchange"
+    ]
+  },
+  {
+    "id": "Q-054",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-086"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "安全な二段階交換法の順序として正しいものはどれか？",
+    "choices": [
+      "Safari wire→Pigtail→通常ワイヤー→Exchange wire",
+      "通常ワイヤー→Pigtail→Exchange wire→Safari wire",
+      "Exchange wire→Safari wire→Pigtail→通常ワイヤー",
+      "Pigtail→Safari wire→通常ワイヤー→Exchange wire"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "初心者に推奨される、一段階多い安全な方法。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "exchange"
+    ]
+  },
+  {
+    "id": "Q-055",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-088",
+      "TAVI-089"
+    ],
+    "category": "Safari Wire",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "一部の術者がJR4カテーテルを弁通過に用いる理由は何か？",
+    "choices": [
+      "JR4が最も安価なカテーテルであるため",
+      "JR4のみがSafari wireと互換性を持つため",
+      "JRのカーブがLV apex方向へ向きやすく、Safariへ直接つながりやすいため",
+      "JR4は右冠動脈造影専用であり弁通過には使用できない"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "JR4は本来右冠動脈造影用カテーテルだが、カーブの形状から弁通過・Safari wireへの橋渡しに応用する術者もいる。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "catheter"
+    ]
+  },
+  {
+    "id": "Q-056",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-073",
+      "TAVI-074"
+    ],
+    "category": "Safari Wire",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "一部施設ではSafari wire交換後すぐにechoを行い、心嚢液・LV穿孔・ワイヤー位置を確認する。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "心嚢液貯留やLV穿孔、ワイヤー位置を確認するために、Safari wire交換後すぐにechoを行う施設がある。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "imaging"
+    ]
+  },
+  {
+    "id": "Q-057",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-087"
+    ],
+    "category": "Safari Wire",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "経験の浅い術者ほど、最初からSafari wireで直接弁を越えるStraight through法を選ぶべきである。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Straight through法は経験を積んだ術者が選ぶことがある方法であり、初心者には推奨されない。初心者には安全な二段階交換法が推奨される。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-058",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-282"
+    ],
+    "category": "Safari Wire",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "Safari wire交換では、必ずexchange wireとpigtailを使わなければならず、状況に応じた直接Safari使用は許容されない。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "『必要なら』260cmワイヤーとpigtailを使うという発言は、状況に応じて直接Safariを使うか交換法を使うかを判断することを意味し、常にexchange法が必須というわけではない。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-059",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-072"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "ワイヤーや人工弁が刺激伝導系（His束付近）を圧迫すると生じうる合併症は（　）である。",
+    "choices": null,
+    "correct_answer": "AV block",
+    "accepted_answers": [
+      "AV block",
+      "房室ブロック",
+      "AVブロック",
+      "av block"
+    ],
+    "explanation": "刺激伝導系の圧迫によりAV blockが生じうる。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-060",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-079"
+    ],
+    "category": "Safari Wire",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Safari wireの先端は（　）字形で、心尖部で軽くループを作るように設計されている。",
+    "choices": null,
+    "correct_answer": "J",
+    "accepted_answers": [
+      "J",
+      "J字",
+      "J字形",
+      "J shape"
+    ],
+    "explanation": "J字形の先端が心尖部で軽くコイルを作ることで、一点を突かず安定したサポートを得る。",
+    "clinical_pearl": null,
+    "tags": [
+      "safari_wire",
+      "device"
+    ]
+  },
+  {
+    "id": "Q-061",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-091"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "弁展開時にRapid pacingを行う理由は何か？",
+    "choices": [
+      "患者の血圧を上昇させるため",
+      "造影剤の分布を良くするため",
+      "不整脈を誘発して評価するため",
+      "心臓の動きを一時的にほぼ静止させ、人工弁が心拍動でずれるのを防ぐため"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Rapid pacingにより心臓の動きをほぼ静止させ、その低心拍出・低血圧状態で弁を展開する。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing"
+    ]
+  },
+  {
+    "id": "Q-062",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-092"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "術者が弁展開の直前にRapid pacingで心拍数を180〜200bpm程度まで一時的に上げる目的として、最も適切なものはどれか。",
+    "choices": [
+      "心臓の動きを一時的にほぼ静止させ、人工弁が心拍動でずれるのを防ぐため",
+      "冠動脈血流を増加させ、心筋虚血を予防するため",
+      "血圧を上昇させ、造影剤の分布を良くするため",
+      "不整脈を誘発し、伝導系の機能を評価するため"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Rapid pacingは心拍出量と血圧を一時的に低下させ、心臓の動きをほぼ静止させることで、その間に人工弁を正確な位置へ展開するために行う。血圧上昇や冠血流増加を目的とするものではない。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing",
+      "hemodynamics"
+    ]
+  },
+  {
+    "id": "Q-063",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-094",
+      "TAVI-095"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "『Pacing over the wire』がRVリードによる従来法と比べて優れている点として適切でないものはどれか？",
+    "choices": [
+      "RVペーシングワイヤー不要",
+      "心拍出量が増加する",
+      "時間短縮",
+      "合併症が減る"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Pacing over the wireはRVペーシングワイヤー不要・時間短縮・追加穿刺削減による合併症減少がメリットであり、心拍出量の増加とは無関係。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing",
+      "minimalist"
+    ]
+  },
+  {
+    "id": "Q-064",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-096"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "Pacing over the wireの回路構成として正しいものはどれか？",
+    "choices": [
+      "Generator→RVリード→右室心筋→患者→Generator",
+      "Generator→Pigtail→大動脈弁→患者→Generator",
+      "Generator→crocodile clip→Safari wire→LV心内膜→患者→対側電極→Generator",
+      "Generator→皮膚電極のみで完結する回路"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Safari wire自体を電極として利用し、LV心内膜を刺激することでペーシングする回路構成である。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing",
+      "circuit"
+    ]
+  },
+  {
+    "id": "Q-065",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-097",
+      "TAVI-098"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "『Needle technique』とはどのようなペーシング接続法で、どのようなコツがあるか？",
+    "choices": [
+      "皮膚表面に直接クリップを貼り付けるだけの方法",
+      "静脈からリードを挿入する方法",
+      "心外膜に直接針を刺す方法",
+      "皮下に針を刺してクリップを接続し、できるだけデリバリーシステムに近い位置で接続する"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "皮下に刺した針にワニ口クリップを接続し、デリバリーシステムに近い位置で接続することで電気抵抗（impedance）を下げる。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing",
+      "technique"
+    ]
+  },
+  {
+    "id": "Q-066",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-099"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Needle techniqueとSkin clip法で、どちらがimpedanceが大きくなりやすいか？",
+    "choices": [
+      "Skin clip法",
+      "Needle technique",
+      "両者に差はない",
+      "測定条件により毎回異なり一定しない"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Skin clip法はimpedanceが大きくなりやすいため、演者はNeedle techniqueを好んで使用している。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-067",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-101",
+      "TAVI-102"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "『Loss of capture』が起きても、Slow inflationであれば問題になりにくい理由は何か？",
+    "choices": [
+      "Slow inflationでは心臓が完全に停止するため",
+      "展開がゆっくりであれば、その場で気づいて位置を修正する時間的余裕があるため",
+      "Loss of captureはSlow inflation中には起こらないため",
+      "心拍出量が自動的に正常化するため"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "急速inflateの場合はloss of captureが起きると人工弁が心拍出で上下に動いてしまうが、slow inflationならば修正の時間的余裕がある。",
+    "clinical_pearl": "実際の症例では『誰も気付かなかった』というエピソードも紹介されている。",
+    "tags": [
+      "rapid_pacing",
+      "slow_inflation"
+    ]
+  },
+  {
+    "id": "Q-068",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-093"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Rapid pacing中は心拍出量・血圧がともに低下する。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Rapid pacingにより心拍出量（CO）と血圧（BP）がともに低下し、その状態で弁を展開する。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing",
+      "hemodynamics"
+    ]
+  },
+  {
+    "id": "Q-069",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-125"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "Self-expanding valveの展開ではRapid pacingが必ず必須である。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Self-expanding valveの展開ではRapid pacingは必須ではなく、位置が不安な場合に一時的に使うこともある。Balloon-expandableとの大きな違いの一つ。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing",
+      "valve_deployment"
+    ]
+  },
+  {
+    "id": "Q-070",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-103"
+    ],
+    "category": "Rapid Pacing",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "ワイヤーをレールだけでなくペーシングにも利用し、追加デバイス・穿刺を減らす近年の考え方を（　）TAVIと呼ぶ。",
+    "choices": null,
+    "correct_answer": "ミニマリスト",
+    "accepted_answers": [
+      "ミニマリスト",
+      "minimalist",
+      "minimalist TAVI",
+      "ミニマリストTAVI"
+    ],
+    "explanation": "追加デバイス・穿刺を減らしシンプルな手技を目指す近年のトレンドを反映している。",
+    "clinical_pearl": null,
+    "tags": [
+      "rapid_pacing",
+      "minimalist"
+    ]
+  },
+  {
+    "id": "Q-071",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-104"
+    ],
+    "category": "Valve Deployment",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "人工弁を進める際、ワイヤーが弁尖のどの位置を通っている状態が理想とされるか？",
+    "choices": [
+      "弁尖の中央",
+      "弁輪の最下点",
+      "Commissure（交連）",
+      "NCCの基部のみ"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "石灰化した弁尖の中央を押すより通過しやすく、理想的な位置とされる。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment"
+    ]
+  },
+  {
+    "id": "Q-072",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-108",
+      "TAVI-109"
+    ],
+    "category": "Valve Deployment",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "展開の際に『Recapture』『Unsheath』という表現が使われた場合、どちらのタイプの弁である可能性が高いか？",
+    "choices": [
+      "Balloon-expandable valve（Sapien系）",
+      "どちらのタイプでも同じ頻度で使われる",
+      "どちらのタイプでも使われない",
+      "Self-expanding valve（Evolut系）"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "『Inflating』が基本出てこず、Recapture・Unsheath・80% deployment・Repositionが使われる点がSapien系との違い。",
+    "clinical_pearl": "この用語の違いから動画・症例がどちらのバルブか推測できる。",
+    "tags": [
+      "valve_deployment",
+      "terminology"
+    ]
+  },
+  {
+    "id": "Q-073",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-110",
+      "TAVI-111"
+    ],
+    "category": "Valve Deployment",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "バルーンが『弁の中央ではなく左室側に寄っている』状態でinflateするとどうなり、これを防ぐために術者は何をするか？",
+    "choices": [
+      "バルーンがさらに左室へ落ち込み低植込みになるため、あらかじめpusherを十分に引いておく",
+      "バルーンが大動脈側へ飛び出すため、あらかじめpusherを押し込んでおく",
+      "特に問題は起きないためそのままinflateする",
+      "自動的に中央へ補正されるため対応不要"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "バルーンが左室側に寄った状態でinflateすると膨張力でさらに左室へ落ち込む（dive）ため、Inflate後にバルーンが中央へ来るようあらかじめpusherを引いておく。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "balloon",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-074",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-113"
+    ],
+    "category": "Valve Deployment",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "TAVI初心者がよく陥る失敗パターンとして適切なものはどれか？",
+    "choices": [
+      "常にバルーンを高く構えすぎて高植込みになる",
+      "バルーン位置が『ちょうど良い』と思い込んでinflateし、実際にはinflate時にバルーンが左室側へ動いて低植込みになる",
+      "Rapid pacingを忘れてinflateしてしまう",
+      "pigtailを抜いてからinflateしてしまう"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "熟練者は最初から少し高めに構え、pusherを引いてこの動きを見越して位置を合わせる。",
+    "clinical_pearl": "展開直前の数mm単位の位置合わせに注目する。",
+    "tags": [
+      "valve_deployment",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-075",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-115"
+    ],
+    "category": "Valve Deployment",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "『Three cusp view』とは何か？",
+    "choices": [
+      "3方向から同時に造影する手法",
+      "3種類のエコー画像を重ね合わせる手法",
+      "RCC・LCC・NCCの3尖が同時にきれいに見える透視角度",
+      "3人の術者が同時に確認する体制"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "この角度で展開すると高すぎる・低すぎるが判断しやすくなる。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "imaging"
+    ]
+  },
+  {
+    "id": "Q-076",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-116"
+    ],
+    "category": "Valve Deployment",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "『Slow inflation』の最大の目的は何か？",
+    "choices": [
+      "単に手技時間を延ばすため",
+      "造影剤の使用量を減らすため",
+      "患者の疼痛を軽減するため",
+      "術者が人工弁の位置を微調整する時間を作るため"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "単なる安全策ではなく、積極的な位置調整の機会を確保する目的がある。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "slow_inflation"
+    ]
+  },
+  {
+    "id": "Q-077",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-120"
+    ],
+    "category": "Valve Deployment",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "バルーンinflationの理想的な速度リズムとして正しいものはどれか？",
+    "choices": [
+      "最初はゆっくり→中盤はやや速く→最後は再びゆっくり",
+      "最初から最後まで一定速度",
+      "最初は速く→中盤ゆっくり→最後速く",
+      "常に可能な限り速く行う"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "最初はバルーンが最も動く時期、最後は完全固定される時期であるため、いずれも慎重な速度が必要。",
+    "clinical_pearl": "実際のdeployment時にこのリズムが再現されているか観察すると勉強になる。",
+    "tags": [
+      "valve_deployment",
+      "balloon"
+    ]
+  },
+  {
+    "id": "Q-078",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-121"
+    ],
+    "category": "Valve Deployment",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Deploy中、術者が位置調整の判断材料として使う情報はどのようなものか？",
+    "choices": [
+      "Fluoro画像のみ",
+      "Fluoro・wire tension・balloon・valve marker・pigtail・anatomyなど複数の組み合わせ",
+      "wire tensionのみ",
+      "心電図のみ"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "単一の指標のみで判断できるという誤解は誤りで、複数の情報を組み合わせて判断する。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment"
+    ]
+  },
+  {
+    "id": "Q-079",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-122",
+      "TAVI-123"
+    ],
+    "category": "Valve Deployment",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Self-expanding valveをデプロイする直前にSafari wireに対して行う操作とその理由は何か？",
+    "choices": [
+      "強く押し込む。安定性を高めるため",
+      "完全に抜去する。干渉を避けるため",
+      "少し引いてテンションを抜く。押している状態だとpop outのリスクがあるため",
+      "固定して動かさない。位置がずれるため"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "デリバリーシステムやワイヤーが押している状態だと、弁が大動脈側へ飛び出す（pop out）リスクがある。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "safari_wire"
+    ]
+  },
+  {
+    "id": "Q-080",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-129",
+      "TAVI-130"
+    ],
+    "category": "Valve Deployment",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "『High implant（高植込み）』戦略の主目的と欠点の組み合わせとして正しいものはどれか？",
+    "choices": [
+      "主目的はPVL低減、欠点は冠動脈閉塞リスクの増加",
+      "主目的は手技時間短縮、欠点は放射線被曝の増加",
+      "主目的はコスト削減、欠点は特にない",
+      "主目的はペースメーカー植込みリスクの低減、欠点は将来のValve-in-Valveが困難になりうること"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "刺激伝導系は弁輪よりLVOT側にあり、深植込みでこれを圧迫するリスクを減らすのが目的だが、将来の冠動脈再アクセスやValve-in-Valveが困難になる可能性がある。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "high_implant"
+    ]
+  },
+  {
+    "id": "Q-081",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-119"
+    ],
+    "category": "Valve Deployment",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "バルーンinflationにおいて『最も重要な瞬間』とされるのはどの部分か？",
+    "choices": [
+      "最初の数ccと最後の数cc",
+      "inflation開始前の準備段階のみ",
+      "中盤のみ",
+      "inflation後のdeflateの瞬間のみ"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "最初はバルーンが動き始め弁も最も動く時期、最後は完全固定される時期であるため、いずれも慎重な操作が必要。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "balloon"
+    ]
+  },
+  {
+    "id": "Q-082",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-227",
+      "TAVI-228"
+    ],
+    "category": "Valve Deployment",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Balloon-expandable valveとSelf-expanding valveの代表的な製品名の組み合わせとして正しいものはどれか？",
+    "choices": [
+      "Medtronic Sapien系とEdwards Evolut系",
+      "Edwards Sapien系とMedtronic Evolut系",
+      "Boston Scientific SapienとAbbott Evolut",
+      "Edwards EvolutとMedtronic Sapien"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Balloon-expandable valveの代表がEdwards Sapien系、Self-expanding valveの代表がMedtronic Evolut系である。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "device"
+    ]
+  },
+  {
+    "id": "Q-083",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-107"
+    ],
+    "category": "Valve Deployment",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "弁のDeployは一回押して終わりの単純な操作であり、Deploy中の位置微調整は基本的に行わない。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Deploy中も術者は継続的に位置を微調整しており、単純な一回の操作という理解は誤り。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-084",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-126"
+    ],
+    "category": "Valve Deployment",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "弁が入った時点でTAVI手技はほぼ完了したと考えてよい。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "弁が入った直後は『少しホッとする雰囲気』が生じるが、術者はまだ全く終わっておらず、Echo・Angio・PVL・Gradient・Access closureなど一連の術後評価が必要である。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-085",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-230"
+    ],
+    "category": "Valve Deployment",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "Recaptureとは、一度展開しかけた弁を再びデリバリーシステム内に収納し位置をやり直す操作であり、Self-expanding valveならではの特徴である。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Balloon-expandableでは基本的にできない操作で、Self-expandingならではの特徴である。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "recapture"
+    ]
+  },
+  {
+    "id": "Q-086",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-132"
+    ],
+    "category": "Valve Deployment",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "Sapienで理想とされる植込み比率の目安は大動脈側80%・LV側20%とされる（施設差あり）。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "この比率は80/20 deploymentと呼ばれる（施設差あり）。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "numbers"
+    ]
+  },
+  {
+    "id": "Q-087",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-118"
+    ],
+    "category": "Valve Deployment",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "初心者が緊張して一気にinflateしてしまう傾向に対し、演者が述べた教育的な助言は「（　）」という表現である。",
+    "choices": null,
+    "correct_answer": "please restrain yourself",
+    "accepted_answers": [
+      "please restrain yourself",
+      "自分を抑えてください",
+      "restrain yourself",
+      "Please restrain yourself"
+    ],
+    "explanation": "心臓外科AVRの縫合糸締めにも通じる『焦ると位置がずれる』という発想。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "technique"
+    ]
+  },
+  {
+    "id": "Q-088",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-115"
+    ],
+    "category": "Valve Deployment",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "Deploy直前に『Three cusp view』（RCC・LCC・NCCが同時に見える透視角度）を用いる目的は、人工弁が高すぎるか低すぎるかを術者が（　）しやすくするためである。",
+    "choices": null,
+    "correct_answer": "判断",
+    "accepted_answers": [
+      "判断",
+      "判別",
+      "評価",
+      "確認"
+    ],
+    "explanation": "3尖が同時にきれいに見える角度で展開することで、植込み高さが高すぎる・低すぎるを判断しやすくなる。",
+    "clinical_pearl": null,
+    "tags": [
+      "valve_deployment",
+      "imaging"
+    ]
+  },
+  {
+    "id": "Q-089",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-135",
+      "TAVI-136"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "術者が術前にAo-LV圧較差を必ず測定する目的として適切なものはどれか？",
+    "choices": [
+      "麻酔導入のタイミングを決めるため",
+      "シースサイズを決定するため",
+      "ASの重症度を実測評価し、Predilatationを行うか判断する材料にするため",
+      "ペースメーカーの適応を判断するため"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "特にself-expanding valveでこの判断材料が重要になる。術者は『必ず測定する』と述べている。",
+    "clinical_pearl": null,
+    "tags": [
+      "predilatation",
+      "gradient"
+    ]
+  },
+  {
+    "id": "Q-090",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-137"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "術者は術後評価で、圧較差とPVL/ARのどちらをより重視すると述べているか？",
+    "choices": [
+      "圧較差",
+      "両者は同等に扱われ優先順位はない",
+      "どちらも重視しない",
+      "PVL/AR"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "『実は術前Gradientより、術後のPVL/ARの方が臨床的に重要』という発言がある。Gradientの改善のみを成功の指標と考えるのは誤り。",
+    "clinical_pearl": null,
+    "tags": [
+      "postdilatation",
+      "pvl"
+    ]
+  },
+  {
+    "id": "Q-091",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-139"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Self-expanding valveの方がBalloon-expandable valveよりPostdilatationの実施頻度が多い理由は何か？",
+    "choices": [
+      "ニチノールは石灰化が強いと完全に開かないことがあるため",
+      "Self-expanding valveは常に小さめに設計されているため",
+      "Balloon-expandable valveは拡張機能を持たないため",
+      "Self-expanding valveは造影剤に反応するため"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "ニチノールは石灰化が強いと完全に開かないことがあるためPostdilatationがより多く必要になる。Sapienは最初のバルーンで十分拡張していることが多い。",
+    "clinical_pearl": null,
+    "tags": [
+      "postdilatation",
+      "valve_type"
+    ]
+  },
+  {
+    "id": "Q-092",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-141",
+      "TAVI-142"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Self-expanding valveがすでに高植込みされた状態でPostdilatationを行うとどうなるか？",
+    "choices": [
+      "弁が自動的に低植込み方向へ補正される",
+      "Foreshorteningが起こり弁全体が大動脈側へ引き上げられ、embolizationリスクが増加する",
+      "特にリスクの変化はない",
+      "PVLが完全に消失する"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Foreshortening（弁の軸方向短縮）によりembolizationのリスクが増加する。",
+    "clinical_pearl": null,
+    "tags": [
+      "postdilatation",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-093",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-143",
+      "TAVI-144"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Hazardous annular anatomyの症例でPostdilatationを行うべきでない理由は何か？",
+    "choices": [
+      "Postdilatationは全ての症例で禁忌とされているため",
+      "バルーンが入らない解剖だから",
+      "わずかなGradient改善の利益より、annular rupture等のリスクの方がはるかに大きいため",
+      "保険適応外であるため"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "わずかなGradient改善（例：5→3mmHg）よりも、annular rupture・annular injury・valve migrationのリスクの方がはるかに大きい（massively outweighed）。",
+    "clinical_pearl": null,
+    "tags": [
+      "postdilatation",
+      "hazardous_anatomy",
+      "common_mistake"
+    ]
+  },
+  {
+    "id": "Q-094",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-146",
+      "TAVI-147"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Sapienにおける過去と現在のPredilatation実施率の変化として正しいものはどれか？",
+    "choices": [
+      "約80%から約20%へ減少した",
+      "一貫して約50%で変化していない",
+      "現在はほぼ100%で実施される",
+      "約5〜10%から約40〜50%へ増加した"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "『Direct TAVI（predilatationなしでの直接留置）』の考え方が主流だった時代から、大きくトレンドが変化した。",
+    "clinical_pearl": null,
+    "tags": [
+      "predilatation",
+      "trend",
+      "numbers"
+    ]
+  },
+  {
+    "id": "Q-095",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-148"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "近年Predilatationを積極的に行う理由として挙げられている、PCIから借用された概念は何か？",
+    "choices": [
+      "Lesion preparation（病変の準備）",
+      "Direct stenting",
+      "Primary PCI",
+      "Rotablation"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "石灰化した弁を先にBAVで少し開いておくことで弁が入りやすく、同軸性が良く、デプロイしやすくなる。",
+    "clinical_pearl": "PCIのDirect stenting→lesion preparationへのトレンド変化との類推は印象的な教育ポイント。",
+    "tags": [
+      "predilatation",
+      "lesion_preparation"
+    ]
+  },
+  {
+    "id": "Q-096",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-151",
+      "TAVI-152"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "術者は、PredilatationとPostdilatationのどちらがより安全だと考えており、その理由は何か？",
+    "choices": [
+      "Postdilatationの方が安全。弁が固定されているため",
+      "Predilatationの方が安全。Postdilatationはすでに弁が入った状態で拡張するため弁の移動やembolizationのリスクが伴うため",
+      "両者は同等のリスクである",
+      "Predilatationは常に禁忌である"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "『I personally think predilating is safer than postdilating』という発言があり、Postdilatationは弁の移動・embolization・PVL悪化・annular injury・strokeなどのリスクを伴う。",
+    "clinical_pearl": null,
+    "tags": [
+      "predilatation",
+      "postdilatation"
+    ]
+  },
+  {
+    "id": "Q-097",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-153",
+      "TAVI-154"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Predilatationを行う前に確認すべき最重要事項とその理由は何か？",
+    "choices": [
+      "シースが正しいサイズであること。出血を防ぐため",
+      "患者が完全に覚醒していること。疼痛評価のため",
+      "人工弁がすぐ植え込める状態になっていること。BAV後に急性重症ARが誘発されうるため",
+      "造影剤の総投与量。腎機能保護のため"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "この講演における最重要学習ポイントであり、弁の準備が遅れるとBAV後の急性ARで危険な状態になりうる。",
+    "clinical_pearl": null,
+    "tags": [
+      "predilatation",
+      "key_learning_point"
+    ]
+  },
+  {
+    "id": "Q-098",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-155"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Predilatation後の急性重症ARが特に危険となる患者背景は何か？",
+    "choices": [
+      "左室が拡大した患者",
+      "高齢者全般",
+      "肥満患者",
+      "左室が小さい患者"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "急性ARだけで急速な血圧低下・ショックに至りうるため、左室が小さい患者では特に注意が必要。",
+    "clinical_pearl": null,
+    "tags": [
+      "predilatation",
+      "risk_factor"
+    ]
+  },
+  {
+    "id": "Q-099",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-140"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Postdilatationに用いるバルーンサイズは術前CTで測定したannulus径を基準に決定される。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "適当に選ばない、という点が強調されている。",
+    "clinical_pearl": null,
+    "tags": [
+      "postdilatation",
+      "sizing"
+    ]
+  },
+  {
+    "id": "Q-100",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-150"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "Self-expanding valveは以前からPredilatationを行う頻度が少ない。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Self-expanding valveは以前からPredilatationを行う頻度が多い。",
+    "clinical_pearl": null,
+    "tags": [
+      "predilatation",
+      "valve_type"
+    ]
+  },
+  {
+    "id": "Q-101",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-157"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "Sapienでpostdilatationが少ないのは、最初のバルーンで十分拡張していることが多いためである。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Sapienは最初のバルーンで十分拡張していることが多く、Postdilatationは比較的少ない。",
+    "clinical_pearl": null,
+    "tags": [
+      "postdilatation",
+      "valve_type"
+    ]
+  },
+  {
+    "id": "Q-102",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-145"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Postdilatationの重大合併症として、annular ruptureと並んで挙げられるものは（　）である。",
+    "choices": null,
+    "correct_answer": "valve migration",
+    "accepted_answers": [
+      "valve migration",
+      "弁の移動",
+      "バルブマイグレーション",
+      "Valve migration"
+    ],
+    "explanation": "Postdilatationの重大合併症はannular ruptureとvalve migrationである。",
+    "clinical_pearl": null,
+    "tags": [
+      "postdilatation",
+      "complication"
+    ]
+  },
+  {
+    "id": "Q-103",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-138",
+      "TAVI-231"
+    ],
+    "category": "Predilatation/Postdilatation",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Postdilatationの適応判断材料は、PVL・残存Gradient・（　）（弁の開き不十分）の3つである。",
+    "choices": null,
+    "correct_answer": "Underexpansion",
+    "accepted_answers": [
+      "Underexpansion",
+      "underexpansion",
+      "アンダーエクスパンション"
+    ],
+    "explanation": "PVL・残存Gradient・Underexpansion（弁の開き不十分）がPostdilatationの適応判断材料である。",
+    "clinical_pearl": null,
+    "tags": [
+      "postdilatation",
+      "indication"
+    ]
+  },
+  {
+    "id": "Q-104",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-159",
+      "TAVI-160"
+    ],
+    "category": "Complications",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "TAVI中にComplete AV blockが突然発生した場合、まず絶対にしてはいけないことと、正しい初動対応は何か？",
+    "choices": [
+      "カテーテルを慌てて抜くことはせず、既存のLVワイヤー/カテーテルでその場でペーシング回路を接続する",
+      "直ちに全てのデバイスを抜去し胸骨圧迫を開始する",
+      "血圧を確認するまで何もしない",
+      "直ちに手技を中止し外科医を呼ぶ"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "すでに左室内にあるカテーテルやワイヤーを利用してその場でペーシングできるため、慌ててデバイスを抜くと緊急ペーシングの手段を失う。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "av_block",
+      "algorithm"
+    ]
+  },
+  {
+    "id": "Q-105",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-161"
+    ],
+    "category": "Complications",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "TAVIで最も致命的とされる『Immediate devastating complication』に含まれないものはどれか？",
+    "choices": [
+      "Coronary obstruction",
+      "軽度のGradient残存",
+      "Cardiac tamponade",
+      "Aortic rupture"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Immediate devastating complicationにはCoronary obstruction、Cardiac tamponade、Valve embolization、Aortic ruptureが含まれる。軽度のGradient残存は致命的合併症には含まれない。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "devastating"
+    ]
+  },
+  {
+    "id": "Q-106",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-168"
+    ],
+    "category": "Complications",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Balloon-expandable valve展開時、バルーンが左室側に寄った状態でinflateすると生じる合併症は何か？",
+    "choices": [
+      "高植込み（too high）",
+      "冠動脈閉塞",
+      "低植込み（too low）",
+      "僧帽弁損傷"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "バルーンが左室側に寄った状態でinflateするとバルーンがさらに左室へ落ち込み低植込みになる。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "valve_deployment"
+    ]
+  },
+  {
+    "id": "Q-107",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-169"
+    ],
+    "category": "Complications",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Self-expanding valve展開時にワイヤーテンションが残った状態で生じる合併症は何か？",
+    "choices": [
+      "Valve embolization（左室側への落下）",
+      "AV block",
+      "後腹膜出血",
+      "Valve pop out（大動脈側への飛び出し）"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "デリバリーシステムやワイヤーが押している状態だと、弁が大動脈側へ飛び出す（pop out）リスクがある。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "valve_deployment"
+    ]
+  },
+  {
+    "id": "Q-108",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-171"
+    ],
+    "category": "Complications",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "TAVIで最も恐れられる致命的合併症の一つである冠動脈閉塞は、何によって確認・否定するか？",
+    "choices": [
+      "造影でLCA/RCAの血流を確認する",
+      "心電図のST変化のみで判断する",
+      "患者の胸痛の有無のみで判断する",
+      "血圧の変化のみで判断する"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "術後評価で造影を用いて左右冠動脈の血流を確認し、coronary obstructionを否定する。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "coronary",
+      "imaging"
+    ]
+  },
+  {
+    "id": "Q-109",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-174"
+    ],
+    "category": "Complications",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "糸を締める際に対側血管壁を巻き込んでしまう現象を何と呼び、どのような合併症を起こすか？",
+    "choices": [
+      "Footplate injury。出血の原因となる",
+      "ProGlide pinch。狭窄・閉塞・下肢虚血の原因となる",
+      "Wire kink。不整脈の原因となる",
+      "Balloon rupture。塞栓の原因となる"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "過度で急速なテンションで糸を締めると生じ、狭窄・閉塞・下肢虚血の原因となる。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "proglide"
+    ]
+  },
+  {
+    "id": "Q-110",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-177",
+      "TAVI-181"
+    ],
+    "category": "Complications",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "アクセス部合併症発生時のバックアッププランの根本にある考え方は何か？",
+    "choices": [
+      "常に外科医をスタンバイさせておくこと",
+      "合併症が起きたら直ちに手技を中止すること",
+      "Guidewireを最後まで残しておき『逃げ道』を確保しておくこと",
+      "合併症は予測不可能なので特別な準備はしないこと"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Guidewireを最後まで残しておくことで、バルーンタンポナーデやcovered stentなどのリカバリー手段を確保できる。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "backup_plan"
+    ]
+  },
+  {
+    "id": "Q-111",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-179",
+      "TAVI-180"
+    ],
+    "category": "Complications",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "高植込みされたSelf-expanding valveでPostdilatationを行うと生じうる合併症、および危険な弁輪解剖でPostdilatationを行った場合の重大合併症の組み合わせとして正しいものはどれか？",
+    "choices": [
+      "前者はAV block、後者は冠動脈閉塞",
+      "前者は後腹膜出血、後者は心タンポナーデ",
+      "前者もPVL悪化のみで重大な合併症はない",
+      "前者はvalve embolization（foreshortening）、後者はannular ruptureやvalve migration"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "高植込み後のPostdilatationはforeshorteningによるembolization、危険な弁輪解剖でのPostdilatationはannular ruptureやvalve migrationのリスクを伴う。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "postdilatation"
+    ]
+  },
+  {
+    "id": "Q-112",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-181"
+    ],
+    "category": "Complications",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "合併症発生時に術者が一貫して意識している思考プロセスとして適切なものはどれか？",
+    "choices": [
+      "『もし失敗したら次にどうするか』を常に考えながらバックアッププランを階層化する",
+      "単一の対応策のみを想定し迅速に実行する",
+      "合併症が起きるまでは対応策を考えない",
+      "上級医への報告のみを優先する"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "単一の対応策のみを想定し次善策を用意しないのは誤り。常に次のプランを考えながら手技を進める。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "mindset"
+    ]
+  },
+  {
+    "id": "Q-113",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-165"
+    ],
+    "category": "Complications",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "ワイヤーが僧帽弁装置に絡むと、MR悪化や腱索損傷が起こりうる。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "ワイヤーが僧帽弁の腱索・乳頭筋・弁尖に絡むことでMR悪化や腱索損傷が起こりうる。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "mitral"
+    ]
+  },
+  {
+    "id": "Q-114",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-166"
+    ],
+    "category": "Complications",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "ワイヤーによる心内膜刺激で誘発される不整脈にはPVCやVTが含まれる。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Safari wireなどによる心内膜刺激でPVC（心室性期外収縮）やVT（心室頻拍）が誘発されうる。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "arrhythmia"
+    ]
+  },
+  {
+    "id": "Q-115",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-262"
+    ],
+    "category": "Complications",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "人工弁が入った状態でのバルーン拡張（Postdilatation）は塞栓性合併症であるstrokeのリスクを高めうる。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "人工弁が入った状態でのバルーン拡張は塞栓性合併症のリスクを高めるため、strokeもPostdilatationのリスクとして挙げられる。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "postdilatation"
+    ]
+  },
+  {
+    "id": "Q-116",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-172"
+    ],
+    "category": "Complications",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "穿孔などによる心嚢液貯留を（　）と呼ぶ。",
+    "choices": null,
+    "correct_answer": "Cardiac tamponade",
+    "accepted_answers": [
+      "Cardiac tamponade",
+      "心タンポナーデ",
+      "cardiac tamponade",
+      "Cardiac Tamponade"
+    ],
+    "explanation": "穿孔などにより心嚢液が貯留する状態を心タンポナーデと呼ぶ。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "tamponade"
+    ]
+  },
+  {
+    "id": "Q-117",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-170"
+    ],
+    "category": "Complications",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "TAVI後評価で最も重視される、人工弁と自己弁輪の間からの逆流を（　）と呼ぶ。",
+    "choices": null,
+    "correct_answer": "Paravalvular leak",
+    "accepted_answers": [
+      "Paravalvular leak",
+      "PVL",
+      "paravalvular leak",
+      "Paravalvular Leak"
+    ],
+    "explanation": "PVL（Paravalvular leak）は術後評価で最も重視される項目の一つ。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "pvl"
+    ]
+  },
+  {
+    "id": "Q-118",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-176"
+    ],
+    "category": "Complications",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "穿刺・デバイス操作による血管損傷で、造影上『内膜がめくれる』像として現れる合併症を（　）と呼ぶ。",
+    "choices": null,
+    "correct_answer": "dissection",
+    "accepted_answers": [
+      "dissection",
+      "解離",
+      "大腿動脈解離",
+      "Dissection"
+    ],
+    "explanation": "内膜がめくれる像として造影上現れる血管合併症を解離（dissection）と呼ぶ。",
+    "clinical_pearl": null,
+    "tags": [
+      "complications",
+      "access"
+    ]
+  },
+  {
+    "id": "Q-119",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-182",
+      "TAVI-183"
+    ],
+    "category": "Imaging",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "術者はTAVI後評価で最低何種類のモダリティを組み合わせるべきとし、それらは何か？",
+    "choices": [
+      "必ず1種類のみ：Echoに限定",
+      "少なくとも2種類（できれば3種類）：Hemodynamics・Echo・Angio",
+      "少なくとも4種類：Hemodynamics・Echo・Angio・MRI",
+      "評価法は特に規定されていない"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "複数のモダリティを組み合わせて評価する姿勢が『弁を入れたら終わりではない』という術者の考え方を反映している。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "assessment"
+    ]
+  },
+  {
+    "id": "Q-120",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-184"
+    ],
+    "category": "Imaging",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Hemodynamics評価で測定するものは何か？",
+    "choices": [
+      "心エコーでの左室駆出率",
+      "造影剤の排泄速度",
+      "カテーテルで実測するAo-LV圧較差",
+      "心電図のQT時間"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Hemodynamics評価ではカテーテルで実測するAo-LV圧較差を測定する。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "hemodynamics"
+    ]
+  },
+  {
+    "id": "Q-121",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-185"
+    ],
+    "category": "Imaging",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Echoで評価する項目に含まれないものはどれか？",
+    "choices": [
+      "Gradient",
+      "PVL",
+      "AR",
+      "冠動脈起始高（Coronary height）"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Echoで評価する項目はGradient・PVL・AR・Pericardial effusionである。Coronary heightは主に術前CT評価の項目である。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "echo"
+    ]
+  },
+  {
+    "id": "Q-122",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-186"
+    ],
+    "category": "Imaging",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Angioで評価する項目として適切なものはどれか？",
+    "choices": [
+      "Coronary patency・Valve position・AR",
+      "Gradient・PVL・Pericardial effusion",
+      "心拍出量・血圧・心拍数",
+      "RCC・LCC・NCCの石灰化程度のみ"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "AngioではCoronary patency（冠動脈開存）、Valve position、ARを評価する。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "angio"
+    ]
+  },
+  {
+    "id": "Q-123",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-187"
+    ],
+    "category": "Imaging",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Fluoroのみに頼った位置判断の落とし穴を示す典型例は何か？",
+    "choices": [
+      "Fluoroで造影剤アレルギーを見逃した症例",
+      "Safari wireがFluoro上は心尖部に見えたが実際は左室基部の側壁に当たっていた症例",
+      "Fluoroで弁のサイズを誤認した症例",
+      "Fluoroで冠動脈の走行を誤認した症例"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "この典型例のため、Fluoro所見のみで満足せずEchoでの確認も必要である。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "safari_wire"
+    ]
+  },
+  {
+    "id": "Q-124",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-188"
+    ],
+    "category": "Imaging",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "最終的なアクセス部評価に用いる画像評価法は何か？",
+    "choices": [
+      "MRI",
+      "CT",
+      "DSA（digital subtraction angiography）",
+      "核医学検査"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "デジタルサブトラクション血管造影（DSA）を用いて最終的なアクセス部評価を行う。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "access"
+    ]
+  },
+  {
+    "id": "Q-125",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-189"
+    ],
+    "category": "Imaging",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "術後のMean gradientが、良好とされる目安の10mmHgを大きく上回って残存していた場合、術者はまず何を考慮すべきか。",
+    "choices": [
+      "PVLやGradient以外の項目は今後一切確認しなくてよいと判断する",
+      "麻酔科医の判断のみに委ね、循環器医としての追加評価は行わない",
+      "Gradientは参考値に過ぎないとみなし、そのまま手技を終了する",
+      "Underexpansion（弁の開き不十分）や弁のサイズミスマッチなどの可能性を考慮し、Postdilatationなど追加対応を検討する"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "良好な結果の目安は<10mmHgとされ、これを大きく上回って残存する場合はUnderexpansionや弁とannulusのサイズミスマッチなどの可能性を考慮し、Postdilatationなど追加対応の要否を検討する必要がある。単一の数値だけで機械的に『問題なし』と判断するのは危険である。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "gradient",
+      "interpretation"
+    ]
+  },
+  {
+    "id": "Q-126",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-192"
+    ],
+    "category": "Imaging",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "『弁を入れたら終わりではない』という術者の姿勢は、複数の画像・血行動態評価を組み合わせて成功を証明する考え方に反映されている。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "複数の画像・血行動態評価を組み合わせて『成功』を証明する姿勢が反映されている。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "assessment"
+    ]
+  },
+  {
+    "id": "Q-127",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-275"
+    ],
+    "category": "Imaging",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "TEEは経胸壁心エコー、TTEは経食道心エコーの略である。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "実際にはTEEは経食道心エコー（transesophageal echocardiography）、TTEは経胸壁心エコー（transthoracic echocardiography）の略であり、記述が逆になっている。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "terminology"
+    ]
+  },
+  {
+    "id": "Q-128",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-263"
+    ],
+    "category": "Imaging",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "造影でCoronary fillingを確認する際は、左右両方の（　）を評価する。",
+    "choices": null,
+    "correct_answer": "冠動脈",
+    "accepted_answers": [
+      "冠動脈",
+      "LCAとRCA",
+      "冠動脈(LCA・RCA)",
+      "LCA・RCA"
+    ],
+    "explanation": "左右両方（LCA・RCA）の冠動脈の血流を確認する。",
+    "clinical_pearl": null,
+    "tags": [
+      "imaging",
+      "coronary"
+    ]
+  },
+  {
+    "id": "Q-129",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-194"
+    ],
+    "category": "Anatomy",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "刺激伝導系（His束・脚枝）はどこに位置し、深植込みでどのようなリスクが増えるか？",
+    "choices": [
+      "弁輪よりLVOT側に位置し、深植込みでAV blockやペースメーカーのリスクが増える",
+      "弁輪よりも大動脈側に位置し、深植込みでは影響を受けない",
+      "僧帽弁輪に位置し、深植込みで僧帽弁逆流が増える",
+      "冠動脈起始部に位置し、深植込みで冠動脈閉塞のみが問題になる"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "刺激伝導系は膜様中隔付近、すなわち弁輪よりもLVOT側に位置し、人工弁が深く入りすぎるとHis束を圧迫するリスクが増える。刺激伝導系が『弁輪の直下』にあるという誤解に注意。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "conduction_system"
+    ]
+  },
+  {
+    "id": "Q-130",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-196"
+    ],
+    "category": "Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "僧帽弁装置（mitral apparatus）を構成する3つの構造物として正しい組み合わせはどれか？",
+    "choices": [
+      "弁輪・交連・弁尖",
+      "腱索・乳頭筋・弁尖",
+      "腱索・弁輪・冠動脈起始",
+      "乳頭筋・弁輪・STJ"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "僧帽弁装置は腱索（chordae）・乳頭筋（papillary muscle）・弁尖から構成される。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "mitral"
+    ]
+  },
+  {
+    "id": "Q-131",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-198"
+    ],
+    "category": "Anatomy",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "低位穿刺で損傷しやすい血管として正しい組み合わせはどれか？",
+    "choices": [
+      "CFAとAorta",
+      "腸骨動脈と腎動脈",
+      "SFA（浅大腿動脈）とProfunda（大腿深動脈）",
+      "上腕動脈と橈骨動脈"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "CFA分岐部より末梢での穿刺はSFAやprofundaの穿刺・分岐部損傷リスクを高める。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "access"
+    ]
+  },
+  {
+    "id": "Q-132",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-199"
+    ],
+    "category": "Anatomy",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "植込み高さ決定のためにCTで評価する指標として適切でないものはどれか？",
+    "choices": [
+      "Coronary height",
+      "Sinus of Valsalva",
+      "STJ",
+      "僧帽弁輪径"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "植込み高さ決定にはCoronary height、Sinus of Valsalva、STJを評価する。僧帽弁輪径は植込み高さの直接的な決定指標ではない。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "ct"
+    ]
+  },
+  {
+    "id": "Q-133",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-200"
+    ],
+    "category": "Anatomy",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "人工弁サイズ選択・Postdilatationバルーンサイズ決定の基準となる解剖構造は何か？",
+    "choices": [
+      "Annulus（弁輪）",
+      "STJ",
+      "Sinus of Valsalva",
+      "LVOT"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Annulus（弁輪）径が人工弁サイズやPostdilatationバルーンサイズ決定の基準となる。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "sizing"
+    ]
+  },
+  {
+    "id": "Q-134",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-201"
+    ],
+    "category": "Anatomy",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "石灰化した弁尖の中央ではなく、ワイヤー通過の狙い目となる弁の構造は何か？",
+    "choices": [
+      "STJ",
+      "Commissure（交連）",
+      "弁輪最下点",
+      "腱索付着部"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "交連部は弁尖と弁尖の間であり、石灰化した弁尖の中央よりワイヤーが通過しやすい。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "valve_crossing"
+    ]
+  },
+  {
+    "id": "Q-135",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-269",
+      "TAVI-270",
+      "TAVI-271"
+    ],
+    "category": "Anatomy",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "大動脈弁の3尖と冠動脈起始の対応として正しいものはどれか？",
+    "choices": [
+      "RCC＝左冠動脈、LCC＝右冠動脈、NCC＝両方対応",
+      "RCC・LCC・NCC全て冠動脈起始を伴う",
+      "RCC＝右冠動脈、LCC＝左冠動脈、NCC＝冠動脈起始なし",
+      "RCCのみ冠動脈起始を伴わない"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "RCC（右冠尖）は右冠動脈、LCC（左冠尖）は左冠動脈の起始と対応し、NCC（無冠尖）は冠動脈起始を伴わない。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "cusps"
+    ]
+  },
+  {
+    "id": "Q-136",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-193",
+      "TAVI-055"
+    ],
+    "category": "Anatomy",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "大動脈弁の3尖はRCC・LCC・NCCと呼ばれる。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Right coronary cusp（RCC）、Left coronary cusp（LCC）、Non-coronary cusp（NCC）の3尖から構成される。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "cusps"
+    ]
+  },
+  {
+    "id": "Q-137",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-244"
+    ],
+    "category": "Anatomy",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "STJ（sinotubular junction）とは、大動脈洞と上行大動脈の境界部を指す。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "CT評価で植込み高さ決定に用いられる指標の一つである。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "ct"
+    ]
+  },
+  {
+    "id": "Q-138",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-243"
+    ],
+    "category": "Anatomy",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "LVOTとは（　）の略で、日本語では左室流出路と訳される。",
+    "choices": null,
+    "correct_answer": "Left ventricular outflow tract",
+    "accepted_answers": [
+      "Left ventricular outflow tract",
+      "left ventricular outflow tract",
+      "左室流出路",
+      "LVOT"
+    ],
+    "explanation": "LVOT（Left ventricular outflow tract、左室流出路）は刺激伝導系の位置に関連する重要な構造である。",
+    "clinical_pearl": null,
+    "tags": [
+      "anatomy",
+      "terminology"
+    ]
+  },
+  {
+    "id": "Q-139",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-202"
+    ],
+    "category": "Post-procedure Assessment",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "術者が重視するTAVI成功の3つのGoalとして正しい組み合わせはどれか？",
+    "choices": [
+      "①手技時間が短いこと②出血がないこと③患者満足度が高いこと",
+      "①放射線被曝が少ないこと②造影剤量が少ないこと③入院期間が短いこと",
+      "①弁のサイズが正しいこと②穿刺が1回で成功すること③ペースメーカーが不要なこと",
+      "①devastating complicationがないこと②PVLが許容範囲であること③Gradientが十分低いこと"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "この3つのGoalが術者の重視するTAVI成功の指標である。",
+    "clinical_pearl": null,
+    "tags": [
+      "post_procedure",
+      "goals"
+    ]
+  },
+  {
+    "id": "Q-140",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-203"
+    ],
+    "category": "Post-procedure Assessment",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "術後評価で確認するImplantation depth（植込み深さ）とは何を測定するものか？",
+    "choices": [
+      "弁輪から人工弁がどれだけLV側に入っているかの深さ",
+      "大動脈弁から冠動脈起始までの距離",
+      "シースの挿入深度",
+      "心尖部から弁輪までの距離"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Implantation depthは弁輪から人工弁がどれだけLV側に入っているかを測定する。",
+    "clinical_pearl": null,
+    "tags": [
+      "post_procedure",
+      "depth"
+    ]
+  },
+  {
+    "id": "Q-141",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-205"
+    ],
+    "category": "Post-procedure Assessment",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "術後評価でCoronary fillingを確認する目的は何か？",
+    "choices": [
+      "PVLの重症度を評価するため",
+      "左右冠動脈の血流が保たれているか（冠動脈閉塞がないか）を確認するため",
+      "伝導障害の有無を評価するため",
+      "穿刺部の止血状態を確認するため"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Coronary fillingの確認は冠動脈閉塞の否定を目的とする。",
+    "clinical_pearl": null,
+    "tags": [
+      "post_procedure",
+      "coronary"
+    ]
+  },
+  {
+    "id": "Q-142",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-206"
+    ],
+    "category": "Post-procedure Assessment",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "術後評価の順序として一般的な流れの一例はどれか（施設差ありという前提で）？",
+    "choices": [
+      "Angio→Hemodynamics→Echo",
+      "Hemodynamics→Echo→Angio（この順序が唯一絶対）",
+      "Echo→Angio→Hemodynamics",
+      "評価順序に一切の傾向はない"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "施設によって順序は異なりうるが、一例としてEcho→Angio→Hemodynamicsの流れが挙げられている。",
+    "clinical_pearl": "実際の見学でこの順序がどうなっているか観察する。",
+    "tags": [
+      "post_procedure",
+      "assessment_order"
+    ]
+  },
+  {
+    "id": "Q-143",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-207"
+    ],
+    "category": "Post-procedure Assessment",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "術者が『Gradient改善』より重視すると明言した評価項目はどれか？",
+    "choices": [
+      "心拍出量とBP",
+      "穿刺部の止血状態",
+      "放射線被曝量",
+      "PVLとAR"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "PVL（Paravalvular leak）とAR（Aortic regurgitation）がGradient改善よりも重視される。",
+    "clinical_pearl": null,
+    "tags": [
+      "post_procedure",
+      "pvl"
+    ]
+  },
+  {
+    "id": "Q-144",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-208"
+    ],
+    "category": "Post-procedure Assessment",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "『弁を入れたら終わりではない』という考え方を象徴する術後評価に対する術者の姿勢はどれか？",
+    "choices": [
+      "複数のモダリティを組み合わせて『成功』を証明する姿勢",
+      "1つのモダリティのみで迅速に判定する姿勢",
+      "評価は翌日の回診で行えばよいという姿勢",
+      "評価はルーチンでは不要という姿勢"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "複数のモダリティを組み合わせて成功を証明する姿勢がこの考え方を象徴している。",
+    "clinical_pearl": null,
+    "tags": [
+      "post_procedure",
+      "assessment"
+    ]
+  },
+  {
+    "id": "Q-145",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-273"
+    ],
+    "category": "Post-procedure Assessment",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "術後評価は、Hemodynamics/Echo/Angioのうち少なくとも2種類あれば評価可能だが、できれば3種類の組み合わせが推奨される。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "少なくとも2種類あれば評価可能だが、できれば3種類を組み合わせることが推奨される。",
+    "clinical_pearl": null,
+    "tags": [
+      "post_procedure",
+      "modality"
+    ]
+  },
+  {
+    "id": "Q-146",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TAVI-245",
+      "TAVI-231"
+    ],
+    "category": "Post-procedure Assessment",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "術後評価で『弁が十分開いているか』を確認する項目は（　）と呼ばれる。",
+    "choices": null,
+    "correct_answer": "Underexpansion",
+    "accepted_answers": [
+      "Underexpansion",
+      "underexpansion",
+      "アンダーエクスパンション"
+    ],
+    "explanation": "弁の開き不十分を示す項目としてUnderexpansionが挙げられる。",
+    "clinical_pearl": null,
+    "tags": [
+      "post_procedure",
+      "underexpansion"
+    ]
+  },
+  {
+    "id": "Q-147",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-246"
+    ],
+    "category": "Observation Prep",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "ProGlideのSingle/Double使用方針について見学中に聞くべき質問として最も自然なものはどれか？",
+    "choices": [
+      "\"What brand of gloves do you use?\"",
+      "\"Do you routinely use one or two ProGlides for transfemoral TAVR, and what makes you choose one strategy over the other?\"",
+      "\"How many years have you been a physician?\"",
+      "\"What is your favorite type of suture material for skin closure?\""
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "術者の判断基準を引き出すのに有効な、動画内容を理解した上での自然な質問例。",
+    "clinical_pearl": "見学中は術者の判断基準・方針の背景を引き出す質問を準備しておくとよい。",
+    "tags": [
+      "observation_prep",
+      "proglide"
+    ]
+  },
+  {
+    "id": "Q-148",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-249"
+    ],
+    "category": "Observation Prep",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "弁通過の方法について見学中に聞くべき自然な質問として適切なものはどれか？",
+    "choices": [
+      "\"What is the hospital's cafeteria menu today?\"",
+      "\"How long is your commute to work?\"",
+      "\"Do you routinely cross the valve with a Safari wire, or do you prefer exchanging over a pigtail?\"",
+      "\"What model of fluoroscopy unit is this?\""
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "術者のワイヤー交換戦略（直接Safari派か二段階交換派か）を引き出す質問。",
+    "clinical_pearl": null,
+    "tags": [
+      "observation_prep",
+      "safari_wire"
+    ]
+  },
+  {
+    "id": "Q-149",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TAVI-283"
+    ],
+    "category": "Observation Prep",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "施設・術者ごとに流儀が異なりうるため、見学で比較すべきポイントとして適切でないものはどれか？",
+    "choices": [
+      "Single/Double ProGlideの選択",
+      "弁通過に使うカテーテル",
+      "Predilatation/Postdilatationの適応",
+      "患者の血液型"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Single/Double ProGlideの選択、弁通過に使うカテーテル、Predilatation/Postdilatationの適応、高植込み戦略、Rapid pacingの方法などは施設・術者差が出やすい比較ポイントだが、患者の血液型は術者の流儀とは無関係。",
+    "clinical_pearl": "複数施設・術者を見学する際は、これらの項目を比較すると学びが深まる。",
+    "tags": [
+      "observation_prep",
+      "comparison"
+    ]
+  },
+  {
+    "id": "Q-150",
+    "type": "true_false",
+    "source_card_ids": [
+      "TAVI-283"
+    ],
+    "category": "Observation Prep",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "1つの施設のやり方を『標準』だと思い込むことは、見学における注意すべき誤りの一つである。",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "施設・術者ごとに流儀が異なるため、1つの施設のやり方を標準だと思い込まないよう注意が必要である。",
+    "clinical_pearl": null,
+    "tags": [
+      "observation_prep",
+      "common_mistake"
+    ]
+  }
+]

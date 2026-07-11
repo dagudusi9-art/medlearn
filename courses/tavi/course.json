@@ -1,0 +1,28 @@
+{
+  "id": "tavi",
+  "title": "TAVI",
+  "shortTitle": "TAVI",
+  "description": "経カテーテル大動脈弁留置術（TAVI）見学準備 — 穿刺からアクセス閉鎖まで",
+  "longDescription": "283枚のAtomic Knowledge Cardと150問のクイズで、TAVI手技の穿刺・ProGlide・弁通過・Safari wire・弁展開・合併症などを反復学習します。",
+  "icon": "🫀",
+  "color": "#3B5FE0",
+  "cardsFile": "atomic_cards.json",
+  "quizFile": "quiz_questions.json",
+  "chapters": [
+    "Vascular Access",
+    "ProGlide",
+    "Valve Crossing",
+    "Safari Wire",
+    "Rapid Pacing",
+    "Predilatation/Postdilatation",
+    "Valve Deployment",
+    "Complications",
+    "Imaging",
+    "Anatomy",
+    "Post-procedure Assessment"
+  ],
+  "bonusChapters": ["Observation Prep"],
+  "passThreshold": 70,
+  "chapterQuizSize": 8,
+  "version": "1.0.0"
+}
