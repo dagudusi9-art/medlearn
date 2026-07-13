@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "CRQ-001",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-001"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What normal length of the colon was stated in the transcript?",
+    "choices": [
+      "About 1–2 feet",
+      "About 3–4 feet",
+      "About 5–6 feet",
+      "About 8–10 feet"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The colon is about 5–6 feet long, with the rectum accounting for approximately 15 cm. (Transcript: Part 1 1:47-2:05)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 1:47-2:05"
+    ],
+    "transcript_reference": "Part 1 1:47-2:05"
+  },
+  {
+    "id": "CRQ-002",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-002"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "At what cecal diameter is the cecum considered abnormal?",
+    "choices": [
+      "Greater than 6 cm",
+      "Greater than 8 cm",
+      "Greater than 9 cm",
+      "Greater than 12 cm"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "A cecal diameter greater than 9 cm was described as abnormal. (Transcript: Part 1 1:53-2:05)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 1:53-2:05"
+    ],
+    "transcript_reference": "Part 1 1:53-2:05"
+  },
+  {
+    "id": "CRQ-003",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-003"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Which portions of the colon are retroperitoneal and fixed?",
+    "choices": [
+      "Ascending and descending colon",
+      "Transverse and sigmoid colon",
+      "Cecum and rectum",
+      "Transverse colon and rectum"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The ascending and descending colon are retroperitoneal and fixed. (Transcript: Part 1 2:06-2:19)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 2:06-2:19"
+    ],
+    "transcript_reference": "Part 1 2:06-2:19"
+  },
+  {
+    "id": "CRQ-004",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-004"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What territory is supplied by the right and middle colic arteries?",
+    "choices": [
+      "Ascending colon and proximal two-thirds of the transverse colon",
+      "Descending and sigmoid colon",
+      "Only the distal one-third of the transverse colon",
+      "The entire rectum"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The right and middle colic arteries arise from the SMA and supply the ascending colon and proximal two-thirds of the transverse colon. (Transcript: Part 1 2:30-2:42)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 2:30-2:42"
+    ],
+    "transcript_reference": "Part 1 2:30-2:42"
+  },
+  {
+    "id": "CRQ-005",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-005"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What territory is supplied by the left colic artery?",
+    "choices": [
+      "Cecum and ascending colon",
+      "Proximal two-thirds of the transverse colon",
+      "Distal one-third of the transverse colon and descending colon",
+      "Sigmoid colon and distal rectum"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The left colic artery arises from the IMA and supplies the distal one-third of the transverse colon and the descending colon. (Transcript: Part 1 2:43-2:59)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 2:43-2:59"
+    ],
+    "transcript_reference": "Part 1 2:43-2:59"
+  },
+  {
+    "id": "CRQ-006",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-006"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Which major collateral vessel connects the SMA and IMA along the colon wall?",
+    "choices": [
+      "Marginal artery",
+      "Superior rectal artery",
+      "Internal pudendal artery",
+      "Middle rectal artery"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The marginal artery runs along the colon wall and connects the SMA and IMA circulations. (Transcript: Part 1 3:00-3:17)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 3:00-3:17"
+    ],
+    "transcript_reference": "Part 1 3:00-3:17"
+  },
+  {
+    "id": "CRQ-007",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-007"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Which watershed area corresponds to Griffith's point?",
+    "choices": [
+      "Hepatic flexure",
+      "Splenic flexure",
+      "Rectosigmoid junction",
+      "Anal canal"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "The splenic flexure is the watershed between the SMA and IMA and is known as Griffith's point. (Transcript: Part 1 3:18-3:39)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 3:18-3:39"
+    ],
+    "transcript_reference": "Part 1 3:18-3:39"
+  },
+  {
+    "id": "CRQ-008",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-008"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Which location corresponds to Sudeck's point?",
+    "choices": [
+      "Ileocecal region",
+      "Splenic flexure",
+      "Rectosigmoid junction",
+      "Anal verge"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The rectosigmoid junction is the watershed between the superior and middle rectal arteries and is known as Sudeck's point. (Transcript: Part 1 3:25-3:39)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 3:25-3:39"
+    ],
+    "transcript_reference": "Part 1 3:25-3:39"
+  },
+  {
+    "id": "CRQ-009",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-009"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Where do the superior rectal veins drain?",
+    "choices": [
+      "Systemic circulation through the internal iliac vein",
+      "Portal circulation through the IMV",
+      "Directly into the IVC",
+      "External iliac vein"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "The superior rectal veins drain into the IMV and then into the portal circulation. (Transcript: Part 1 4:04-4:20)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 4:04-4:20"
+    ],
+    "transcript_reference": "Part 1 4:04-4:20"
+  },
+  {
+    "id": "CRQ-010",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-010"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Why should inguinal lymph nodes be checked in low rectal cancer?",
+    "choices": [
+      "Because the superior rectal vein drains systemically",
+      "Because lymphatic drainage mirrors vascular drainage and low lesions may drain toward the systemic side",
+      "Because all rectal cancers metastasize to the groin",
+      "Because the anal canal has no lymphatic drainage"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Lymphatic drainage mirrors vascular drainage, so low rectal lesions may involve inguinal nodes through systemic-side drainage. (Transcript: Part 1 4:10-4:37)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 4:10-4:37"
+    ],
+    "transcript_reference": "Part 1 4:10-4:37"
+  },
+  {
+    "id": "CRQ-011",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-011"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What finding marks the proximal beginning of the rectum?",
+    "choices": [
+      "Appearance of haustra",
+      "Splaying of the teniae coli",
+      "Dentate line",
+      "Anal verge"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "The rectum begins where the teniae coli splay out. (Transcript: Part 1 4:42-5:08)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 4:42-5:08"
+    ],
+    "transcript_reference": "Part 1 4:42-5:08"
+  },
+  {
+    "id": "CRQ-012",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-012"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Where does the anal canal begin proximally?",
+    "choices": [
+      "Dentate line",
+      "Puborectalis sling (anorectal ring)",
+      "Anal verge",
+      "Squamocutaneous junction"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "The anal canal begins at the puborectalis sling, or anorectal ring, and ends at the anal verge. (Transcript: Part 1 5:13-5:23)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 5:13-5:23"
+    ],
+    "transcript_reference": "Part 1 5:13-5:23"
+  },
+  {
+    "id": "CRQ-013",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-013"
+    ],
+    "category": "Colon & Rectal Anatomy",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "How is the anal margin defined?",
+    "choices": [
+      "Two centimeters from the dentate line",
+      "One centimeter from the anal verge",
+      "Five centimeters radially from the squamocutaneous junction",
+      "Ten centimeters from the puborectalis sling"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The anal margin extends 5 cm radially from the squamocutaneous junction. (Transcript: Part 1 5:24-5:35)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 5:24-5:35"
+    ],
+    "transcript_reference": "Part 1 5:24-5:35"
+  },
+  {
+    "id": "CRQ-014",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-014"
+    ],
+    "category": "Anal Fissure",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Where are approximately 90% of anal fissures located?",
+    "choices": [
+      "Anterior midline",
+      "Posterior midline",
+      "Left lateral position",
+      "Right lateral position"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Approximately 90% of anal fissures occur in the posterior midline. (Transcript: Part 1 5:37-5:55)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 5:37-5:55"
+    ],
+    "transcript_reference": "Part 1 5:37-5:55"
+  },
+  {
+    "id": "CRQ-015",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-015"
+    ],
+    "category": "Anal Fissure",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which is NOT part of first-line nonoperative treatment for a new anal fissure?",
+    "choices": [
+      "Fiber or another bulking agent",
+      "Sitz baths",
+      "Topical anesthetic",
+      "Immediate lateral internal sphincterotomy"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Initial management includes fiber, sitz baths, and topical anesthetic rather than immediate surgery. (Transcript: Part 1 5:57-6:31)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 5:57-6:31"
+    ],
+    "transcript_reference": "Part 1 5:57-6:31"
+  },
+  {
+    "id": "CRQ-016",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-016"
+    ],
+    "category": "Anal Fissure",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What major adverse effect was associated with topical nitrates?",
+    "choices": [
+      "Constipation and urinary retention",
+      "Headache or lightheadedness",
+      "Hyperglycemia",
+      "Rash only"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Topical nitrates can cause headaches and lightheadedness. (Transcript: Part 1 6:14-6:31)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 6:14-6:31"
+    ],
+    "transcript_reference": "Part 1 6:14-6:31"
+  },
+  {
+    "id": "CRQ-017",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-017"
+    ],
+    "category": "Anal Fissure",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Which statement about topical calcium channel blockers is correct?",
+    "choices": [
+      "They are less effective than nitrates and cause more adverse effects",
+      "They have similar efficacy to nitrates with fewer adverse effects",
+      "They are used only after surgery",
+      "They are contraindicated in all adults"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Topical calcium channel blockers have efficacy similar to nitrates without the same degree of adverse effects. (Transcript: Part 1 6:20-6:31)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 6:20-6:31"
+    ],
+    "transcript_reference": "Part 1 6:20-6:31"
+  },
+  {
+    "id": "CRQ-018",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-018"
+    ],
+    "category": "Anal Fissure",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What is the main role of Botox injection for an anal fissure?",
+    "choices": [
+      "Mandatory treatment at the first visit",
+      "The next step after failure of topical therapy",
+      "Use only after surgery",
+      "Control of active bleeding"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Botox may be used after less invasive topical therapy has failed. (Transcript: Part 1 6:39-7:14)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 6:39-7:14"
+    ],
+    "transcript_reference": "Part 1 6:39-7:14"
+  },
+  {
+    "id": "CRQ-019",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-019"
+    ],
+    "category": "Anal Fissure",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What is the main contraindication to Botox therapy for an anal fissure?",
+    "choices": [
+      "Preexisting fecal incontinence",
+      "Young age",
+      "A posterior midline fissure",
+      "Constipation"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Botox should be avoided or used cautiously in patients with preexisting incontinence. (Transcript: Part 1 7:02-7:14)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 7:02-7:14"
+    ],
+    "transcript_reference": "Part 1 7:02-7:14"
+  },
+  {
+    "id": "CRQ-020",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-020"
+    ],
+    "category": "Anal Fissure",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which was NOT listed as a contraindication to lateral internal sphincterotomy?",
+    "choices": [
+      "Woman of childbearing age",
+      "Prior obstetric injury",
+      "Inflammatory bowel disease",
+      "An uncomplicated posterior midline fissure alone"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Contraindications include childbearing potential, prior obstetric injury, IBD, and preexisting sphincter dysfunction or incontinence. (Transcript: Part 1 7:26-7:41)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 7:26-7:41"
+    ],
+    "transcript_reference": "Part 1 7:26-7:41"
+  },
+  {
+    "id": "CRQ-021",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-021"
+    ],
+    "category": "Anal Fissure",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Which statement best describes an anocutaneous flap?",
+    "choices": [
+      "Higher healing rate and more incontinence than LIS",
+      "Lower healing rate than LIS but less fecal seepage or incontinence",
+      "A 100% incontinence rate",
+      "It cannot be combined with Botox"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Anocutaneous flaps have lower healing rates than lateral internal sphincterotomy but less fecal seepage or incontinence. (Transcript: Part 1 8:12-8:28)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 8:12-8:28"
+    ],
+    "transcript_reference": "Part 1 8:12-8:28"
+  },
+  {
+    "id": "CRQ-022",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-022"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Where is an intersphincteric abscess located?",
+    "choices": [
+      "Between the internal and external sphincters",
+      "Only above the levator muscle",
+      "Only immediately beneath the skin",
+      "Within the peritoneal cavity"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The intersphincteric space lies between the internal and external sphincter muscles. (Transcript: Part 1 8:30-9:29)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 8:30-9:29"
+    ],
+    "transcript_reference": "Part 1 8:30-9:29"
+  },
+  {
+    "id": "CRQ-023",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-023"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Where is a supralevator abscess located?",
+    "choices": [
+      "Above the levator muscles",
+      "Immediately below the anal verge",
+      "Between the internal and external sphincters",
+      "Lateral to the ischial tuberosity"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A supralevator abscess is located above the levator muscles. (Transcript: Part 1 9:13-9:29)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 9:13-9:29"
+    ],
+    "transcript_reference": "Part 1 9:13-9:29"
+  },
+  {
+    "id": "CRQ-024",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-024"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What is the basic treatment for a superficial perianal or ischiorectal abscess?",
+    "choices": [
+      "Antibiotics alone",
+      "External incision and drainage",
+      "Endoscopic dilation",
+      "Radiation therapy"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Accessible superficial abscesses are treated with external incision and drainage. (Transcript: Part 1 9:45-10:14)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 9:45-10:14"
+    ],
+    "transcript_reference": "Part 1 9:45-10:14"
+  },
+  {
+    "id": "CRQ-025",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-025"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which procedure is used for a horseshoe abscess in the deep postanal space?",
+    "choices": [
+      "Hartmann procedure",
+      "Modified Hanley procedure",
+      "LIFT procedure",
+      "Nigro protocol"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "The modified Hanley procedure uses a posterior midline incision with bilateral counterincisions. (Transcript: Part 1 10:28-10:58)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 10:28-10:58"
+    ],
+    "transcript_reference": "Part 1 10:28-10:58"
+  },
+  {
+    "id": "CRQ-026",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-026"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "When are antibiotics indicated after drainage of an anorectal abscess?",
+    "choices": [
+      "In every patient",
+      "With cellulitis, systemic infection, or immunosuppression",
+      "Only in young patients",
+      "Only for posterior midline disease"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Antibiotics are added when cellulitis, systemic signs of infection, or immunosuppression is present. (Transcript: Part 1 11:03-11:29)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 11:03-11:29"
+    ],
+    "transcript_reference": "Part 1 11:03-11:29"
+  },
+  {
+    "id": "CRQ-027",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-027"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Approximately what proportion of patients with an anal abscess develop a fistula-in-ano?",
+    "choices": [
+      "About one-tenth",
+      "About one-third",
+      "About two-thirds",
+      "Almost all patients"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Approximately one-third of patients with an anal abscess develop a fistula-in-ano. (Transcript: Part 1 11:28-11:45)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 11:28-11:45"
+    ],
+    "transcript_reference": "Part 1 11:28-11:45"
+  },
+  {
+    "id": "CRQ-028",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-028"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What is the most common type of fistula-in-ano?",
+    "choices": [
+      "Intersphincteric",
+      "Transsphincteric",
+      "Suprasphincteric",
+      "Extrasphincteric"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The intersphincteric fistula is the most common type. (Transcript: Part 1 12:05-12:56)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 12:05-12:56"
+    ],
+    "transcript_reference": "Part 1 12:05-12:56"
+  },
+  {
+    "id": "CRQ-029",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-029"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "How is a high transsphincteric fistula defined?",
+    "choices": [
+      "Less than one-third of the sphincter complex involved",
+      "More than one-third of the sphincter complex involved",
+      "A tract confined to the submucosa",
+      "A tract that never crosses the external sphincter"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "A transsphincteric fistula involving more than one-third of the muscle complex is classified as high. (Transcript: Part 1 12:25-12:56)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 12:25-12:56"
+    ],
+    "transcript_reference": "Part 1 12:25-12:56"
+  },
+  {
+    "id": "CRQ-030",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-030"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the recommended initial approach when a fistula involves at least 25% of the sphincter?",
+    "choices": [
+      "Divide the entire sphincter",
+      "Place a draining seton",
+      "Do nothing",
+      "Perform hemorrhoid banding"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Drain the abscess and place a draining seton to induce fibrosis and prepare for later treatment. (Transcript: Part 1 13:45-14:14)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 13:45-14:14"
+    ],
+    "transcript_reference": "Part 1 13:45-14:14"
+  },
+  {
+    "id": "CRQ-031",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-031"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Which type of seton should be selected on the exam?",
+    "choices": [
+      "Cutting seton",
+      "Draining seton",
+      "Metal seton",
+      "Setons are contraindicated"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Cutting setons were described as largely historical; the preferred answer is a draining seton. (Transcript: Part 1 14:01-14:14)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 14:01-14:14"
+    ],
+    "transcript_reference": "Part 1 14:01-14:14"
+  },
+  {
+    "id": "CRQ-032",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-032"
+    ],
+    "category": "Anorectal Abscess & Fistula",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What does LIFT stand for?",
+    "choices": [
+      "Ligation of intersphincteric fistula tract",
+      "Local incision for thrombosed hemorrhoid",
+      "Low ileal fistula transection",
+      "Laparoscopic internal fixation technique"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "LIFT stands for ligation of the intersphincteric fistula tract. (Transcript: Part 1 14:15-14:57)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 14:15-14:57"
+    ],
+    "transcript_reference": "Part 1 14:15-14:57"
+  },
+  {
+    "id": "CRQ-033",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-033"
+    ],
+    "category": "Hemorrhoids",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What are hemorrhoids?",
+    "choices": [
+      "Infectious abscesses",
+      "Vascular cushions or sinusoids in the anal canal",
+      "A type of rectal cancer",
+      "A tear of the anal sphincter"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Hemorrhoids are normal vascular cushions in the anal canal that contribute to gross continence. (Transcript: Part 1 15:23-15:41)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 15:23-15:41"
+    ],
+    "transcript_reference": "Part 1 15:23-15:41"
+  },
+  {
+    "id": "CRQ-034",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-034"
+    ],
+    "category": "Hemorrhoids",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What type of innervation is present below the dentate line?",
+    "choices": [
+      "Autonomic",
+      "Somatic",
+      "Portal",
+      "Lymphatic"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Innervation is somatic below the dentate line and autonomic above it. (Transcript: Part 1 15:41-16:06)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 15:41-16:06"
+    ],
+    "transcript_reference": "Part 1 15:41-16:06"
+  },
+  {
+    "id": "CRQ-035",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-035"
+    ],
+    "category": "Hemorrhoids",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What defines a grade III internal hemorrhoid?",
+    "choices": [
+      "Internal only, without prolapse",
+      "Prolapse that reduces spontaneously",
+      "Prolapse that requires manual reduction",
+      "Prolapse that cannot be reduced"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Grade III hemorrhoids prolapse and require manual reduction. (Transcript: Part 1 16:40-17:00)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 16:40-17:00"
+    ],
+    "transcript_reference": "Part 1 16:40-17:00"
+  },
+  {
+    "id": "CRQ-036",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-036"
+    ],
+    "category": "Hemorrhoids",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What defines a grade IV internal hemorrhoid?",
+    "choices": [
+      "Spontaneous reduction",
+      "Manual reduction is possible",
+      "Prolapse that is not reducible",
+      "Bleeding without prolapse"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Grade IV hemorrhoids are prolapsed and irreducible. (Transcript: Part 1 16:40-17:00)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 16:40-17:00"
+    ],
+    "transcript_reference": "Part 1 16:40-17:00"
+  },
+  {
+    "id": "CRQ-037",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-037"
+    ],
+    "category": "Hemorrhoids",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How much daily fiber was recommended as initial management for hemorrhoids?",
+    "choices": [
+      "5–10 g/day",
+      "10–15 g/day",
+      "25–30 g/day",
+      "50–60 g/day"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The transcript recommended 25–30 g of fiber per day with adequate fluid intake. (Transcript: Part 1 17:01-17:23)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 17:01-17:23"
+    ],
+    "transcript_reference": "Part 1 17:01-17:23"
+  },
+  {
+    "id": "CRQ-038",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-038"
+    ],
+    "category": "Hemorrhoids",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What office-based treatment is appropriate for symptomatic internal hemorrhoids?",
+    "choices": [
+      "Rubber band ligation",
+      "APR",
+      "Right hemicolectomy",
+      "Seton placement"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Rubber band ligation is an option for symptomatic internal hemorrhoids. (Transcript: Part 1 17:24-17:59)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 17:24-17:59"
+    ],
+    "transcript_reference": "Part 1 17:24-17:59"
+  },
+  {
+    "id": "CRQ-039",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-039"
+    ],
+    "category": "Diverticulitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which pairing correctly describes Hinchey I diverticulitis?",
+    "choices": [
+      "Pericolic abscess smaller than 4 cm—antibiotics alone",
+      "Pelvic abscess larger than 4 cm—surgery only",
+      "Purulent peritonitis—outpatient observation",
+      "Feculent peritonitis—oral hydration only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Hinchey I is a pericolic abscess smaller than 4 cm and is generally treated with antibiotics alone. (Transcript: Part 1 18:06-18:44)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 18:06-18:44"
+    ],
+    "transcript_reference": "Part 1 18:06-18:44"
+  },
+  {
+    "id": "CRQ-040",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-040"
+    ],
+    "category": "Diverticulitis",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the basic treatment for Hinchey II diverticulitis?",
+    "choices": [
+      "Antibiotics plus percutaneous drainage",
+      "Observation without surgery or antibiotics",
+      "Hemorrhoid banding",
+      "Botox"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A pelvic or interloop abscess, or an abscess larger than 4 cm, is treated with antibiotics and percutaneous drainage. (Transcript: Part 1 18:25-18:44)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 18:25-18:44"
+    ],
+    "transcript_reference": "Part 1 18:25-18:44"
+  },
+  {
+    "id": "CRQ-041",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-041"
+    ],
+    "category": "Diverticulitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which finding alone does NOT make diverticulitis complicated?",
+    "choices": [
+      "Perforation",
+      "Abscess",
+      "Fistula",
+      "Phlegmon alone"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Phlegmon or extraluminal gas alone does not constitute complicated diverticulitis. (Transcript: Part 1 19:12-19:38)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 19:12-19:38"
+    ],
+    "transcript_reference": "Part 1 19:12-19:38"
+  },
+  {
+    "id": "CRQ-042",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-042"
+    ],
+    "category": "Diverticulitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How should a stable, reliable patient who can tolerate oral hydration and has uncomplicated diverticulitis be managed?",
+    "choices": [
+      "Outpatient oral antibiotics",
+      "Mandatory emergency surgery",
+      "Radiation therapy",
+      "Subtotal colectomy"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Such patients may be treated as outpatients with oral antibiotics covering gram-positive and gram-negative organisms. (Transcript: Part 1 19:45-20:20)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 19:45-20:20"
+    ],
+    "transcript_reference": "Part 1 19:45-20:20"
+  },
+  {
+    "id": "CRQ-043",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-043"
+    ],
+    "category": "Diverticulitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How should diverticulitis be managed when the patient cannot tolerate oral hydration?",
+    "choices": [
+      "Outpatient observation",
+      "Admission, IV hydration, and IV antibiotics",
+      "Immediate APR",
+      "No treatment"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Patients unable to tolerate oral hydration require admission, IV fluids, and IV antibiotics. (Transcript: Part 1 20:22-20:46)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 20:22-20:46"
+    ],
+    "transcript_reference": "Part 1 20:22-20:46"
+  },
+  {
+    "id": "CRQ-044",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-044"
+    ],
+    "category": "Diverticulitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How should unstable diverticulitis with diffuse peritonitis be managed?",
+    "choices": [
+      "Endoscopic detorsion",
+      "Resuscitation, antibiotics, and urgent sigmoid colectomy",
+      "Fiber alone",
+      "Botox"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "An unstable patient with diffuse peritonitis requires resuscitation, antibiotics, and urgent sigmoid colectomy. (Transcript: Part 1 20:48-21:37)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 20:48-21:37"
+    ],
+    "transcript_reference": "Part 1 20:48-21:37"
+  },
+  {
+    "id": "CRQ-045",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-045"
+    ],
+    "category": "Diverticulitis",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the usual treatment for a small diverticular abscess, approximately less than 3 cm?",
+    "choices": [
+      "Antibiotics",
+      "Mandatory laparotomy",
+      "APR",
+      "Chemoradiotherapy"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Small diverticular abscesses may resolve with antibiotics alone. (Transcript: Part 1 21:45-22:28)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 21:45-22:28"
+    ],
+    "transcript_reference": "Part 1 21:45-22:28"
+  },
+  {
+    "id": "CRQ-046",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-046"
+    ],
+    "category": "Diverticulitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "When should colonoscopy be performed after successful nonoperative treatment of diverticulitis if the patient has not had a recent examination?",
+    "choices": [
+      "The next day",
+      "About one week later",
+      "About six weeks after resolution",
+      "Only one year later"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Colonoscopy is typically performed about six weeks after resolution to exclude ischemia, IBD, or neoplasm. (Transcript: Part 1 23:31-24:15)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 23:31-24:15"
+    ],
+    "transcript_reference": "Part 1 23:31-24:15"
+  },
+  {
+    "id": "CRQ-047",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-047"
+    ],
+    "category": "C. difficile",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is standard treatment for nonsevere C. difficile infection?",
+    "choices": [
+      "Oral vancomycin for 10 days",
+      "IV vancomycin alone",
+      "Surgery alone",
+      "Radiation therapy"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The standard treatment for nonsevere disease is oral vancomycin for 10 days. (Transcript: Part 1 26:29-27:04)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 26:29-27:04"
+    ],
+    "transcript_reference": "Part 1 26:29-27:04"
+  },
+  {
+    "id": "CRQ-048",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-048"
+    ],
+    "category": "C. difficile",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which drug is NOT recommended as monotherapy for severe C. difficile infection?",
+    "choices": [
+      "Oral vancomycin",
+      "Oral fidaxomicin",
+      "Metronidazole alone",
+      "All are recommended"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Severe disease is treated with oral vancomycin or fidaxomicin; metronidazole alone is not recommended. (Transcript: Part 1 27:04-27:17)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 27:04-27:17"
+    ],
+    "transcript_reference": "Part 1 27:04-27:17"
+  },
+  {
+    "id": "CRQ-049",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-049"
+    ],
+    "category": "C. difficile",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is the treatment for fulminant C. difficile infection?",
+    "choices": [
+      "Oral vancomycin plus IV metronidazole",
+      "Fiber alone",
+      "Oral metronidazole alone",
+      "Colonoscopy alone"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Fulminant disease requires oral vancomycin plus IV metronidazole; rectal vancomycin may be added if ileus is present. (Transcript: Part 1 27:17-28:04)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 27:17-28:04"
+    ],
+    "transcript_reference": "Part 1 27:17-28:04"
+  },
+  {
+    "id": "CRQ-050",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-050"
+    ],
+    "category": "C. difficile",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What drug should be used for the first recurrence of C. difficile after initial vancomycin therapy?",
+    "choices": [
+      "Fidaxomicin",
+      "Mesalamine",
+      "Infliximab",
+      "Neostigmine"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Fidaxomicin was recommended for a first recurrence after initial vancomycin use. (Transcript: Part 1 28:06-28:21)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 28:06-28:21"
+    ],
+    "transcript_reference": "Part 1 28:06-28:21"
+  },
+  {
+    "id": "CRQ-051",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-051"
+    ],
+    "category": "C. difficile",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is the standard operation for severe C. difficile colitis that fails medical therapy?",
+    "choices": [
+      "Subtotal colectomy with ileostomy",
+      "Segmental rectal resection",
+      "Hemorrhoidectomy",
+      "Right hemicolectomy only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The standard operation is subtotal colectomy with ileostomy. (Transcript: Part 1 28:49-29:40)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 28:49-29:40"
+    ],
+    "transcript_reference": "Part 1 28:49-29:40"
+  },
+  {
+    "id": "CRQ-052",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-052"
+    ],
+    "category": "Colonic Volvulus & Pseudo-obstruction",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What plain radiographic finding is associated with sigmoid volvulus?",
+    "choices": [
+      "A coffee bean pointing to the left upper quadrant",
+      "A bent inner tube with the apex pointing to the right upper quadrant",
+      "An apple-core lesion",
+      "Thumbprinting"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Sigmoid volvulus produces a bent inner tube appearance with its apex directed toward the right upper quadrant. (Transcript: Part 1 29:48-30:13)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 29:48-30:13"
+    ],
+    "transcript_reference": "Part 1 29:48-30:13"
+  },
+  {
+    "id": "CRQ-053",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-053"
+    ],
+    "category": "Colonic Volvulus & Pseudo-obstruction",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is the initial treatment for stable sigmoid volvulus without ischemia or perforation?",
+    "choices": [
+      "Endoscopic detorsion with a decompression tube",
+      "Immediate APR",
+      "Neostigmine alone",
+      "Radiation therapy"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Stable patients without peritonitis undergo endoscopic detorsion with a decompression tube left for 1–3 days. (Transcript: Part 1 30:25-30:54)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 30:25-30:54"
+    ],
+    "transcript_reference": "Part 1 30:25-30:54"
+  },
+  {
+    "id": "CRQ-054",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-054"
+    ],
+    "category": "Colonic Volvulus & Pseudo-obstruction",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What imaging finding was described for cecal volvulus?",
+    "choices": [
+      "A bent inner tube pointing to the right upper quadrant",
+      "A coffee bean pointing to the left upper quadrant",
+      "A pelvic bird-beak sign",
+      "A lead-pipe colon"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Cecal volvulus was described as a coffee bean with the apex pointing to the left upper quadrant. (Transcript: Part 1 31:58-32:27)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 31:58-32:27"
+    ],
+    "transcript_reference": "Part 1 31:58-32:27"
+  },
+  {
+    "id": "CRQ-055",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-055"
+    ],
+    "category": "Colonic Volvulus & Pseudo-obstruction",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the recommended treatment for cecal volvulus?",
+    "choices": [
+      "Endoscopic reduction",
+      "Right hemicolectomy or ileocecectomy with primary anastomosis",
+      "Neostigmine",
+      "Observation alone"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Endoscopic reduction is not recommended; after resuscitation and antibiotics, the patient should undergo resection. (Transcript: Part 1 32:27-33:03)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 1 32:27-33:03"
+    ],
+    "transcript_reference": "Part 1 32:27-33:03"
+  },
+  {
+    "id": "CRQ-056",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-056"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which combination characterizes ulcerative colitis?",
+    "choices": [
+      "Transmural inflammation with skip lesions",
+      "Mucosal, contiguous disease with crypt abscesses and pseudopolyps",
+      "Creeping fat with fistulas",
+      "Granulomas only"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Ulcerative colitis is a mucosal, contiguous disease characterized by crypt abscesses and pseudopolyps. (Transcript: Part 2 2:05-2:15)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 2:05-2:15"
+    ],
+    "transcript_reference": "Part 2 2:05-2:15"
+  },
+  {
+    "id": "CRQ-057",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-057"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What medication is used for an acute ulcerative colitis flare?",
+    "choices": [
+      "Steroids",
+      "Neostigmine",
+      "Vancomycin",
+      "Oxaliplatin"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Steroids are used for acute flares, while mesalamine is used for maintenance. (Transcript: Part 2 2:16-2:34)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 2:16-2:34"
+    ],
+    "transcript_reference": "Part 2 2:16-2:34"
+  },
+  {
+    "id": "CRQ-058",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-058"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What maintenance therapy was mentioned for ulcerative colitis resistant to mesalamine?",
+    "choices": [
+      "Infliximab",
+      "Fidaxomicin",
+      "Botox",
+      "Rifaximin"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Infliximab was listed as maintenance therapy when disease is resistant to mesalamine. (Transcript: Part 2 2:16-2:34)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 2:16-2:34"
+    ],
+    "transcript_reference": "Part 2 2:16-2:34"
+  },
+  {
+    "id": "CRQ-059",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-059"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which is NOT an indication for surgery in ulcerative colitis?",
+    "choices": [
+      "Medical intractability",
+      "Malignancy",
+      "Perforation",
+      "A mild first flare that is well controlled medically"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Surgical indications include medical intractability, malignancy, stricture, perforation, and fulminant or toxic colitis. (Transcript: Part 2 2:35-3:10)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 2:35-3:10"
+    ],
+    "transcript_reference": "Part 2 2:35-3:10"
+  },
+  {
+    "id": "CRQ-060",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-060"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which associated condition does NOT improve after colectomy for ulcerative colitis?",
+    "choices": [
+      "Large-joint arthropathy",
+      "Erythema nodosum",
+      "Episcleritis",
+      "Primary sclerosing cholangitis"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Primary sclerosing cholangitis does not improve after colectomy. (Transcript: Part 2 3:10-3:29)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 3:10-3:29"
+    ],
+    "transcript_reference": "Part 2 3:10-3:29"
+  },
+  {
+    "id": "CRQ-061",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-061"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How should random biopsies be performed during ulcerative colitis surveillance colonoscopy?",
+    "choices": [
+      "One biopsy only",
+      "Four-quadrant biopsies every 10 cm",
+      "Biopsy only visibly abnormal areas",
+      "Biopsy the rectum only"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Four-quadrant random biopsies should be taken every 10 cm through the involved colon, with directed biopsies of suspicious lesions. (Transcript: Part 2 3:58-4:17)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 3:58-4:17"
+    ],
+    "transcript_reference": "Part 2 3:58-4:17"
+  },
+  {
+    "id": "CRQ-062",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-062"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What operation is indicated when ulcerative colitis surveillance reveals malignancy or high-grade dysplasia?",
+    "choices": [
+      "Total proctocolectomy with or without IPAA",
+      "Segmental colectomy only",
+      "LIFT procedure",
+      "APR only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Total proctocolectomy is indicated, with or without IPAA depending on the patient. (Transcript: Part 2 4:17-4:33)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 4:17-4:33"
+    ],
+    "transcript_reference": "Part 2 4:17-4:33"
+  },
+  {
+    "id": "CRQ-063",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-063"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is the most common elective operation for ulcerative colitis?",
+    "choices": [
+      "Total proctocolectomy with IPAA",
+      "Right hemicolectomy",
+      "Sigmoidectomy only",
+      "Local excision"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Total proctocolectomy with IPAA is the most common elective operation. (Transcript: Part 2 4:35-5:18)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 4:35-5:18"
+    ],
+    "transcript_reference": "Part 2 4:35-5:18"
+  },
+  {
+    "id": "CRQ-064",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-064"
+    ],
+    "category": "Ulcerative Colitis",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is an important prerequisite before performing an IPAA?",
+    "choices": [
+      "Good baseline continence and confidence that the disease is not Crohn's",
+      "Preexisting fecal incontinence",
+      "Presence of rectal cancer",
+      "A desire for a permanent stoma in every case"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The patient should have good baseline continence, and Crohn's disease must be excluded because IPAA is not curative for Crohn's. (Transcript: Part 2 5:00-5:18)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 5:00-5:18"
+    ],
+    "transcript_reference": "Part 2 5:00-5:18"
+  },
+  {
+    "id": "CRQ-065",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-065"
+    ],
+    "category": "Crohn Disease",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the most common site of Crohn disease?",
+    "choices": [
+      "Rectum",
+      "Terminal ileum",
+      "Anus only",
+      "Transverse colon only"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Crohn disease can affect any part of the gastrointestinal tract, but the terminal ileum is the most common site. (Transcript: Part 2 6:24-6:49)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 6:24-6:49"
+    ],
+    "transcript_reference": "Part 2 6:24-6:49"
+  },
+  {
+    "id": "CRQ-066",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-066"
+    ],
+    "category": "Crohn Disease",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which features suggest Crohn disease?",
+    "choices": [
+      "Continuous mucosal disease",
+      "Transmural, segmental disease with creeping fat",
+      "Continuous disease beginning in the rectum",
+      "Crypt abscesses only"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Crohn disease is transmural and segmental and may show creeping fat. (Transcript: Part 2 6:49-7:23)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 6:49-7:23"
+    ],
+    "transcript_reference": "Part 2 6:49-7:23"
+  },
+  {
+    "id": "CRQ-067",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-067"
+    ],
+    "category": "Crohn Disease",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What finding may result from vitamin B12 malabsorption in terminal ileal Crohn disease?",
+    "choices": [
+      "Megaloblastic anemia",
+      "Iron overload",
+      "Polycythemia",
+      "Isolated thrombocytosis"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Vitamin B12 malabsorption in the terminal ileum can cause megaloblastic anemia. (Transcript: Part 2 7:53-8:09)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 7:53-8:09"
+    ],
+    "transcript_reference": "Part 2 7:53-8:09"
+  },
+  {
+    "id": "CRQ-068",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-068"
+    ],
+    "category": "Crohn Disease",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which anti-TNF agents are used for fistulizing or perianal Crohn disease?",
+    "choices": [
+      "Infliximab or adalimumab",
+      "Mesalamine alone",
+      "Vancomycin",
+      "Neostigmine"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Anti-TNF therapy, particularly infliximab or adalimumab, is used for fistulizing and perianal Crohn disease. (Transcript: Part 2 8:09-8:39)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 8:09-8:39"
+    ],
+    "transcript_reference": "Part 2 8:09-8:39"
+  },
+  {
+    "id": "CRQ-069",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-069"
+    ],
+    "category": "Crohn Disease",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is the basic surgical principle in Crohn disease?",
+    "choices": [
+      "Surgery is always curative",
+      "Operate for complications and preserve as much small bowel as possible",
+      "Perform total proctocolectomy in every patient",
+      "Resect asymptomatic bowel prophylactically"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Surgery is not curative and should address complications while preserving as much small bowel as possible. (Transcript: Part 2 8:40-9:04)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 8:40-9:04"
+    ],
+    "transcript_reference": "Part 2 8:40-9:04"
+  },
+  {
+    "id": "CRQ-070",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-070"
+    ],
+    "category": "Crohn Disease",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the initial treatment for partial obstruction caused by inflammatory Crohn disease?",
+    "choices": [
+      "Decompression and steroids",
+      "Immediate total small-bowel resection",
+      "Radiation therapy",
+      "Botox"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Inflammatory narrowing may improve with decompression and steroids as the inflammation subsides. (Transcript: Part 2 9:09-9:38)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 9:09-9:38"
+    ],
+    "transcript_reference": "Part 2 9:09-9:38"
+  },
+  {
+    "id": "CRQ-071",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-071"
+    ],
+    "category": "Crohn Disease",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which stricturoplasty is used for a short Crohn stricture less than 10 cm?",
+    "choices": [
+      "Heineke-Mikulicz",
+      "Finney",
+      "Michelassi",
+      "Hartmann"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A Heineke-Mikulicz stricturoplasty is used for a short stricture. (Transcript: Part 2 9:45-10:20)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 9:45-10:20"
+    ],
+    "transcript_reference": "Part 2 9:45-10:20"
+  },
+  {
+    "id": "CRQ-072",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-072"
+    ],
+    "category": "Crohn Disease",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which operation is used for a long Crohn stricture greater than 20 cm?",
+    "choices": [
+      "Michelassi stricturoplasty",
+      "Heineke-Mikulicz stricturoplasty",
+      "Hemorrhoidectomy",
+      "Subtotal colectomy"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A Michelassi side-to-side isoperistaltic stricturoplasty is an option for a stricture longer than 20 cm. (Transcript: Part 2 10:33-10:47)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 10:33-10:47"
+    ],
+    "transcript_reference": "Part 2 10:33-10:47"
+  },
+  {
+    "id": "CRQ-073",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-073"
+    ],
+    "category": "Crohn Disease",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What must always be done to a strictured segment in Crohn disease?",
+    "choices": [
+      "Biopsy it to rule out malignancy",
+      "Band it",
+      "Inject Botox",
+      "Leave it without evaluation"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Strictured segments should be biopsied to exclude malignancy. (Transcript: Part 2 10:58-11:16)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 10:58-11:16"
+    ],
+    "transcript_reference": "Part 2 10:58-11:16"
+  },
+  {
+    "id": "CRQ-074",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-074"
+    ],
+    "category": "Colon Cancer Screening",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "At what age should average-risk asymptomatic adults begin colorectal cancer screening?",
+    "choices": [
+      "40 years",
+      "45 years",
+      "50 years",
+      "60 years"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Average-risk screening begins at age 45 and is repeated every 10 years. (Transcript: Part 2 11:36-12:02)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 11:36-12:02"
+    ],
+    "transcript_reference": "Part 2 11:36-12:02"
+  },
+  {
+    "id": "CRQ-075",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-075"
+    ],
+    "category": "Colon Cancer Screening",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "When should screening begin if a patient has a first-degree relative with colorectal cancer?",
+    "choices": [
+      "At age 45 only",
+      "At age 40 or 10 years before the youngest relative's diagnosis",
+      "At age 60",
+      "Only after symptoms develop"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Screening should begin at age 40 or 10 years before the youngest relative's diagnosis and should be repeated every 5 years. (Transcript: Part 2 12:02-12:19)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 12:02-12:19"
+    ],
+    "transcript_reference": "Part 2 12:02-12:19"
+  },
+  {
+    "id": "CRQ-076",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-076"
+    ],
+    "category": "Colon Cancer Screening",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "At what age should screening begin for familial adenomatous polyposis?",
+    "choices": [
+      "10–12 years",
+      "20–25 years",
+      "40 years",
+      "45 years"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Screening for FAP begins between ages 10 and 12 and is repeated every 1–2 years. (Transcript: Part 2 12:31-12:42)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 12:31-12:42"
+    ],
+    "transcript_reference": "Part 2 12:31-12:42"
+  },
+  {
+    "id": "CRQ-077",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-077"
+    ],
+    "category": "Colon Cancer Screening",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is the colonoscopy interval after complete removal of one or two tubular adenomas?",
+    "choices": [
+      "1 year",
+      "3 years",
+      "7–10 years",
+      "15 years"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "After one or two tubular adenomas, the interval is 7–10 years. (Transcript: Part 2 12:55-13:14)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 12:55-13:14"
+    ],
+    "transcript_reference": "Part 2 12:55-13:14"
+  },
+  {
+    "id": "CRQ-078",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-078"
+    ],
+    "category": "Colon Cancer Screening",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "When should colonoscopy be repeated after complete removal of an advanced adenoma?",
+    "choices": [
+      "6 months",
+      "1 year",
+      "3 years",
+      "10 years"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "An advanced adenoma should be followed by repeat colonoscopy in 3 years. (Transcript: Part 2 13:08-13:30)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 13:08-13:30"
+    ],
+    "transcript_reference": "Part 2 13:08-13:30"
+  },
+  {
+    "id": "CRQ-079",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-079"
+    ],
+    "category": "Colon Cancer",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which finding would prevent endoscopic management alone of a malignant polyp?",
+    "choices": [
+      "Removal in one piece",
+      "Negative margins",
+      "Well or moderately differentiated histology",
+      "Presence of angiolymphatic invasion"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Endoscopic management requires en bloc removal, negative margins, favorable differentiation, no angiolymphatic invasion, and limited submucosal invasion. (Transcript: Part 2 13:36-14:20)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 13:36-14:20"
+    ],
+    "transcript_reference": "Part 2 13:36-14:20"
+  },
+  {
+    "id": "CRQ-080",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-080"
+    ],
+    "category": "Colon Cancer",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "How deeply does a T2 colon cancer invade?",
+    "choices": [
+      "Lamina propria only",
+      "Submucosa",
+      "Muscularis propria",
+      "Through the serosa"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "A T2 tumor invades the muscularis propria. (Transcript: Part 2 14:30-15:03)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 14:30-15:03"
+    ],
+    "transcript_reference": "Part 2 14:30-15:03"
+  },
+  {
+    "id": "CRQ-081",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-081"
+    ],
+    "category": "Colon Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "What defines a T4B colon cancer?",
+    "choices": [
+      "Submucosal invasion",
+      "Invasion of muscularis propria",
+      "Penetration of serosa only",
+      "Invasion of or adherence to surrounding structures"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "T4B means invasion of or adherence to surrounding structures. (Transcript: Part 2 14:43-15:03)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 14:43-15:03"
+    ],
+    "transcript_reference": "Part 2 14:43-15:03"
+  },
+  {
+    "id": "CRQ-082",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-082"
+    ],
+    "category": "Colon Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "Which staging pattern describes stage III colon cancer?",
+    "choices": [
+      "T1–2, N0, M0",
+      "T3–4, N0, M0",
+      "Any T, N1–2, M0",
+      "Any T, any N, M1"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Stage III colon cancer has regional nodal disease without distant metastasis. (Transcript: Part 2 15:16-15:46)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 15:16-15:46"
+    ],
+    "transcript_reference": "Part 2 15:16-15:46"
+  },
+  {
+    "id": "CRQ-083",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-083"
+    ],
+    "category": "Colon Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "What proximal and distal margins were recommended for colon cancer resection?",
+    "choices": [
+      "1 cm",
+      "2 cm",
+      "5–7 cm",
+      "15 cm"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Margins of 5–7 cm were recommended to ensure appropriate blood supply and lymphadenectomy. (Transcript: Part 2 16:25-16:50)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 16:25-16:50"
+    ],
+    "transcript_reference": "Part 2 16:25-16:50"
+  },
+  {
+    "id": "CRQ-084",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-084"
+    ],
+    "category": "Colon Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "What is the minimum number of lymph nodes required in an oncologic colon resection?",
+    "choices": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "At least 12 lymph nodes should be obtained. (Transcript: Part 2 16:44-16:50)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 16:44-16:50"
+    ],
+    "transcript_reference": "Part 2 16:44-16:50"
+  },
+  {
+    "id": "CRQ-085",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-085"
+    ],
+    "category": "Colon Cancer",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "Which treatment sequence was suggested for resectable colon cancer with liver metastases?",
+    "choices": [
+      "Three months of preoperative FOLFOX, surgery, then three months of postoperative FOLFOX",
+      "Radiation alone",
+      "No surgery",
+      "Nigro protocol"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A safe exam answer is three months of preoperative FOLFOX, resection, and three months of postoperative FOLFOX. (Transcript: Part 2 17:25-18:06)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 17:25-18:06"
+    ],
+    "transcript_reference": "Part 2 17:25-18:06"
+  },
+  {
+    "id": "CRQ-086",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-086"
+    ],
+    "category": "Colon Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "For which stage is adjuvant chemotherapy clearly recommended in colon cancer?",
+    "choices": [
+      "Stage I only",
+      "All stage II disease",
+      "Stage III and above",
+      "Every polyp"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Adjuvant chemotherapy is clearly recommended for node-positive disease or metastatic disease, generally stage III and above. (Transcript: Part 2 18:29-19:06)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 18:29-19:06"
+    ],
+    "transcript_reference": "Part 2 18:29-19:06"
+  },
+  {
+    "id": "CRQ-087",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-087"
+    ],
+    "category": "Colon Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "What is the role of radiation therapy in colon cancer?",
+    "choices": [
+      "It is standard for every patient",
+      "It is not indicated",
+      "It is used only for stage I",
+      "It is mandatory preoperatively"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Radiation therapy is not indicated for colon cancer. (Transcript: Part 2 19:28-19:34)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 19:28-19:34"
+    ],
+    "transcript_reference": "Part 2 19:28-19:34"
+  },
+  {
+    "id": "CRQ-088",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-088"
+    ],
+    "category": "Rectal Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "Which study is used for local T and N staging of a newly diagnosed rectal cancer?",
+    "choices": [
+      "Endoscopic ultrasound or rectal MRI",
+      "Plain radiograph only",
+      "ERCP",
+      "HIDA scan"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Endoscopic ultrasound or rectal MRI is used for T and N staging; MRI also helps assess the circumferential resection margin. (Transcript: Part 2 19:34-20:13)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 19:34-20:13"
+    ],
+    "transcript_reference": "Part 2 19:34-20:13"
+  },
+  {
+    "id": "CRQ-089",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-089"
+    ],
+    "category": "Rectal Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "Which rectal cancers receive neoadjuvant chemoradiotherapy?",
+    "choices": [
+      "T1N0 tumors only",
+      "Mid or distal tumors that are T3 or greater or have any nodal disease",
+      "All upper rectal tumors",
+      "Anal margin lesions only"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Locally advanced mid or distal rectal tumors, defined as T3 or greater or any node-positive disease, receive neoadjuvant chemoradiotherapy. (Transcript: Part 2 20:18-20:37)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 20:18-20:37"
+    ],
+    "transcript_reference": "Part 2 20:18-20:37"
+  },
+  {
+    "id": "CRQ-090",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-090"
+    ],
+    "category": "Rectal Cancer",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "When should surgery be performed after neoadjuvant chemoradiotherapy for rectal cancer?",
+    "choices": [
+      "Immediately",
+      "After one week",
+      "After 8–12 weeks",
+      "After one year"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Surgery is performed about 8–12 weeks later, after response assessment and restaging. (Transcript: Part 2 20:43-21:06)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 20:43-21:06"
+    ],
+    "transcript_reference": "Part 2 20:43-21:06"
+  },
+  {
+    "id": "CRQ-091",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-091"
+    ],
+    "category": "Rectal Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "Which rectal cancer may be considered for local excision?",
+    "choices": [
+      "High-risk T3 lesion",
+      "Low-risk T1 lesion",
+      "Node-positive T2 lesion",
+      "Metastatic T4 lesion"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Local excision may be considered for a low-risk T1 lesion with favorable differentiation and no lymphovascular or perineural invasion. (Transcript: Part 2 21:07-21:31)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 21:07-21:31"
+    ],
+    "transcript_reference": "Part 2 21:07-21:31"
+  },
+  {
+    "id": "CRQ-092",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-092"
+    ],
+    "category": "Rectal Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "What is the major limitation of local excision for rectal cancer?",
+    "choices": [
+      "It causes no bleeding",
+      "Regional lymph nodes cannot be pathologically examined",
+      "It always requires a permanent stoma",
+      "Radiation can no longer be given"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Local excision does not allow pathologic assessment of the regional lymph nodes. (Transcript: Part 2 21:31-22:16)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 21:31-22:16"
+    ],
+    "transcript_reference": "Part 2 21:31-22:16"
+  },
+  {
+    "id": "CRQ-093",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-093"
+    ],
+    "category": "Rectal Cancer",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "What is the standard resection for a mid- or lower-third rectal cancer?",
+    "choices": [
+      "Total mesorectal excision as part of an LAR or APR",
+      "Local excision only",
+      "Right hemicolectomy",
+      "LIFT procedure"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Total mesorectal excision as part of a low anterior resection or abdominoperineal resection is standard. (Transcript: Part 2 22:43-23:03)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 22:43-23:03"
+    ],
+    "transcript_reference": "Part 2 22:43-23:03"
+  },
+  {
+    "id": "CRQ-094",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-094"
+    ],
+    "category": "Anal Squamous Neoplasms",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "Which was NOT listed as a histologic variant of anal squamous cancer?",
+    "choices": [
+      "Cloacogenic",
+      "Basaloid",
+      "Epidermoid",
+      "Adenomatous tubular"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "The listed variants were cloacogenic, basaloid, epidermoid, and mucoepidermoid. (Transcript: Part 2 23:36-24:10)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 23:36-24:10"
+    ],
+    "transcript_reference": "Part 2 23:36-24:10"
+  },
+  {
+    "id": "CRQ-095",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-095"
+    ],
+    "category": "Anal Squamous Neoplasms",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "Which HPV types are associated with anal squamous cancer?",
+    "choices": [
+      "1 and 2",
+      "6 and 11",
+      "16 and 18",
+      "31 and 33 only"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "HPV types 16 and 18 are associated with anal squamous cancer. (Transcript: Part 2 24:10-24:23)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 24:10-24:23"
+    ],
+    "transcript_reference": "Part 2 24:10-24:23"
+  },
+  {
+    "id": "CRQ-096",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-096"
+    ],
+    "category": "Anal Squamous Neoplasms",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "Which local treatment was listed for high-grade AIN?",
+    "choices": [
+      "Topical imiquimod or topical 5-FU",
+      "Oral vancomycin",
+      "Neostigmine",
+      "FOLFOX"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Options include topical 5% imiquimod, topical 5% 5-FU, photodynamic therapy, and targeted destruction. (Transcript: Part 2 24:36-25:25)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 24:36-25:25"
+    ],
+    "transcript_reference": "Part 2 24:36-25:25"
+  },
+  {
+    "id": "CRQ-097",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-097"
+    ],
+    "category": "Anal Squamous Neoplasms",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "What surveillance interval was recommended after treatment of AIN?",
+    "choices": [
+      "Monthly",
+      "Every 4–6 months",
+      "Every 5 years",
+      "No surveillance is needed"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Close clinical surveillance every 4–6 months was emphasized. (Transcript: Part 2 25:20-25:31)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 25:20-25:31"
+    ],
+    "transcript_reference": "Part 2 25:20-25:31"
+  },
+  {
+    "id": "CRQ-098",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-098"
+    ],
+    "category": "Anal Squamous Neoplasms",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "What is the treatment for persistent or recurrent anal squamous cancer after primary chemoradiotherapy?",
+    "choices": [
+      "Salvage APR",
+      "Repeat banding",
+      "LIFT procedure",
+      "Observation alone"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Persistent or recurrent disease after chemoradiotherapy is treated with salvage abdominoperineal resection. (Transcript: Part 2 25:57-26:16)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 25:57-26:16"
+    ],
+    "transcript_reference": "Part 2 25:57-26:16"
+  },
+  {
+    "id": "CRQ-099",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-099"
+    ],
+    "category": "Anal Squamous Neoplasms",
+    "importance": 4,
+    "difficulty": 3,
+    "question": "How is squamous cell cancer of the anal margin treated?",
+    "choices": [
+      "Wide local excision",
+      "Nigro protocol only",
+      "Right hemicolectomy",
+      "Total colectomy"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Anal margin squamous cancer is treated like a skin cancer with wide local excision. (Transcript: Part 2 26:16-26:37)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 26:16-26:37"
+    ],
+    "transcript_reference": "Part 2 26:16-26:37"
+  },
+  {
+    "id": "CRQ-100",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "CR-2026-100"
+    ],
+    "category": "Anal Squamous Neoplasms",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "What is the treatment for anal melanoma?",
+    "choices": [
+      "APR",
+      "Banding",
+      "Botox",
+      "Mesalamine"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Anal melanoma requires an abdominoperineal resection. (Transcript: Part 2 26:37-26:55)",
+    "clinical_pearl": null,
+    "tags": [
+      "Behind the Knife",
+      "ABSITE 2026",
+      "Part 2 26:37-26:55"
+    ],
+    "transcript_reference": "Part 2 26:37-26:55"
+  }
+]
