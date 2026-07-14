@@ -1,0 +1,2832 @@
+[
+  {
+    "id": "TR1-Q001",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-001"
+    ],
+    "category": "Primary and Secondary Survey",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "The trauma primary survey follows the mnemonic A-B-C-D-E, standing for Airway, Breathing, Circulation, ____, and Exposure.",
+    "choices": null,
+    "correct_answer": "Disability",
+    "accepted_answers": [
+      "Disability"
+    ],
+    "explanation": "The five components are Airway, Breathing, Circulation, Disability, and Exposure.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q002",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-002"
+    ],
+    "category": "Primary and Secondary Survey",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "What does the trauma secondary survey involve?",
+    "choices": [
+      "A systematic head-to-toe exam and history if available",
+      "Only a chest X-ray",
+      "Only a FAST exam",
+      "A repeat of the primary survey"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The secondary survey is a systematic head-to-toe physical exam plus history.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q003",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-003"
+    ],
+    "category": "Primary and Secondary Survey",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Which of the following is an adjunct used in evaluating trauma patients?",
+    "choices": [
+      "FAST exam",
+      "MRI of the brain",
+      "Colonoscopy",
+      "Pulmonary function testing"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Adjuncts include vital signs, EKG, labs, X-ray, FAST exam, and CT scan.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q004",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-004"
+    ],
+    "category": "Airway Management",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What defines a patient as 'protecting their airway'?",
+    "choices": [
+      "Ability to cough, clear secretions, and swallow",
+      "Normal oxygen saturation",
+      "Absence of facial trauma",
+      "Presence of a gag reflex only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Airway protection requires the ability to cough, clear secretions, and swallow.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q005",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-005"
+    ],
+    "category": "Airway Management",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which of the following can cause airway compromise in a trauma patient?",
+    "choices": [
+      "Altered mental status from a head injury",
+      "Isolated extremity fracture",
+      "Mild abdominal tenderness",
+      "Superficial laceration"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Altered mental status prevents coordination of protective airway reflexes, leading to compromise.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q006",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-006"
+    ],
+    "category": "Airway Management",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "A cervical collar can make basic airway maneuvers more difficult in blunt trauma patients.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "The C-collar restricts neck mobility, complicating chin lift, jaw thrust, and airway placement.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q007",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-007"
+    ],
+    "category": "Airway Management",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "If a patient cannot be intubated or ventilated, what is the next step?",
+    "choices": [
+      "Cricothyroidotomy",
+      "Repeat attempts with the same technique",
+      "Nasotracheal intubation only",
+      "Observation"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A 'can't intubate, can't ventilate' scenario requires an emergent surgical airway via cricothyroidotomy.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q008",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-008"
+    ],
+    "category": "Airway Management",
+    "importance": 3,
+    "difficulty": 1,
+    "question": "A king supraglottic airway is considered a definitive airway and does not need to be exchanged.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "A king airway is not a definitive airway and should be exchanged for an ETT when appropriate.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q009",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-009"
+    ],
+    "category": "Airway Management",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which induction agents are preferred for RSI in trauma due to lower risk of hypotension?",
+    "choices": [
+      "Etomidate or ketamine",
+      "Propofol or midazolam",
+      "Fentanyl or morphine",
+      "Diazepam or lorazepam"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Etomidate and ketamine are preferred induction agents in trauma RSI due to hemodynamic stability.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q010",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-010"
+    ],
+    "category": "Airway Management",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Why is succinylcholine often the preferred paralytic for trauma RSI?",
+    "choices": [
+      "Its short half-life allows for faster recovery of spontaneous breathing and reassessment",
+      "It has the longest duration of action",
+      "It causes hypertension, which is protective in trauma",
+      "It cannot cause hyperkalemia"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Succinylcholine's short half-life makes it safest when a difficult airway is anticipated, allowing quicker re-evaluation of neuro status.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q011",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-011"
+    ],
+    "category": "Airway Management",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "During cricothyroidotomy, the incision is made through the ____ membrane, located between the thyroid and cricoid cartilages.",
+    "choices": null,
+    "correct_answer": "cricothyroid",
+    "accepted_answers": [
+      "cricothyroid",
+      "crycothyroid"
+    ],
+    "explanation": "The cricothyroid membrane is the most prominent, easily accessible site for emergency surgical airway.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q012",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-012"
+    ],
+    "category": "Breathing and Chest Tubes",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "How do you evaluate breathing in the primary survey?",
+    "choices": [
+      "Auscultate, check chest rise/fall, and feel for crepitus",
+      "Order an ABG only",
+      "Perform a bronchoscopy",
+      "Order a chest CT"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "These are the basic bedside maneuvers used to assess breathing.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q013",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-013"
+    ],
+    "category": "Breathing and Chest Tubes",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Where should a chest tube be inserted?",
+    "choices": [
+      "Fifth intercostal space, at the anterior axillary line/nipple line (or inframammary fold in females)",
+      "Second intercostal space, midclavicular line",
+      "Eighth intercostal space, posterior axillary line",
+      "Fourth intercostal space, midaxillary line only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Placement too low risks intra-abdominal injury; the fifth intercostal space at the nipple line/inframammary fold is correct.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q014",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-014"
+    ],
+    "category": "Breathing and Chest Tubes",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "A 28-32 French chest tube has been shown to perform as well as a 36+ French tube for hemothorax and pneumothorax.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Studies support smaller-bore tubes (28-32 French) as equally effective as larger historical tubes.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q015",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-015"
+    ],
+    "category": "Breathing and Chest Tubes",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A chest tube output of greater than ____ mL of blood upon initial placement classically warrants operative intervention.",
+    "choices": null,
+    "correct_answer": "1500",
+    "accepted_answers": [
+      "1500",
+      "1500ml",
+      "1500 ml",
+      "1500cc"
+    ],
+    "explanation": "1500 mL of initial output is a classic indication for thoracotomy.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q016",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-016"
+    ],
+    "category": "Breathing and Chest Tubes",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "Pigtail catheters have been shown to be effective for both pneumothorax and hemothorax and are less painful than standard chest tubes.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Pigtail catheters (~14 French) are effective and better tolerated than larger tubes.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q017",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-017"
+    ],
+    "category": "Circulation and Hemorrhagic Shock",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "The circulation component of the primary survey is based on blood pressure measurement.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "The true primary survey circulation assessment is a pulse check, not a blood pressure measurement, though BP is a useful adjunct.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q018",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-018"
+    ],
+    "category": "Circulation and Hemorrhagic Shock",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Shock index is calculated as heart rate divided by ____ blood pressure.",
+    "choices": null,
+    "correct_answer": "systolic",
+    "accepted_answers": [
+      "systolic"
+    ],
+    "explanation": "Shock index = HR / SBP; a value greater than 1 suggests shock.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q019",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-018"
+    ],
+    "category": "Circulation and Hemorrhagic Shock",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A shock index greater than 1 in a trauma patient should be assumed to represent what type of shock until proven otherwise?",
+    "choices": [
+      "Hemorrhagic shock",
+      "Cardiogenic shock",
+      "Septic shock",
+      "Neurogenic shock"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "In trauma, shock is assumed hemorrhagic until proven otherwise.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q020",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-019"
+    ],
+    "category": "Circulation and Hemorrhagic Shock",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What blood loss percentage defines Class III hemorrhagic shock?",
+    "choices": [
+      "30-40%",
+      "Less than 15%",
+      "15-30%",
+      "Greater than 40%"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Class III shock corresponds to 30-40% blood volume loss.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q021",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-020"
+    ],
+    "category": "Circulation and Hemorrhagic Shock",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which findings are characteristic of Class I hemorrhagic shock?",
+    "choices": [
+      "Subtle changes in heart rate and pulse pressure only",
+      "Hypotension and confusion",
+      "Anuria and coma",
+      "Massive tachycardia over 140"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Class I shock has minimal findings — subtle heart rate and pulse pressure changes only.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q022",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-021"
+    ],
+    "category": "Circulation and Hemorrhagic Shock",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Hypotension first appears in Class III hemorrhagic shock.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Blood pressure remains relatively normal in Class I and II shock, first dropping in Class III.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q023",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-022"
+    ],
+    "category": "Trauma Resuscitation and Massive Transfusion",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "'Large bore' peripheral IV access in trauma generally refers to ____ or ____ gauge catheters.",
+    "choices": null,
+    "correct_answer": "16 or 18",
+    "accepted_answers": [
+      "16 or 18",
+      "16 and 18",
+      "16, 18"
+    ],
+    "explanation": "16 or 18 gauge peripheral IVs are considered large bore for trauma resuscitation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q024",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-023"
+    ],
+    "category": "Trauma Resuscitation and Massive Transfusion",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "Which of the following is an alternative vascular access option if peripheral IV access fails in trauma?",
+    "choices": [
+      "Intraosseous catheter",
+      "Peripheral arterial line only",
+      "Nasogastric tube",
+      "Foley catheter"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Central lines, cordis catheters, and intraosseous access are alternatives when peripheral IV access is not obtainable.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q025",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-024"
+    ],
+    "category": "Trauma Resuscitation and Massive Transfusion",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the preferred resuscitation fluid in modern trauma care?",
+    "choices": [
+      "Whole blood",
+      "Crystalloid (normal saline)",
+      "5% dextrose",
+      "Colloid solutions"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Whole blood is the preferred resuscitation fluid; crystalloid resuscitation is now de-emphasized.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q026",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-024"
+    ],
+    "category": "Trauma Resuscitation and Massive Transfusion",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "If using component therapy for trauma resuscitation, the target ratio of plasma:platelets:red cells is ____.",
+    "choices": null,
+    "correct_answer": "1:1:1",
+    "accepted_answers": [
+      "1:1:1",
+      "1 to 1 to 1"
+    ],
+    "explanation": "A 1:1:1 ratio approximates whole blood resuscitation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q027",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-026"
+    ],
+    "category": "Trauma Resuscitation and Massive Transfusion",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "In balanced/damage control resuscitation, approximately how many bags of packed red cells and FFP are given for each bag of platelets?",
+    "choices": [
+      "Five to six bags of each",
+      "One bag of each",
+      "Ten bags of each",
+      "Two bags of each"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Pooled platelet units contain 5-6 packs each, so fewer platelet bags are needed relative to PRBC/FFP bags to maintain balanced ratios.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q028",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-027"
+    ],
+    "category": "Trauma Resuscitation and Massive Transfusion",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "According to the CRASH-2 trial, what is the TXA dosing regimen in trauma?",
+    "choices": [
+      "1 gram within 3 hours of injury, then 1 gram over the next 8 hours",
+      "2 grams as a single bolus only",
+      "500 mg every hour for 6 hours",
+      "1 gram daily for 3 days"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "CRASH-2 established this dosing regimen: 1g load within 3 hours, then 1g infused over 8 hours.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q029",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-027"
+    ],
+    "category": "Trauma Resuscitation and Massive Transfusion",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "TXA works in trauma resuscitation by decreasing ____.",
+    "choices": null,
+    "correct_answer": "fibrinolysis",
+    "accepted_answers": [
+      "fibrinolysis"
+    ],
+    "explanation": "TXA is an antifibrinolytic agent.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q030",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-028"
+    ],
+    "category": "TEG (Thromboelastography)",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What does thromboelastography (TEG) measure?",
+    "choices": [
+      "The whole process of clot formation and lysis from a blood sample",
+      "Only platelet count",
+      "Only hemoglobin level",
+      "Only INR"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "TEG provides a global assessment of clot formation, strength, and breakdown.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q031",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-029"
+    ],
+    "category": "TEG (Thromboelastography)",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "On TEG, a prolonged R time indicates a need for which blood product?",
+    "choices": [
+      "FFP",
+      "Platelets",
+      "Cryoprecipitate",
+      "TXA"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A prolonged R time reflects delayed clot initiation, corrected with FFP (clotting factors).",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q032",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-030"
+    ],
+    "category": "TEG (Thromboelastography)",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "On TEG, a low alpha angle (slow clot formation) indicates a need for which blood product?",
+    "choices": [
+      "Cryoprecipitate",
+      "FFP",
+      "Platelets",
+      "Packed red cells"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A low angle reflects fibrinogen deficiency, corrected with cryoprecipitate.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q033",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-031"
+    ],
+    "category": "TEG (Thromboelastography)",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "On TEG, a low maximum amplitude (MA) indicates a need for which blood product?",
+    "choices": [
+      "Platelets",
+      "FFP",
+      "Cryoprecipitate",
+      "TXA"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "MA reflects clot strength, primarily driven by platelet function, so platelets are given for a low MA.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q034",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-032"
+    ],
+    "category": "TEG (Thromboelastography)",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "On TEG, a high LY30 indicates a need for which agent?",
+    "choices": [
+      "TXA",
+      "Platelets",
+      "FFP",
+      "Cryoprecipitate"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A high LY30 reflects excessive fibrinolysis, treated with TXA.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q035",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-033"
+    ],
+    "category": "Disability and Exposure",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What are the two key components of the disability exam in the primary survey?",
+    "choices": [
+      "GCS score and pupillary exam",
+      "Reflexes and cranial nerve exam",
+      "Motor strength and sensory exam only",
+      "GCS score and skin exam"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Disability assessment centers on the GCS score and pupillary exam.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q036",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-034"
+    ],
+    "category": "Disability and Exposure",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which component of the GCS has the greatest prognostic significance?",
+    "choices": [
+      "Motor score",
+      "Eye opening score",
+      "Verbal score",
+      "Total score alone, with no individual component mattering"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The motor component of GCS carries the most prognostic weight.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q037",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-035"
+    ],
+    "category": "Disability and Exposure",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "A GCS less than ____ suggests the need for intubation.",
+    "choices": null,
+    "correct_answer": "8",
+    "accepted_answers": [
+      "8"
+    ],
+    "explanation": "GCS < 8 is the classic cutoff for intubation ('GCS less than 8, intubate').",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q038",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-036"
+    ],
+    "category": "Disability and Exposure",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What does the 'exposure' step of the primary survey involve?",
+    "choices": [
+      "Fully undressing and examining the patient, including log rolling, then covering with warm blankets",
+      "Only examining the chest and abdomen",
+      "Only checking for visible external bleeding",
+      "Placing monitoring leads"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Full exposure with a thorough exam, including the back, followed by covering with warm blankets to prevent hypothermia, is essential.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q039",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-037"
+    ],
+    "category": "FAST Exam",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "FAST stands for Focused Assessment with ____ for Trauma.",
+    "choices": null,
+    "correct_answer": "Sonography",
+    "accepted_answers": [
+      "Sonography",
+      "sonography"
+    ],
+    "explanation": "FAST = Focused Assessment with Sonography for Trauma.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q040",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-038"
+    ],
+    "category": "FAST Exam",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which of the following is NOT one of the four standard FAST exam windows?",
+    "choices": [
+      "Epigastric window",
+      "Pericardial window",
+      "Right upper quadrant window",
+      "Suprapubic window"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The four standard windows are pericardial, RUQ, LUQ, and suprapubic — epigastric is not one of them.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q041",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-039"
+    ],
+    "category": "FAST Exam",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What does an extended FAST (eFAST) add to the standard exam?",
+    "choices": [
+      "Anterior views of bilateral hemithoraces to detect pneumothorax",
+      "A view of the retroperitoneum",
+      "A view of the brain",
+      "A view of the extremities"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "eFAST adds anterior chest views to detect pneumothorax.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q042",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-040"
+    ],
+    "category": "FAST Exam",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "A patient has a positive FAST exam and is hemodynamically unstable. What is the next step?",
+    "choices": [
+      "Straight to the operating room",
+      "CT scan first",
+      "Repeat the FAST in 1 hour",
+      "Diagnostic peritoneal lavage"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Unstable patients with a positive FAST require immediate operative intervention.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q043",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-041"
+    ],
+    "category": "FAST Exam",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A patient has a positive FAST exam and is hemodynamically stable. What is the next step?",
+    "choices": [
+      "Obtain further imaging with a CT scan",
+      "Immediate laparotomy",
+      "Discharge with outpatient follow-up",
+      "Diagnostic peritoneal lavage"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Stable patients with a positive FAST get further characterization with CT.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q044",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-042"
+    ],
+    "category": "FAST Exam",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "The FAST exam reliably evaluates the retroperitoneum for bleeding.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "FAST cannot evaluate the retroperitoneum, so it may miss significant pelvic fracture-related bleeding.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q045",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-043"
+    ],
+    "category": "Resuscitative Thoracotomy",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which factors influence the decision to perform a resuscitative thoracotomy?",
+    "choices": [
+      "Mechanism, location of injury, duration of arrest, and signs of life",
+      "Only the patient's age",
+      "Only the presence of a positive FAST",
+      "Only the time of day"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "These four factors together guide the decision for resuscitative thoracotomy.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q046",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-044"
+    ],
+    "category": "Resuscitative Thoracotomy",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which of the following is considered a 'sign of life' in resuscitative thoracotomy decision-making?",
+    "choices": [
+      "Pupillary reflex",
+      "Fixed and dilated pupils",
+      "Absent cardiac electrical activity",
+      "Cold extremities"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Signs of life include pupillary reflex, spontaneous ventilation, carotid pulse, measurable BP, extremity movement, and cardiac electrical activity.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q047",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-045"
+    ],
+    "category": "Resuscitative Thoracotomy",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Per Western Trauma Association guidelines, resuscitative thoracotomy can be considered in a pulseless patient with no signs of life after less than ____ minutes of CPR for penetrating injury.",
+    "choices": null,
+    "correct_answer": "15",
+    "accepted_answers": [
+      "15"
+    ],
+    "explanation": "WTA guidelines allow up to 15 minutes of CPR for penetrating trauma, versus 10 minutes for blunt trauma.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q048",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-045"
+    ],
+    "category": "Resuscitative Thoracotomy",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Per Western Trauma Association guidelines, resuscitative thoracotomy can be considered in a pulseless patient with no signs of life after less than ____ minutes of CPR for blunt injury.",
+    "choices": null,
+    "correct_answer": "10",
+    "accepted_answers": [
+      "10"
+    ],
+    "explanation": "WTA guidelines allow up to 10 minutes of CPR for blunt trauma before resuscitative thoracotomy is no longer favored.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q049",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-047"
+    ],
+    "category": "Resuscitative Thoracotomy",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "According to EAST guidelines, resuscitative thoracotomy is recommended for blunt trauma patients without signs of life.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "EAST guidelines do not recommend resuscitative thoracotomy for blunt trauma patients without signs of life.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q050",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-048"
+    ],
+    "category": "Resuscitative Thoracotomy",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What physiologic changes occur when aortic occlusion (e.g., after REBOA or thoracotomy) is released?",
+    "choices": [
+      "Drop in aortic afterload and washout of ischemic metabolites, worsening tissue injury",
+      "Immediate normalization of hemodynamics",
+      "Increased aortic afterload",
+      "No significant physiologic change"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Reperfusion after aortic occlusion release can paradoxically cause further tissue injury from metabolite washout and afterload drop.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q051",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-049"
+    ],
+    "category": "Damage Control Surgery and Resuscitation",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What are the two main goals of damage control laparotomy?",
+    "choices": [
+      "Stop the bleeding and limit contamination",
+      "Perform definitive repair of all injuries",
+      "Close the abdomen primarily in all cases",
+      "Avoid the ICU"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Damage control surgery prioritizes rapid hemorrhage and contamination control over definitive repair.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q052",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-050"
+    ],
+    "category": "Damage Control Surgery and Resuscitation",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Damage control resuscitation targets permissive hypotension, often guided by presence of a palpable ____ pulse.",
+    "choices": null,
+    "correct_answer": "radial",
+    "accepted_answers": [
+      "radial"
+    ],
+    "explanation": "A palpable radial pulse roughly correlates to a systolic BP of about 90, a common target in permissive hypotension.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q053",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-051"
+    ],
+    "category": "Damage Control Surgery and Resuscitation",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "Damage control resuscitation emphasizes liberal crystalloid administration alongside blood products.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Crystalloid use is limited in damage control resuscitation, with emphasis on blood product transfusion.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q054",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-052"
+    ],
+    "category": "Traumatic Brain Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the classic CT appearance and clinical course of an epidural hematoma?",
+    "choices": [
+      "Lens-shaped collection with a lucid interval followed by rapid deterioration",
+      "Crescent-shaped collection with gradual onset",
+      "Diffuse punctate hemorrhages",
+      "No CT findings, diagnosis is clinical only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Epidural hematomas appear lens-shaped (biconvex) on CT and classically present with a lucid interval before deterioration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q055",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-053"
+    ],
+    "category": "Traumatic Brain Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the classic CT appearance of a subdural hematoma?",
+    "choices": [
+      "Crescent-shaped collection crossing suture lines",
+      "Lens-shaped collection contained by suture lines",
+      "A ring-enhancing lesion",
+      "Diffuse cerebral edema only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Subdural hematomas appear crescent-shaped and cross suture lines.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q056",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-054"
+    ],
+    "category": "Traumatic Brain Injury",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Both epidural and subdural hematomas require immediate surgical evaluation to determine the need for decompression.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Both intracranial hemorrhage types warrant immediate surgical evaluation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q057",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-056"
+    ],
+    "category": "Traumatic Brain Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the classic presentation of subarachnoid hemorrhage?",
+    "choices": [
+      "The 'worst headache of life'",
+      "Gradual onset headache over days",
+      "Painless vision loss",
+      "Isolated unilateral weakness"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "SAH classically presents as a sudden, severe 'thunderclap' headache described as the worst of the patient's life.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q058",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-057"
+    ],
+    "category": "Traumatic Brain Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "An ICP monitor is generally indicated in a patient with a GCS less than ____ and an abnormal head CT.",
+    "choices": null,
+    "correct_answer": "8",
+    "accepted_answers": [
+      "8"
+    ],
+    "explanation": "GCS < 8 with abnormal head CT is the general indication for ICP monitoring.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q059",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-058"
+    ],
+    "category": "Traumatic Brain Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which type of ICP monitor can both measure pressure and drain CSF?",
+    "choices": [
+      "Ventriculostomy",
+      "Bolt",
+      "Both equally",
+      "Neither"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A ventriculostomy is placed into the ventricle, allowing both pressure measurement and CSF drainage, unlike a bolt.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q060",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-059"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the primary goal in managing head trauma to prevent worsening injury?",
+    "choices": [
+      "Reducing secondary injury by avoiding hypotension and hypoxia",
+      "Aggressive fluid restriction",
+      "Immediate hyperventilation to PaCO2 of 20",
+      "Permissive severe hypotension"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Avoiding hypotension and hypoxia is central to preventing secondary brain injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q061",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-060"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What does Cushing's reflex (bradycardia, hypertension, altered respirations) indicate?",
+    "choices": [
+      "Impending or ongoing brain herniation from elevated ICP",
+      "Hemorrhagic shock",
+      "Cardiac tamponade",
+      "Spinal shock"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Cushing's reflex signals significant brain compression and possible herniation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q062",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-061"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which of the following is a first-line, simple measure to help lower elevated ICP?",
+    "choices": [
+      "Elevating the head of the bed",
+      "Aggressive fluid bolus",
+      "Placing the patient flat",
+      "Withholding sedation"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Elevating the head of the bed is a simple, first-line measure to reduce ICP.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q063",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-062"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Cerebral perfusion pressure (CPP) = MAP minus ____.",
+    "choices": null,
+    "correct_answer": "ICP",
+    "accepted_answers": [
+      "ICP",
+      "intracranial pressure"
+    ],
+    "explanation": "CPP = MAP - ICP, and should generally be kept above 60.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q064",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-062"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "The target minimum cerebral perfusion pressure (CPP) is generally 60 mmHg.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "CPP should be maintained above 60 to ensure adequate cerebral perfusion.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q065",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-065"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Steroids are recommended in the management of traumatic brain injury.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Studies show no benefit and potential harm from steroids in TBI.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q066",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-066"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the fastest method to reverse warfarin's anticoagulant effect?",
+    "choices": [
+      "PCC (prothrombin complex concentrate)",
+      "Vitamin K alone",
+      "FFP alone",
+      "Platelet transfusion"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "PCC works fastest, followed by FFP, then vitamin K (slowest).",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q067",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-066"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Warfarin inhibits vitamin K-dependent synthesis of clotting factors II, VII, IX, X, and proteins C and ____.",
+    "choices": null,
+    "correct_answer": "S",
+    "accepted_answers": [
+      "S"
+    ],
+    "explanation": "Warfarin affects factors II, VII, IX, X, and proteins C and S.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q068",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-067"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the specific reversal agent for dabigatran (Pradaxa)?",
+    "choices": [
+      "Idarucizumab (Praxbind)",
+      "Andexanet alfa",
+      "Vitamin K",
+      "Protamine"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Idarucizumab (Praxbind) is the specific reversal agent for the direct thrombin inhibitor dabigatran.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q069",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-068"
+    ],
+    "category": "ICP Management and Anticoagulant Reversal",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Rivaroxaban and apixaban belong to which drug class, and what is their specific reversal agent?",
+    "choices": [
+      "Factor Xa inhibitors; andexanet alfa (Andexxa)",
+      "Direct thrombin inhibitors; idarucizumab",
+      "Vitamin K antagonists; vitamin K",
+      "Heparinoids; protamine"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Both are factor Xa inhibitors reversible with PCC or the specific agent andexanet alfa.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q070",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-069"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Central cord syndrome classically presents with what finding?",
+    "choices": [
+      "Upper extremity weakness",
+      "Isolated lower extremity weakness",
+      "Complete quadriplegia",
+      "Isolated sensory loss with normal motor function"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Central cord syndrome presents with disproportionate upper extremity weakness, often in elderly patients with spinal stenosis.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q071",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-070"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Brown-Séquard syndrome (cord hemisection) presents with which pattern of deficits?",
+    "choices": [
+      "Ipsilateral motor loss with contralateral pain/temperature loss",
+      "Bilateral motor loss with preserved sensation",
+      "Isolated bladder dysfunction",
+      "Contralateral motor loss with ipsilateral pain/temperature loss"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Cord hemisection causes ipsilateral motor deficit and contralateral pain/temperature loss below the injury level.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q072",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-071"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Anterior cord syndrome, classically seen after compromise of the anterior spinal artery (e.g., after TEVAR), presents with what deficit?",
+    "choices": [
+      "Motor deficit below the level of injury",
+      "Isolated proprioception loss",
+      "Isolated pain/temperature preservation with intact motor function",
+      "Complete bilateral upper extremity paralysis only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Anterior cord syndrome causes motor deficits from anterior spinal artery compromise.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q073",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-072"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "SCIWORA (Spinal Cord Injury WithOut Radiographic Abnormality) is seen primarily in the ____ population.",
+    "choices": null,
+    "correct_answer": "pediatric",
+    "accepted_answers": [
+      "pediatric"
+    ],
+    "explanation": "SCIWORA is characteristically seen in children.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q074",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-073"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Neurogenic shock is characterized by hemodynamic changes such as hypotension from loss of vascular tone.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Neurogenic shock affects hemodynamics — hypotension (and possibly bradycardia if T1-T4 sympathetic input is disrupted).",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q075",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-073"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Spinal shock refers to hemodynamic instability from loss of sympathetic vascular tone.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Spinal shock refers to loss of spinal cord function (including reflexes) below the injury level, not hemodynamics — that is neurogenic shock.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q076",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-074"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How is neurogenic shock treated, and what is the typical recovery timeline?",
+    "choices": [
+      "Resuscitation and vasopressors, improving within 1-2 weeks",
+      "Steroids, improving within 24 hours",
+      "Surgical decompression only",
+      "No treatment is effective"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Neurogenic shock is managed supportively with fluids/vasopressors and typically improves within 1-2 weeks.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q077",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-075"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What indicates resolution of spinal shock?",
+    "choices": [
+      "Return of spinal cord reflexes",
+      "Normalization of blood pressure",
+      "Return of full motor function",
+      "Resolution of pain"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The return of spinal reflexes marks resolution of spinal shock.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q078",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-076"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How is the bulbocavernosus reflex tested, and what is a normal response?",
+    "choices": [
+      "Pinching the glans/clitoris or tugging the Foley catheter; normal response is anal sphincter contraction",
+      "Testing the patellar reflex; normal response is knee extension",
+      "Pinprick testing of the sacral dermatomes; normal response is withdrawal",
+      "Testing corneal reflex; normal response is blinking"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The bulbocavernosus reflex tests sacral reflex arc integrity; a normal response is anal contraction.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q079",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-077"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Disruption of two of three spinal columns generally indicates an unstable spine requiring operative fixation.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "The three-column model helps determine spinal stability; two-column disruption suggests instability.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q080",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-078"
+    ],
+    "category": "Spinal Cord Injury",
+    "importance": 4,
+    "difficulty": 1,
+    "question": "Steroids are recommended for the treatment of acute spinal cord injury.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Steroids are not used for spinal cord injury management.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q081",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-080"
+    ],
+    "category": "Neck Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Zone I of the neck extends from the clavicles to the ____ cartilage.",
+    "choices": null,
+    "correct_answer": "cricoid",
+    "accepted_answers": [
+      "cricoid"
+    ],
+    "explanation": "Zone I spans from the clavicles to the cricoid cartilage.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q082",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-081"
+    ],
+    "category": "Neck Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Zone II of the neck extends from the cricoid cartilage to the angle of the ____.",
+    "choices": null,
+    "correct_answer": "mandible",
+    "accepted_answers": [
+      "mandible"
+    ],
+    "explanation": "Zone II spans from the cricoid cartilage to the angle of the mandible.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q083",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-082"
+    ],
+    "category": "Neck Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Zone III of the neck extends from the angle of the mandible to the ____.",
+    "choices": null,
+    "correct_answer": "skull base",
+    "accepted_answers": [
+      "skull base",
+      "base of skull"
+    ],
+    "explanation": "Zone III spans from the angle of the mandible to the skull base.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q084",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-083"
+    ],
+    "category": "Neck Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "A patient has a penetrating neck injury and is hypotensive. What is the next step?",
+    "choices": [
+      "Straight to the operating room",
+      "CTA of the neck first",
+      "Observation with serial exams",
+      "Local wound exploration at bedside"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Hypotension with penetrating neck trauma warrants immediate operative exploration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q085",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-084"
+    ],
+    "category": "Neck Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which of the following is a 'hard sign' of vascular injury in penetrating neck trauma?",
+    "choices": [
+      "Expanding hematoma",
+      "Mild ecchymosis",
+      "Superficial abrasion",
+      "Stable vital signs"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Hard signs include pulsatile bleeding, expanding hematoma, distal ischemia, and bruit/thrill.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q086",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-085"
+    ],
+    "category": "Neck Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "A patient with penetrating neck trauma has no hypotension and no hard signs of vascular injury. What is the next step?",
+    "choices": [
+      "CTA of the neck",
+      "Immediate operative exploration",
+      "Discharge home",
+      "Observation without imaging"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Without hard signs or instability, CTA of the neck is the appropriate next step.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q087",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-086"
+    ],
+    "category": "Neck Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which surgical approach is generally preferred for a Zone III neck vascular injury?",
+    "choices": [
+      "Endovascular intervention",
+      "Sternotomy",
+      "Anterior SCM incision alone",
+      "Posterior neck approach"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Zone III is difficult to access surgically, making endovascular approaches preferred.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q088",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-086"
+    ],
+    "category": "Neck Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "If vascular surgery or IR is not available for a Zone I neck vascular injury, what surgical approach can be used?",
+    "choices": [
+      "Sternotomy",
+      "Craniotomy",
+      "Posterior thoracotomy",
+      "Laparotomy"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Sternotomy provides access to Zone I structures when endovascular options are unavailable.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q089",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-087"
+    ],
+    "category": "Neck Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "The surgical incision for exploring a Zone II neck injury is made along the anterior border of the ____ muscle.",
+    "choices": null,
+    "correct_answer": "sternocleidomastoid",
+    "accepted_answers": [
+      "sternocleidomastoid",
+      "SCM"
+    ],
+    "explanation": "The anterior border of the SCM is the classic incision line for Zone II neck exploration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q090",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-089"
+    ],
+    "category": "Esophageal and Tracheal Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which of the following is a hard sign of esophageal injury?",
+    "choices": [
+      "Air bubbling from the wound",
+      "Mild neck tenderness",
+      "Isolated dysphagia",
+      "Normal chest X-ray"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Hard signs include massive hemoptysis, hematemesis, respiratory distress, and air bubbling from the wound.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q091",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-090"
+    ],
+    "category": "Esophageal and Tracheal Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the initial diagnostic study for suspected esophageal injury, and what is the next step if negative but suspicion remains?",
+    "choices": [
+      "Upper GI study with water-soluble contrast, then dilute barium study/esophagoscopy if negative",
+      "CT scan alone, with no further workup needed",
+      "MRI of the neck",
+      "Direct laryngoscopy alone"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Water-soluble contrast study is first-line, escalating to barium or endoscopy if suspicion persists despite a negative study.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q092",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-091"
+    ],
+    "category": "Esophageal and Tracheal Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How is a recent (1-2 hour old) esophageal injury managed?",
+    "choices": [
+      "Immediate primary repair with debridement, wide drainage, and buttressing",
+      "Delayed repair only after 6 weeks",
+      "Esophagectomy in all cases",
+      "Observation without intervention"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Fresh esophageal injuries are managed with immediate primary repair.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q093",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-092"
+    ],
+    "category": "Esophageal and Tracheal Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Esophageal repair should extend the myotomy to visualize the full extent of the mucosal injury before repairing in two layers.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Because the mucosal injury often extends beyond the visible muscular defect, the myotomy should be extended to fully assess it.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q094",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-093"
+    ],
+    "category": "Esophageal and Tracheal Injury",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "What should be placed after esophageal repair to support postoperative nutrition?",
+    "choices": [
+      "A feeding tube past the repair site",
+      "A nasogastric tube on suction only",
+      "A gastrostomy tube proximal to the repair",
+      "No feeding access is needed"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Feeding access distal to the repair allows enteral nutrition while the repair heals.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q095",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-095"
+    ],
+    "category": "Esophageal and Tracheal Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How is a suspected tracheal injury evaluated, and how is it repaired?",
+    "choices": [
+      "Laryngoscopy/bronchoscopy for evaluation; repaired with interrupted absorbable suture",
+      "CT scan alone; repaired with permanent suture",
+      "MRI; repaired with staples",
+      "No evaluation needed if patient is asymptomatic"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Direct visualization via laryngoscopy/bronchoscopy is used, with repair via interrupted absorbable suture.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q096",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-096"
+    ],
+    "category": "Blunt Cerebrovascular Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What screening criteria are commonly used to identify patients for blunt cerebrovascular injury workup?",
+    "choices": [
+      "Denver or Memphis criteria",
+      "Rutherford criteria",
+      "Glasgow criteria",
+      "APACHE II criteria"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The Denver and Memphis criteria are the standard screening tools for BCVI.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q097",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-097"
+    ],
+    "category": "Blunt Cerebrovascular Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is the most common mechanism and injury type in blunt cerebrovascular injury?",
+    "choices": [
+      "Hyperextension causing an intimal tear",
+      "Direct blunt impact causing complete transection",
+      "Rotational injury causing pseudoaneurysm only",
+      "Hyperflexion causing vessel occlusion only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Hyperextension is the most common mechanism, and intimal tear is the most common resulting injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q098",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-098"
+    ],
+    "category": "Blunt Cerebrovascular Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What BCVI grade is characterized by a pseudoaneurysm?",
+    "choices": [
+      "Grade III",
+      "Grade I",
+      "Grade II",
+      "Grade V"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Grade III BCVI is defined by pseudoaneurysm formation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q099",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-098"
+    ],
+    "category": "Blunt Cerebrovascular Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What BCVI grade is characterized by vessel transection with active extravasation?",
+    "choices": [
+      "Grade V",
+      "Grade I",
+      "Grade III",
+      "Grade IV"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Grade V represents the most severe injury: transection with active bleeding.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q100",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-099"
+    ],
+    "category": "Blunt Cerebrovascular Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How are Grade I and II BCVI injuries generally managed?",
+    "choices": [
+      "Antithrombotic/antiplatelet medications",
+      "Immediate open surgical repair",
+      "Immediate endovascular stenting",
+      "Observation with no treatment"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Lower-grade BCVI injuries with patent flow are managed medically with antithrombotic therapy.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q101",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-101"
+    ],
+    "category": "Thoracic Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which chest tube output finding indicates a need for operative intervention?",
+    "choices": [
+      "200 mL/hour over 4 hours",
+      "50 mL/hour for 2 hours",
+      "500 mL total output over 24 hours",
+      "100 mL total on initial placement"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "200 mL/hour sustained over 4 hours is a classic indication for operative intervention.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q102",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-102"
+    ],
+    "category": "Thoracic Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Flail chest is defined as ____ or more consecutive rib fractures in two locations.",
+    "choices": null,
+    "correct_answer": "three",
+    "accepted_answers": [
+      "three",
+      "3"
+    ],
+    "explanation": "Three or more consecutive rib fractures in two locations defines flail chest.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q103",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-103"
+    ],
+    "category": "Thoracic Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How is flail chest managed?",
+    "choices": [
+      "Multimodal pain control, pulmonary toilet, and positive pressure ventilation",
+      "Immediate rib plating for all patients",
+      "Chest tube placement in all cases",
+      "Observation only without pain control"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Flail chest management centers on pain control, pulmonary toilet, and ventilatory support.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q104",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-104"
+    ],
+    "category": "Thoracic Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Randomized controlled data supports rib plating for flail chest patients doing poorly from a pain or respiratory standpoint.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Rib plating has RCT-level support in this specific patient population.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q105",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-105"
+    ],
+    "category": "Cardiac Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which factors are associated with blunt cardiac injury?",
+    "choices": [
+      "High-speed mechanism, thoracic trauma, and chest pain",
+      "Low-speed mechanism only",
+      "Isolated extremity trauma",
+      "Absence of chest trauma"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "These are the classic associated factors for blunt cardiac injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q106",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-106"
+    ],
+    "category": "Cardiac Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A normal sinus rhythm on EKG makes blunt cardiac injury highly unlikely.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "A normal EKG (NSR) has a strong negative predictive value for blunt cardiac injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q107",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-107"
+    ],
+    "category": "Cardiac Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the next test after an abnormal EKG when working up blunt cardiac injury, and what follow-up is needed if abnormal?",
+    "choices": [
+      "Troponin, followed by echocardiogram if elevated",
+      "CT angiogram of the chest",
+      "D-dimer, followed by CT if elevated",
+      "BNP, followed by cardiac catheterization"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Troponin is checked next, with echocardiography if elevated.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q108",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-108"
+    ],
+    "category": "Cardiac Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the preferred surgical approach for penetrating cardiac injury, and what nerve must be protected?",
+    "choices": [
+      "Sternotomy; phrenic nerve",
+      "Thoracotomy; vagus nerve",
+      "Laparotomy; recurrent laryngeal nerve",
+      "Median sternotomy; hypoglossal nerve"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Sternotomy is preferred, with care taken to avoid the laterally-running phrenic nerve when opening the pericardium.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q109",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-109"
+    ],
+    "category": "Cardiac Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How is bleeding from a cardiac injury temporized, and how is the injury definitively repaired?",
+    "choices": [
+      "Finger pressure, then repair with 3-0 permanent monofilament suture (often with pledgets)",
+      "Clamping the aorta, then repair with absorbable suture",
+      "Direct pressure with gauze packing only, no suture repair",
+      "Cardiopulmonary bypass immediately in all cases"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Finger pressure provides temporary control while definitive repair uses permanent monofilament suture, often pledgeted.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q110",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-110"
+    ],
+    "category": "Blunt Aortic Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the most common site of blunt aortic injury?",
+    "choices": [
+      "Ligamentum arteriosum, just distal to the left subclavian artery",
+      "Ascending aorta near the aortic valve",
+      "Abdominal aorta at the bifurcation",
+      "Right subclavian artery origin"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The aortic isthmus at the ligamentum arteriosum is the classic site of blunt aortic injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q111",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-112"
+    ],
+    "category": "Blunt Aortic Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What imaging modality is used to diagnose blunt aortic injury?",
+    "choices": [
+      "CTA",
+      "Plain chest X-ray alone",
+      "MRI",
+      "Transthoracic echocardiogram alone"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "CTA is the diagnostic modality of choice for blunt aortic injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q112",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-113"
+    ],
+    "category": "Blunt Aortic Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What grade of blunt aortic injury is characterized by a pseudoaneurysm with external contour abnormality?",
+    "choices": [
+      "Type III",
+      "Type I",
+      "Type II",
+      "Type IV"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Type III blunt aortic injury is a pseudoaneurysm with contour abnormality.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q113",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-113"
+    ],
+    "category": "Blunt Aortic Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What grade of blunt aortic injury represents frank rupture?",
+    "choices": [
+      "Type IV",
+      "Type I",
+      "Type II",
+      "Type III"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Type IV represents complete rupture, the most severe grade.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q114",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-114"
+    ],
+    "category": "Blunt Aortic Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Initial medical management of blunt aortic injury targets a systolic blood pressure less than ____ using a short-acting beta blocker.",
+    "choices": null,
+    "correct_answer": "120",
+    "accepted_answers": [
+      "120"
+    ],
+    "explanation": "Esmolol titrated to SBP < 120 is standard initial medical management.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q115",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-115"
+    ],
+    "category": "Blunt Aortic Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How are Type III and IV blunt aortic injuries typically repaired today?",
+    "choices": [
+      "TEVAR (endovascular repair)",
+      "Open repair via left thoracotomy only",
+      "Medical management alone without intervention",
+      "Observation with repeat imaging only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "TEVAR has become the standard approach for higher-grade blunt aortic injuries.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q116",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-116"
+    ],
+    "category": "Blunt Aortic Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A patient develops left hand ischemia after TEVAR for blunt aortic injury. What is the cause and treatment?",
+    "choices": [
+      "Coverage of the left subclavian artery; carotid-subclavian bypass",
+      "Embolic occlusion of the brachial artery; embolectomy",
+      "Compartment syndrome of the forearm; fasciotomy",
+      "Radial artery thrombosis; thrombolysis"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "TEVAR coverage of the left subclavian origin can cause arm ischemia, treated with carotid-subclavian bypass.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q117",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-117"
+    ],
+    "category": "Abdominal Trauma - Solid Organ Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the most commonly injured solid organ after blunt abdominal trauma?",
+    "choices": [
+      "Liver",
+      "Spleen",
+      "Kidney",
+      "Pancreas"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The liver is the most commonly injured solid organ in blunt abdominal trauma.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q118",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-118"
+    ],
+    "category": "Abdominal Trauma - Solid Organ Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the most commonly missed injury type after blunt abdominal trauma?",
+    "choices": [
+      "Hollow viscus or pancreatic injury",
+      "Splenic injury",
+      "Hepatic injury",
+      "Renal injury"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Hollow viscus and pancreatic injuries are the most frequently missed injuries.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q119",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-119"
+    ],
+    "category": "Abdominal Trauma - Solid Organ Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "An abdominal seat belt sign on exam should raise concern for which injuries?",
+    "choices": [
+      "Bowel and/or pancreatic injury",
+      "Isolated rib fracture",
+      "Isolated splenic laceration",
+      "Femur fracture"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A seat belt sign is a classic marker for bowel/pancreatic injury risk.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q120",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-120"
+    ],
+    "category": "Abdominal Trauma - Solid Organ Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A CT scan shows free fluid but no solid organ injury. What is the next step?",
+    "choices": [
+      "Operative exploration for suspected hollow viscus injury",
+      "Observation with repeat CT in 24 hours",
+      "Discharge home",
+      "Diagnostic peritoneal lavage only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Free fluid without solid organ injury raises strong suspicion for an unvisualized hollow viscus injury, warranting exploration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q121",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-121"
+    ],
+    "category": "Abdominal Trauma - Solid Organ Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "A hemodynamically unstable patient has a solid organ injury on CT. What is the management?",
+    "choices": [
+      "Operating room",
+      "Angioembolization",
+      "Observation with serial labs",
+      "Repeat CT in 6 hours"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Instability with solid organ injury mandates immediate operative management.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q122",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-122"
+    ],
+    "category": "Abdominal Trauma - Solid Organ Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "A hemodynamically stable patient has a solid organ injury with a contrast blush on CT. What is the management?",
+    "choices": [
+      "Angioembolization via interventional radiology",
+      "Immediate laparotomy",
+      "Observation without intervention",
+      "Discharge with follow-up imaging"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A blush in a stable patient is managed with angioembolization.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q123",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-124"
+    ],
+    "category": "Abdominal Trauma - Solid Organ Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which finding suggests failure of non-operative management of a solid organ injury?",
+    "choices": [
+      "Downtrending hemoglobin with ongoing transfusion requirement",
+      "Stable vital signs",
+      "Resolving abdominal pain",
+      "Normal hemoglobin trend"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Downtrending hemoglobin and ongoing transfusion needs indicate failure of non-operative management, requiring OR.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q124",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-126"
+    ],
+    "category": "Abdominal Stab Wounds",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which finding in an abdominal stab wound patient mandates immediate operative exploration?",
+    "choices": [
+      "Evisceration",
+      "Mild localized tenderness",
+      "A single visible wound without other findings",
+      "Normal vital signs"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Evisceration, hemodynamic instability, and peritonitis all mandate immediate operative exploration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q125",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-127"
+    ],
+    "category": "Abdominal Stab Wounds",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "During local wound exploration of an abdominal stab wound, what finding requires further operative evaluation?",
+    "choices": [
+      "Violation of the anterior rectus sheath",
+      "Subcutaneous fat only visible",
+      "A clean wound tract ending in muscle",
+      "Absence of bleeding"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Fascial (anterior rectus sheath) violation mandates further evaluation via laparoscopy or laparotomy.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q126",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-129"
+    ],
+    "category": "Abdominal Stab Wounds",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Why are flank stab wounds a special category, and how are stable patients worked up?",
+    "choices": [
+      "Concern for retroperitoneal injury; CT with triple contrast including rectal contrast",
+      "No special concern; standard CT abdomen/pelvis suffices",
+      "Concern for cardiac injury; echocardiogram",
+      "Concern for pulmonary injury; chest CT only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Flank wounds raise concern for retroperitoneal structures, worked up with triple-contrast CT in stable patients.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q127",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-130"
+    ],
+    "category": "Abdominal Stab Wounds",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What injury is a concern with thoracoabdominal stab wounds, and how is it evaluated if suspicious?",
+    "choices": [
+      "Diaphragm injury; diagnostic laparoscopy for direct visualization",
+      "Splenic injury; ultrasound only",
+      "Cardiac injury; EKG only",
+      "Esophageal injury; barium swallow only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Diaphragm injuries are difficult to see on CT and often require diagnostic laparoscopy for direct visualization.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q128",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR1-131"
+    ],
+    "category": "Retroperitoneal Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Retroperitoneal Zone I is central and contains the aorta and ____.",
+    "choices": null,
+    "correct_answer": "IVC",
+    "accepted_answers": [
+      "IVC",
+      "inferior vena cava"
+    ],
+    "explanation": "Zone I is the central zone, containing the aorta and IVC.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q129",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-131"
+    ],
+    "category": "Retroperitoneal Injury",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What structures are contained within retroperitoneal Zone II?",
+    "choices": [
+      "The kidneys",
+      "The aorta and IVC",
+      "Structures below the aortic bifurcation",
+      "The pancreas only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Zone II is the lateral zone containing the kidneys.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q130",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR1-132"
+    ],
+    "category": "Retroperitoneal Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "For a penetrating retroperitoneal injury, the entire trajectory should be explored regardless of zone.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Unlike blunt injury, penetrating retroperitoneal injuries should have their entire trajectory explored regardless of zone.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q131",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-133"
+    ],
+    "category": "Retroperitoneal Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "For blunt trauma, how should a Zone I retroperitoneal hematoma be managed?",
+    "choices": [
+      "Explored, ideally after obtaining proximal and distal vascular control",
+      "Never explored regardless of findings",
+      "Packed and observed only",
+      "Managed with IR embolization only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Zone I hematomas from blunt trauma should be explored, ideally with proximal/distal control obtained first.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q132",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-134"
+    ],
+    "category": "Retroperitoneal Injury",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "For blunt trauma, when should a Zone II retroperitoneal hematoma be explored?",
+    "choices": [
+      "Only if expanding or pulsatile",
+      "In all cases regardless of appearance",
+      "Never, regardless of findings",
+      "Only if the patient is hypotensive"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Stable, non-expanding Zone II hematomas from blunt trauma are generally not explored.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR1-Q133",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR1-135"
+    ],
+    "category": "Retroperitoneal Injury",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "For blunt trauma, how is a Zone III retroperitoneal hematoma generally managed?",
+    "choices": [
+      "Packed and sent to IR, unless arterial injury is suspected",
+      "Always explored surgically",
+      "Observed without any intervention",
+      "Immediate nephrectomy"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Zone III blunt hematomas are generally managed with packing and IR referral unless arterial injury is suspected, in which case exploration is warranted.",
+    "clinical_pearl": null,
+    "tags": []
+  }
+]
