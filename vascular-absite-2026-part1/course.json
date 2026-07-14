@@ -1,0 +1,33 @@
+{
+  "id": "vascular-absite-2026-part1",
+  "title": "Vascular Surgery ABSITE Review 2026 - Part 1",
+  "shortTitle": "Vascular ABSITE Pt.1",
+  "description": "Behind the Knife ABSITE Review 2026 血管外科パート1 — 頸動脈から腸間膜虚血まで",
+  "longDescription": "Behind the Knife ABSITE Review 2026の血管外科パート1エピソードに基づく学習コース。頸動脈解剖・CEA合併症・手術適応・脳灌流モニタリング、胸郭出口症候群、鎖骨下動脈盗血症候群、透析アクセス、筋膜切開術、胸部大動脈損傷・動脈瘤、大動脈解離、腸間膜虚血までを網羅する105枚のAtomic Knowledge Cardと110問のクイズで反復学習します。",
+  "icon": "🩸",
+  "color": "#C0392B",
+  "cardsFile": "atomic_cards.json",
+  "quizFile": "quiz_questions.json",
+  "chapters": [
+    "Carotid Anatomy",
+    "CEA Cranial Nerve Complications",
+    "Carotid Stenosis Indications",
+    "CEA Timing Considerations",
+    "Cerebral Monitoring and Shunting",
+    "Post-CEA Complications",
+    "Carotid Stenting and TCAR",
+    "Non-Atherosclerotic Carotid Disease",
+    "Thoracic Outlet Syndrome",
+    "Subclavian Steal Syndrome",
+    "Dialysis Access Basics",
+    "Dialysis Access Complications",
+    "Fasciotomy",
+    "Thoracic Aortic Injury and Aneurysm",
+    "Aortic Dissection",
+    "Mesenteric Ischemia"
+  ],
+  "bonusChapters": ["Quick Hits"],
+  "passThreshold": 70,
+  "chapterQuizSize": 8,
+  "version": "1.0.0"
+}
