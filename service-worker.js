@@ -1,7 +1,7 @@
 'use strict';
 
 /* Bump this on every deploy that changes app-shell files so old caches get cleaned up. */
-var CACHE_VERSION = 'medlearn-v1';
+var CACHE_VERSION = 'medlearn-v2';
 var SHELL_CACHE = CACHE_VERSION + '-shell';
 var DATA_CACHE = CACHE_VERSION + '-data';
 
