@@ -50,11 +50,13 @@ function fetchJSON(url) {
    2. LocalStorage persistence (namespaced per course)
    ============================================================ */
 var LS_THEME = 'medlearn_theme_v1';
+var LS_LANG = 'medlearn_lang_v1';
 var storageAvailable = true;
 function testStorage() { try { var k = '__ml_test__'; localStorage.setItem(k, '1'); localStorage.removeItem(k); return true; } catch (e) { return false; } }
 storageAvailable = testStorage();
 
 function progressKey(courseId) { return 'medlearn_progress_v1__' + courseId; }
+var PROGRESS_KEY_PREFIX = 'medlearn_progress_v1__';
 function freshProgress() { return { items: {}, chapters: {}, totals: { answered: 0, correct: 0, streak: 0, maxStreak: 0, lastStudyAt: null } }; }
 function loadCourseProgress(courseId) {
   if (!storageAvailable) return freshProgress();
@@ -71,6 +73,8 @@ function loadCourseProgress(courseId) {
 function saveCourseProgress(courseId, p) { if (!storageAvailable) return; try { localStorage.setItem(progressKey(courseId), JSON.stringify(p)); } catch (e) { console.warn('progress save failed', e); } }
 function loadTheme() { if (!storageAvailable) return 'light'; try { return localStorage.getItem(LS_THEME) || 'light'; } catch (e) { return 'light'; } }
 function saveTheme(t) { if (!storageAvailable) return; try { localStorage.setItem(LS_THEME, t); } catch (e) {} }
+function loadLang() { if (!storageAvailable) return 'ja'; try { return localStorage.getItem(LS_LANG) || 'ja'; } catch (e) { return 'ja'; } }
+function saveLang(l) { if (!storageAvailable) return; try { localStorage.setItem(LS_LANG, l); } catch (e) {} }
 
 var DAY_MS = 24 * 60 * 60 * 1000;
 var SRS_INTERVALS = [1, 3, 7];
@@ -80,7 +84,157 @@ function getItemRecord(progress, key) {
 function getChapterProgress(progress, chapterId) {
   return progress.chapters[chapterId] || { attempts: 0, quizBestPct: 0, passed: false, cardsDone: false };
 }
-function persist() { if (CTX.course) saveCourseProgress(CTX.course.id, CTX.course.progress); }
+function persist() { if (CTX.course) saveProgressStore(CTX.course.id, CTX.course.progress); }
+
+/* ============================================================
+   2b. Progress store abstraction — local now, cloud-sync-ready
+   ------------------------------------------------------------
+   Every read/write of course progress in this file goes through
+   loadProgressStore() / saveProgressStore() rather than calling
+   the localStorage helpers directly. To add remote sync later
+   (e.g. Supabase), implement loadCloudProgress()/saveCloudProgress()
+   below (they already exist as stubs) and wire them into these two
+   wrapper functions — e.g. write-through to cloud on save, or
+   merge local+cloud on load using mergeProgress(). No other code
+   in this file needs to change.
+   ============================================================ */
+function loadProgressStore(courseId) {
+  // Future: var cloud = await loadCloudProgress(courseId);
+  //         return cloud ? mergeProgress(loadCourseProgress(courseId), cloud) : loadCourseProgress(courseId);
+  return loadCourseProgress(courseId);
+}
+function saveProgressStore(courseId, progress) {
+  saveCourseProgress(courseId, progress);
+  // Future: saveCloudProgress(courseId, progress);
+}
+function loadCloudProgress(courseId) {
+  // Placeholder for a future backend (e.g. Supabase) integration.
+  return Promise.resolve(null);
+}
+function saveCloudProgress(courseId, progress) {
+  // Placeholder for a future backend (e.g. Supabase) integration.
+  return Promise.resolve();
+}
+
+/* ============================================================
+   2c. Progress export / import (merge-safe, all courses at once)
+   ============================================================ */
+function getAllStoredCourseIds() {
+  var ids = [];
+  if (storageAvailable) {
+    try {
+      for (var i = 0; i < localStorage.length; i++) {
+        var k = localStorage.key(i);
+        if (k && k.indexOf(PROGRESS_KEY_PREFIX) === 0) ids.push(k.substring(PROGRESS_KEY_PREFIX.length));
+      }
+    } catch (e) { console.warn('failed to enumerate stored courses', e); }
+  }
+  CTX.registry.forEach(function (r) { if (ids.indexOf(r.id) === -1) ids.push(r.id); });
+  return ids;
+}
+
+function mergeProgress(a, b) {
+  a = a || freshProgress(); b = b || freshProgress();
+  var result = freshProgress();
+
+  var itemKeys = {};
+  Object.keys(a.items || {}).forEach(function (k) { itemKeys[k] = true; });
+  Object.keys(b.items || {}).forEach(function (k) { itemKeys[k] = true; });
+  Object.keys(itemKeys).forEach(function (k) {
+    var ra = (a.items || {})[k], rb = (b.items || {})[k];
+    if (ra && !rb) { result.items[k] = ra; return; }
+    if (rb && !ra) { result.items[k] = rb; return; }
+    if (!ra && !rb) return;
+    var newer = (rb.lastAnsweredAt || 0) >= (ra.lastAnsweredAt || 0) ? rb : ra;
+    result.items[k] = {
+      attempts: Math.max(ra.attempts || 0, rb.attempts || 0),
+      correct: Math.max(ra.correct || 0, rb.correct || 0),
+      incorrect: Math.max(ra.incorrect || 0, rb.incorrect || 0),
+      status: newer.status || 'unanswered',
+      correctStreak: newer.correctStreak || 0,
+      bookmarked: !!ra.bookmarked || !!rb.bookmarked,
+      nextReviewAt: newer.nextReviewAt || null,
+      lastAnsweredAt: Math.max(ra.lastAnsweredAt || 0, rb.lastAnsweredAt || 0) || null,
+    };
+  });
+
+  var chKeys = {};
+  Object.keys(a.chapters || {}).forEach(function (k) { chKeys[k] = true; });
+  Object.keys(b.chapters || {}).forEach(function (k) { chKeys[k] = true; });
+  Object.keys(chKeys).forEach(function (id) {
+    var ca = (a.chapters || {})[id], cb = (b.chapters || {})[id];
+    if (ca && !cb) { result.chapters[id] = ca; return; }
+    if (cb && !ca) { result.chapters[id] = cb; return; }
+    if (!ca && !cb) return;
+    result.chapters[id] = {
+      attempts: Math.max(ca.attempts || 0, cb.attempts || 0),
+      quizBestPct: Math.max(ca.quizBestPct || 0, cb.quizBestPct || 0),
+      passed: !!ca.passed || !!cb.passed,
+      cardsDone: !!ca.cardsDone || !!cb.cardsDone,
+    };
+  });
+
+  var ta = a.totals || {}, tb = b.totals || {};
+  var newerTotals = (tb.lastStudyAt || 0) >= (ta.lastStudyAt || 0) ? tb : ta;
+  result.totals = {
+    answered: Math.max(ta.answered || 0, tb.answered || 0),
+    correct: Math.max(ta.correct || 0, tb.correct || 0),
+    streak: newerTotals.streak || 0,
+    maxStreak: Math.max(ta.maxStreak || 0, tb.maxStreak || 0),
+    lastStudyAt: Math.max(ta.lastStudyAt || 0, tb.lastStudyAt || 0) || null,
+  };
+  return result;
+}
+
+function exportAllProgress() {
+  var ids = getAllStoredCourseIds();
+  var courses = {};
+  ids.forEach(function (id) { courses[id] = loadProgressStore(id); });
+  var payload = { version: 1, exportedAt: Date.now(), app: 'MedLearn', courses: courses };
+  try {
+    var blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement('a');
+    var ts = new Date().toISOString().replace(/[:.]/g, '-');
+    a.href = url;
+    a.download = 'medlearn_progress_' + ts + '.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+  } catch (e) {
+    window.alert('書き出しに失敗しました: ' + ((e && e.message) ? e.message : e));
+  }
+}
+
+function importProgressFile(file) {
+  var reader = new FileReader();
+  reader.onload = function () {
+    try {
+      var parsed = JSON.parse(reader.result);
+      var courses = (parsed && parsed.courses) ? parsed.courses : parsed;
+      if (!courses || typeof courses !== 'object') throw new Error('ファイル形式が正しくありません');
+      var count = 0;
+      Object.keys(courses).forEach(function (id) {
+        var incoming = courses[id];
+        if (!incoming || typeof incoming !== 'object') return;
+        var existing = loadProgressStore(id);
+        var merged = mergeProgress(existing, incoming);
+        saveProgressStore(id, merged);
+        count += 1;
+      });
+      if (CTX.course && courses[CTX.course.id]) {
+        CTX.course.progress = loadProgressStore(CTX.course.id);
+      }
+      window.alert(count + '件の教材の進捗を読み込み、既存の記録とマージしました。');
+      render();
+    } catch (e) {
+      window.alert('進捗ファイルの読み込みに失敗しました: ' + ((e && e.message) ? e.message : e));
+    }
+  };
+  reader.onerror = function () { window.alert('ファイルの読み込みに失敗しました。'); };
+  reader.readAsText(file);
+}
 
 /* ============================================================
    3. Course context — everything specific to the active course
@@ -136,7 +290,7 @@ function openCourse(courseId) {
       difficultyLevels: Array.from(new Set(quiz.map(function (q) { return q.difficulty; }))).sort(),
       passThreshold: meta.passThreshold || 70,
       chapterQuizSize: meta.chapterQuizSize || 8,
-      progress: loadCourseProgress(courseId),
+      progress: loadProgressStore(courseId),
     };
     STATE.screen = 'course-home';
     render();
@@ -249,7 +403,7 @@ function buildChapterQuizQueue(chapterId) {
   return selected.map(function (it) { return it.key; });
 }
 function courseCompletionPct(courseId, meta) {
-  var progress = loadCourseProgress(courseId);
+  var progress = loadProgressStore(courseId);
   var order = (meta.chapters && meta.chapters.length) ? meta.chapters : [];
   if (order.length === 0) return 0;
   var passed = order.filter(function (id) { return getChapterProgress(progress, id).passed; }).length;
@@ -261,6 +415,7 @@ function courseCompletionPct(courseId, meta) {
    ============================================================ */
 var STATE = {
   theme: loadTheme(),
+  lang: loadLang(), // 'ja' | 'en'
   screen: 'loading', // loading | courses | course-home | learn | chapter-intro | setup | session | stats
   setup: null,
   session: null,
@@ -367,6 +522,26 @@ function detailBlock(label, body, extraClass) {
   return '<div class="detail-block' + (extraClass ? ' ' + extraClass : '') + '"><div class="dt-label">' + escapeHtml(label) + '</div><div class="dt-body">' + escapeHtml(body) + '</div></div>';
 }
 
+/* -- i18n helpers ---------------------------------------------
+   If the active language is 'en' and a "<field>_en" property
+   exists (and is non-empty) on the source object, use it.
+   Otherwise fall back to the Japanese field. This keeps every
+   course JSON backward compatible — courses without *_en fields
+   simply keep showing Japanese regardless of the language toggle.
+   -------------------------------------------------------------- */
+function L(obj, field) {
+  if (!obj) return '';
+  if (STATE.lang === 'en') {
+    var enVal = obj[field + '_en'];
+    if (enVal !== undefined && enVal !== null && enVal !== '') return enVal;
+  }
+  return obj[field];
+}
+function Lchoices(q) {
+  if (STATE.lang === 'en' && Array.isArray(q.choices_en) && q.choices_en.length === q.choices.length) return q.choices_en;
+  return q.choices;
+}
+
 /* ============================================================
    11. Top bar
    ============================================================ */
@@ -382,6 +557,7 @@ function renderTopBar() {
       '<div class="topbar-actions">' +
         (inCourse ? '<button class="icon-btn" data-action="go-courses" title="教材一覧" aria-label="教材一覧">📚</button>' : '') +
         (inCourse && STATE.screen !== 'stats' ? '<button class="icon-btn" data-action="go-stats" title="学習履歴" aria-label="学習履歴">📊</button>' : '') +
+        '<button class="icon-btn" data-action="toggle-lang" title="言語切替 / Switch language" aria-label="言語切替">' + (STATE.lang === 'en' ? '🇯🇵 JA' : '🇺🇸 EN') + '</button>' +
         '<button class="icon-btn" data-action="toggle-theme" title="テーマ切替" aria-label="テーマ切替">' + (STATE.theme === 'dark' ? '☀️' : '🌙') + '</button>' +
       '</div>' +
     '</div>'
@@ -391,6 +567,14 @@ function renderTopBar() {
 /* ============================================================
    12. Course picker (app home)
    ============================================================ */
+function renderIoRow() {
+  return (
+    '<div class="progress-io-row" style="display:flex;gap:10px;flex-wrap:wrap;margin:16px 0 8px;">' +
+      '<button class="btn btn-ghost" data-action="export-progress">⬇️ 進捗を書き出す</button>' +
+      '<button class="btn btn-ghost" data-action="import-progress">⬆️ 進捗を読み込む</button>' +
+    '</div>'
+  );
+}
 function renderCoursePicker() {
   if (STATE.loadError) {
     return (
@@ -399,11 +583,11 @@ function renderCoursePicker() {
         '<h3 style="font-family:var(--font-display);color:var(--text);">教材一覧の読み込みに失敗しました</h3>' +
         '<p>' + escapeHtml(STATE.loadError) + '</p>' +
         '<button class="btn btn-primary" data-action="retry-registry">再読み込み</button>' +
-      '</div>'
+      '</div>' + renderIoRow()
     );
   }
   if (CTX.registry.length === 0) {
-    return '<div class="course-empty"><div style="font-size:34px;margin-bottom:14px;">📭</div><h3 style="font-family:var(--font-display);color:var(--text);">教材がまだ登録されていません</h3><p>courses/courses.json に教材IDを追加してください。</p></div>';
+    return '<div class="course-empty"><div style="font-size:34px;margin-bottom:14px;">📭</div><h3 style="font-family:var(--font-display);color:var(--text);">教材がまだ登録されていません</h3><p>courses/courses.json に教材IDを追加してください。</p></div>' + renderIoRow();
   }
   var cards = CTX.registry.map(function (entry) {
     var meta = entry.meta;
@@ -425,6 +609,7 @@ function renderCoursePicker() {
       '<h1>教材を選んで学習を始める。</h1>' +
       '<p>Atomic Knowledge Card と クイズによる反復学習アプリです。教材ごとに学習履歴は分離して保存されます。</p>' +
     '</div>' +
+    renderIoRow() +
     '<div class="section-label">教材一覧</div>' +
     '<div class="course-grid">' + cards + '</div>'
   );
@@ -636,6 +821,7 @@ function renderModeSetup() {
       '<div class="filter-group"><div class="fg-label">出題順</div><div class="chip-row">' +
         '<button class="chip' + (setup.order === 'shuffle' ? ' on' : '') + '" data-action="set-order" data-value="shuffle">ランダム</button>' +
         '<button class="chip' + (setup.order === 'review' ? ' on' : '') + '" data-action="set-order" data-value="review">復習期限優先</button>' +
+        '<button class="chip' + (setup.order === 'sequential' ? ' on' : '') + '" data-action="set-order" data-value="sequential">教材順（動画順）</button>' +
       '</div></div>' +
       '<div class="start-row">' +
         '<div class="match-count">対象: <b>' + matched.length + '</b>問</div>' +
@@ -751,15 +937,15 @@ function renderCardQuestion(item, rec, answered) {
   var html =
     '<div class="card"><div class="tag-row">' + tag(c.category) + tag(stars(c.importance), c.importance === (CTX.course.importanceLevels[0]) ? 'imp5' : '') +
       '<div style="flex:1;"></div><button class="bookmark-btn' + (rec.bookmarked ? ' on' : '') + '" data-action="toggle-bookmark" data-key="' + item.key + '" title="ブックマーク" aria-label="ブックマーク">' + (rec.bookmarked ? '★' : '☆') + '</button></div>' +
-      '<p class="q-text">' + escapeHtml(c.question) + '</p>';
+      '<p class="q-text">' + escapeHtml(L(c, 'question')) + '</p>';
 
   if (!revealed) {
     html += '<button class="reveal-btn" data-action="reveal-card">タップして答えを見る</button>';
   } else {
-    html += '<div class="answer-box"><div class="ans-label">Answer</div><div class="ans-text">' + escapeHtml(c.answer) + '</div></div>';
-    if (c.explanation) html += detailBlock('Explanation', c.explanation, '');
-    if (c.clinical_pearl) html += detailBlock('💡 Clinical Pearl', c.clinical_pearl, 'pearl');
-    if (c.common_mistake) html += detailBlock('⚠️ Common Mistake', c.common_mistake, 'mistake');
+    html += '<div class="answer-box"><div class="ans-label">Answer</div><div class="ans-text">' + escapeHtml(L(c, 'answer')) + '</div></div>';
+    if (c.explanation) html += detailBlock('Explanation', L(c, 'explanation'), '');
+    if (c.clinical_pearl) html += detailBlock('💡 Clinical Pearl', L(c, 'clinical_pearl'), 'pearl');
+    if (c.common_mistake) html += detailBlock('⚠️ Common Mistake', L(c, 'common_mistake'), 'mistake');
     if (c.related && c.related.length > 0) {
       html += '<div class="detail-block"><div class="dt-label">Related</div><div class="src-ids">' + c.related.map(function (r) { return '<span class="src-chip">' + escapeHtml(r) + '</span>'; }).join('') + '</div></div>';
     }
@@ -783,11 +969,12 @@ function renderQuizQuestion(item, rec, answered) {
   var html =
     '<div class="card"><div class="tag-row">' + tag(q.category) + tag(stars(q.importance), q.importance === CTX.course.importanceLevels[0] ? 'imp5' : '') + tag(QUIZ_TYPE_LABEL[q.type]) +
       '<div style="flex:1;"></div><button class="bookmark-btn' + (rec.bookmarked ? ' on' : '') + '" data-action="toggle-bookmark" data-key="' + item.key + '" title="ブックマーク" aria-label="ブックマーク">' + (rec.bookmarked ? '★' : '☆') + '</button></div>' +
-      '<p class="q-text">' + escapeHtml(q.question) + '</p>';
+      '<p class="q-text">' + escapeHtml(L(q, 'question')) + '</p>';
 
   if (q.type === 'multiple_choice') {
+    var choices = Lchoices(q);
     html += '<div class="choices">';
-    q.choices.forEach(function (c, idx) {
+    choices.forEach(function (c, idx) {
       var cls = 'choice-btn';
       if (locked) { if (idx === q.correct_answer) cls += ' correct'; else if (idx === selected) cls += ' incorrect'; }
       else if (idx === selected) cls += ' selected';
@@ -814,8 +1001,8 @@ function renderQuizQuestion(item, rec, answered) {
   if (locked) {
     html += '<div class="result-banner ' + (answered.isCorrect ? 'good' : 'bad') + '">' + (answered.isCorrect ? '✓ 正解！' : '✗ 不正解') + '</div>';
     if (q.type === 'fill_blank') html += '<div class="answer-box"><div class="ans-label">正解</div><div class="ans-text">' + escapeHtml(q.correct_answer) + '</div></div>';
-    html += detailBlock('Explanation', q.explanation, '');
-    if (q.clinical_pearl) html += detailBlock('💡 Clinical Pearl', q.clinical_pearl, 'pearl');
+    html += detailBlock('Explanation', L(q, 'explanation'), '');
+    if (q.clinical_pearl) html += detailBlock('💡 Clinical Pearl', L(q, 'clinical_pearl'), 'pearl');
     if (q.source_card_ids && q.source_card_ids.length > 0) {
       html += '<div class="detail-block"><div class="dt-label">Source Cards</div><div class="src-ids">' + q.source_card_ids.map(function (sid) { return '<span class="src-chip">' + escapeHtml(sid) + '</span>'; }).join('') + '</div></div>';
     }
@@ -881,7 +1068,7 @@ function renderStats() {
     } else {
       body = wrongItems.map(function (it) {
         var typeLabel = it.kind === 'card' ? '一問一答' : QUIZ_TYPE_LABEL[it.qtype];
-        return '<div class="wrong-list-item"><div class="wtxt">' + escapeHtml(it.data.question) + '</div><div class="wcat">' + escapeHtml(it.category) + ' ・ ' + typeLabel + ' ・ ' + escapeHtml(it.id) + '</div></div>';
+        return '<div class="wrong-list-item"><div class="wtxt">' + escapeHtml(L(it.data, 'question')) + '</div><div class="wcat">' + escapeHtml(it.category) + ' ・ ' + typeLabel + ' ・ ' + escapeHtml(it.id) + '</div></div>';
       }).join('');
     }
   }
@@ -898,6 +1085,7 @@ function renderStats() {
    ============================================================ */
 function render() {
   document.documentElement.setAttribute('data-theme', STATE.theme);
+  document.documentElement.setAttribute('data-lang', STATE.lang);
   var root = document.getElementById('root');
   var body;
   if (STATE.screen === 'loading') body = '<div class="loading-state"><div class="loading-spinner"></div><p>読み込み中...</p></div>';
@@ -910,7 +1098,9 @@ function render() {
   else if (STATE.screen === 'stats') body = renderStats();
   else body = renderCoursePicker();
 
-  root.innerHTML = '<div class="app-shell">' + renderTopBar() + '<div class="main">' + body + '</div></div>';
+  root.innerHTML = '<div class="app-shell">' + renderTopBar() + '<div class="main">' + body + '</div>' +
+    '<input type="file" id="import-file-input" accept="application/json,.json" style="display:none;" />' +
+    '</div>';
 
   var fbInput = document.getElementById('fb-input-live');
   if (fbInput) {
@@ -921,6 +1111,15 @@ function render() {
     });
     fbInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); submitFillBlank(); } });
     fbInput.focus();
+  }
+
+  var importInput = document.getElementById('import-file-input');
+  if (importInput) {
+    importInput.addEventListener('change', function (e) {
+      var file = e.target.files && e.target.files[0];
+      if (file) importProgressFile(file);
+      importInput.value = '';
+    });
   }
 }
 
@@ -979,6 +1178,7 @@ document.addEventListener('click', function (e) {
     case 'go-stats': goStats(); break;
     case 'go-learn': goLearn(); break;
     case 'toggle-theme': STATE.theme = STATE.theme === 'dark' ? 'light' : 'dark'; saveTheme(STATE.theme); render(); break;
+    case 'toggle-lang': STATE.lang = STATE.lang === 'en' ? 'ja' : 'en'; saveLang(STATE.lang); render(); break;
     case 'open-course': openCourse(el.getAttribute('data-course')); break;
     case 'retry-registry': bootRegistry(); break;
     case 'select-mode': goSetup(el.getAttribute('data-mode')); break;
@@ -1012,6 +1212,13 @@ document.addEventListener('click', function (e) {
     case 'session-prev': sessionPrev(); break;
     case 'reset-progress': resetProgress(); break;
     case 'set-stats-tab': STATE.statsTab = el.getAttribute('data-value'); render(); break;
+
+    case 'export-progress': exportAllProgress(); break;
+    case 'import-progress': {
+      var input = document.getElementById('import-file-input');
+      if (input) input.click();
+      break;
+    }
     default: break;
   }
 });
@@ -1021,7 +1228,10 @@ function startSessionFromSetup() {
   var filters = { categories: setup.categories, importance: setup.importance, difficulty: setup.difficulty, qtypes: setup.qtypes, status: setup.status };
   var matched = itemsForMode(setup.mode, CTX.course.progress, filters);
   if (matched.length === 0) return;
-  var queue = setup.order === 'shuffle' ? shuffle(matched) : sortForReview(matched, CTX.course.progress);
+  var queue;
+  if (setup.order === 'shuffle') queue = shuffle(matched);
+  else if (setup.order === 'sequential') queue = matched.slice(); // 教材順 (JSON順) — no reordering
+  else queue = sortForReview(matched, CTX.course.progress);
   goSession(setup.mode, queue.map(function (it) { return it.key; }));
 }
 function refreshRegistryProgress() { /* progress bars are recomputed from localStorage on every render, nothing to prefetch */ }
