@@ -10,12 +10,12 @@
     "difficulty": 1,
     "question": "What is the most common splanchnic artery aneurysm?",
     "choices": [
-      "Splenic artery aneurysm",
       "Hepatic artery aneurysm",
-      "SMA aneurysm",
-      "Gastroduodenal artery aneurysm"
+      "Gastroduodenal artery aneurysm",
+      "Splenic artery aneurysm",
+      "SMA aneurysm"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Splenic artery aneurysm is the most common splanchnic aneurysm.",
     "clinical_pearl": null,
@@ -74,9 +74,9 @@
     "question": "Before coil embolization of a splenic artery aneurysm, what should be done?",
     "choices": [
       "Vaccinate the patient",
+      "Place a lumbar drain",
       "Start high-dose statin",
-      "Perform a splenic biopsy",
-      "Place a lumbar drain"
+      "Perform a splenic biopsy"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -95,12 +95,12 @@
     "difficulty": 2,
     "question": "What describes the classic 'double rupture' presentation of a ruptured splenic artery aneurysm?",
     "choices": [
-      "Initial containment in the lesser sac, followed by rupture into the free peritoneal space",
-      "Simultaneous rupture into the pleural and peritoneal cavities",
       "Rupture into the stomach followed by hematemesis",
-      "Rupture contained entirely within the spleen"
+      "Rupture contained entirely within the spleen",
+      "Simultaneous rupture into the pleural and peritoneal cavities",
+      "Initial containment in the lesser sac, followed by rupture into the free peritoneal space"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "The aneurysm initially ruptures into the lesser sac before subsequently rupturing into the free peritoneal cavity.",
     "clinical_pearl": null,
@@ -117,12 +117,12 @@
     "difficulty": 2,
     "question": "How is a hepatic artery aneurysm treated, and why not with coiling?",
     "choices": [
+      "Ligation without reconstruction",
       "Resection and reconstruction, because flow to the liver must be preserved",
       "Coil embolization, since the liver has dual blood supply",
-      "Observation only",
-      "Ligation without reconstruction"
+      "Observation only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Coiling would sacrifice hepatic arterial flow, so resection with reconstruction is required.",
     "clinical_pearl": null,
@@ -140,12 +140,12 @@
     "difficulty": 2,
     "question": "What size criteria should be used for repairing an SMA aneurysm, and why?",
     "choices": [
-      "All should be repaired regardless of size, because they are often mycotic",
       "Only repair if greater than 3 cm",
       "Only repair if symptomatic",
-      "Observe unless growth exceeds 1 cm/year"
+      "Observe unless growth exceeds 1 cm/year",
+      "All should be repaired regardless of size, because they are often mycotic"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "SMA aneurysms are thought to most commonly be mycotic, so they are repaired regardless of size with resection and reconstruction.",
     "clinical_pearl": null,
@@ -183,12 +183,12 @@
     "difficulty": 1,
     "question": "What is the single biggest risk factor for aortic, iliac, and femoral artery aneurysms?",
     "choices": [
-      "Smoking",
-      "Hypertension",
       "Diabetes",
-      "Hyperlipidemia"
+      "Smoking",
+      "Hyperlipidemia",
+      "Hypertension"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Smoking is overwhelmingly the leading risk factor, even with a remote smoking history.",
     "clinical_pearl": null,
@@ -225,12 +225,12 @@
     "difficulty": 1,
     "question": "What is the treatment for a femoral artery aneurysm?",
     "choices": [
+      "Ligation without reconstruction",
       "Resection and interposition graft",
       "Coil embolization",
-      "Ligation without reconstruction",
       "Balloon angioplasty"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Femoral artery aneurysms are treated with resection and an interposition graft.",
     "clinical_pearl": null,
@@ -267,12 +267,12 @@
     "difficulty": 2,
     "question": "What are the indications for repairing a popliteal artery aneurysm?",
     "choices": [
-      "2 cm in size, or symptomatic (embolic source or thrombosis)",
       "3 cm in size only",
       "Any size if the patient is female",
-      "5 cm in size only"
+      "5 cm in size only",
+      "2 cm in size, or symptomatic (embolic source or thrombosis)"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Popliteal aneurysms are repaired at 2 cm or if symptomatic.",
     "clinical_pearl": null,
@@ -331,8 +331,8 @@
     "choices": [
       "Exclusion and bypass or interposition with vein",
       "Primary aneurysm resection with primary anastomosis",
-      "Coil embolization",
-      "Endarterectomy alone"
+      "Endarterectomy alone",
+      "Coil embolization"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -353,8 +353,8 @@
     "choices": [
       "Older patients with good multi-vessel tibial runoff",
       "Young patients with poor runoff",
-      "Any patient regardless of runoff status",
-      "Patients with acute limb ischemia only"
+      "Patients with acute limb ischemia only",
+      "Any patient regardless of runoff status"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -374,12 +374,12 @@
     "difficulty": 3,
     "question": "A patient presents with acute limb ischemia from a thrombosed popliteal artery aneurysm with severely diminished distal runoff. What is the preferred initial management, and why is angiography favored over CTA here?",
     "choices": [
-      "Catheter-directed thrombolysis via angiography, since angiography is both diagnostic and therapeutic and better visualizes below-knee vessels than CTA",
       "Immediate CTA followed by elective bypass",
-      "Primary amputation",
-      "Observation with serial exams"
+      "Catheter-directed thrombolysis via angiography, since angiography is both diagnostic and therapeutic and better visualizes below-knee vessels than CTA",
+      "Observation with serial exams",
+      "Primary amputation"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Angiography allows both visualization of poor below-knee vessels (which CTA shows poorly, especially with thrombosis) and therapeutic thrombolysis to clear the outflow before bypass.",
     "clinical_pearl": null,
@@ -416,12 +416,12 @@
     "difficulty": 1,
     "question": "What is the size threshold for AAA repair in men?",
     "choices": [
-      "Greater than 5.5 cm",
-      "Greater than 5.0 cm",
       "Greater than 4.5 cm",
-      "Greater than 6.0 cm"
+      "Greater than 5.5 cm",
+      "Greater than 6.0 cm",
+      "Greater than 5.0 cm"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "5.5 cm is the accepted repair threshold in men.",
     "clinical_pearl": null,
@@ -438,12 +438,12 @@
     "difficulty": 1,
     "question": "What is the size threshold for AAA repair in women?",
     "choices": [
-      "Greater than 5.0 cm",
       "Greater than 5.5 cm",
       "Greater than 4.5 cm",
-      "Greater than 6.0 cm"
+      "Greater than 6.0 cm",
+      "Greater than 5.0 cm"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "5.0 cm is the accepted repair threshold in women, lower than in men.",
     "clinical_pearl": null,
@@ -460,12 +460,12 @@
     "difficulty": 2,
     "question": "What growth rate criteria for a AAA warrant repair regardless of absolute size?",
     "choices": [
-      "Greater than 1 cm/year, or 0.5 cm in 6 months",
       "Greater than 2 cm/year only",
       "Any measurable growth",
+      "Greater than 1 cm/year, or 0.5 cm in 6 months",
       "Greater than 0.2 cm/year"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Rapid growth (>1cm/year or 0.5cm/6 months) is an indication for repair even below standard size thresholds.",
     "clinical_pearl": null,
@@ -482,12 +482,12 @@
     "difficulty": 2,
     "question": "Which of the following is an indication for AAA repair independent of size?",
     "choices": [
+      "Male sex alone",
       "Mycotic (infected) aneurysm",
-      "Asymptomatic aneurysm under surveillance",
       "Family history alone",
-      "Male sex alone"
+      "Asymptomatic aneurysm under surveillance"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Infected/mycotic aneurysms require repair regardless of size, as do symptomatic aneurysms.",
     "clinical_pearl": null,
@@ -504,12 +504,12 @@
     "difficulty": 2,
     "question": "Which patient is the best candidate for open AAA repair rather than EVAR?",
     "choices": [
-      "A 60-year-old with good cardiac/pulmonary function and a pararenal aneurysm",
       "An 85-year-old with severe COPD and a straightforward infrarenal neck",
+      "A patient who declines any follow-up imaging",
       "A 90-year-old with multiple comorbidities",
-      "A patient who declines any follow-up imaging"
+      "A 60-year-old with good cardiac/pulmonary function and a pararenal aneurysm"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Younger, good-risk patients with anatomy that complicates EVAR (e.g., pararenal aneurysm) are the best open repair candidates.",
     "clinical_pearl": null,
@@ -549,12 +549,12 @@
     "difficulty": 2,
     "question": "During open AAA repair, when should the IMA be reimplanted?",
     "choices": [
-      "If it shows only marginal back-bleeding",
-      "If it shows brisk pulsatile back-bleeding",
       "If it shows no back-bleeding at all",
-      "Reimplantation is never indicated"
+      "Reimplantation is never indicated",
+      "If it shows brisk pulsatile back-bleeding",
+      "If it shows only marginal back-bleeding"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Marginal back-bleeding suggests the IMA is needed for bowel perfusion and should be reimplanted; pulsatile or absent back-bleeding does not require reimplantation.",
     "clinical_pearl": null,
@@ -571,12 +571,12 @@
     "difficulty": 2,
     "question": "Which of the following would make a surgeon more likely to reimplant the IMA even with adequate back-bleeding?",
     "choices": [
-      "Prior colonic surgery with disrupted collaterals",
-      "A history of hypertension",
       "A small aneurysm size",
+      "A history of hypertension",
+      "Prior colonic surgery with disrupted collaterals",
       "Female sex"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Prior colonic surgery may have disrupted collateral blood supply, favoring reimplantation to ensure adequate colonic perfusion.",
     "clinical_pearl": null,
@@ -613,12 +613,12 @@
     "difficulty": 2,
     "question": "What vessel is at risk when clamping the supraceliac aorta through the gastrohepatic ligament?",
     "choices": [
-      "A replaced or accessory left hepatic artery",
-      "The splenic artery",
       "The right renal artery",
-      "The IMA"
+      "The splenic artery",
+      "The IMA",
+      "A replaced or accessory left hepatic artery"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "A replaced or accessory left hepatic artery may course through the gastrohepatic ligament and is at risk during dissection.",
     "clinical_pearl": null,
@@ -635,12 +635,12 @@
     "difficulty": 2,
     "question": "How should an aortobifemoral bypass graft be tunneled relative to the ureter?",
     "choices": [
-      "Underneath (deep to) the ureter",
       "Directly over (superficial to) the ureter",
+      "Underneath (deep to) the ureter",
       "Lateral to the ureter with a wide berth",
       "Through the ureter's peritoneal reflection"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Tunneling deep to the ureter, directly on the iliac artery, prevents hydronephrosis.",
     "clinical_pearl": null,
@@ -657,12 +657,12 @@
     "difficulty": 2,
     "question": "What reconstructive option is preferred for a frail patient with an occluded aorta who cannot tolerate an aortobifemoral bypass?",
     "choices": [
-      "Axillobifemoral bypass",
-      "Aortobifemoral bypass under epidural only",
       "Femorofemoral bypass alone",
-      "Primary aortic endarterectomy"
+      "Primary aortic endarterectomy",
+      "Axillobifemoral bypass",
+      "Aortobifemoral bypass under epidural only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Ax-bifem bypass is less traumatic with acceptable patency, making it the preferred option in frail patients.",
     "clinical_pearl": null,
@@ -679,12 +679,12 @@
     "difficulty": 2,
     "question": "A patient develops abdominal distension and ascites after starting a diet on post-op day 3 following AAA repair. What is the diagnosis and treatment?",
     "choices": [
-      "Chylous ascites; low-fat, high-protein diet with medium-chain fatty acid supplementation",
-      "Ischemic colitis; sigmoidoscopy and antibiotics",
+      "Graft infection; IV antibiotics",
       "Anastomotic leak; return to OR",
-      "Graft infection; IV antibiotics"
+      "Ischemic colitis; sigmoidoscopy and antibiotics",
+      "Chylous ascites; low-fat, high-protein diet with medium-chain fatty acid supplementation"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Disruption of retroperitoneal lymphatics causes chylous ascites, managed primarily with dietary modification.",
     "clinical_pearl": null,
@@ -701,12 +701,12 @@
     "difficulty": 2,
     "question": "A patient develops abdominal pain and bloody diarrhea after open AAA repair. What is the initial workup?",
     "choices": [
-      "Resuscitation with IV fluids/antibiotics and sigmoidoscopy to confirm ischemic colitis",
       "Immediate colectomy without further workup",
-      "CT angiogram of the mesenteric vessels only",
-      "Observation without intervention"
+      "Observation without intervention",
+      "Resuscitation with IV fluids/antibiotics and sigmoidoscopy to confirm ischemic colitis",
+      "CT angiogram of the mesenteric vessels only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Ischemic colitis is confirmed by sigmoidoscopy after initiating supportive resuscitation.",
     "clinical_pearl": null,
@@ -723,12 +723,12 @@
     "difficulty": 2,
     "question": "When is surgery indicated for post-AAA repair ischemic colitis?",
     "choices": [
+      "Never — always managed medically",
       "If the patient develops sepsis, peritonitis, or perforation",
       "In every case, regardless of clinical status",
-      "Only if the patient requests it",
-      "Never — always managed medically"
+      "Only if the patient requests it"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Most cases resolve with supportive care; surgery (colectomy with end colostomy) is reserved for sepsis, peritonitis, or perforation.",
     "clinical_pearl": null,
@@ -745,12 +745,12 @@
     "difficulty": 2,
     "question": "Why is the middle and distal rectum typically spared in AAA-repair-related colonic ischemia?",
     "choices": [
+      "They are supplied directly by the IMA",
       "They receive blood supply from the internal iliac vessels rather than the IMA",
       "They have no significant blood supply",
-      "They are supplied directly by the IMA",
       "They receive collateral flow from the splenic artery"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "The internal iliac vessels supply the middle/distal rectum, sparing it when the IMA territory is compromised.",
     "clinical_pearl": null,
@@ -788,9 +788,9 @@
     "question": "What is the safest board-answer treatment for an infrarenal aortic graft infection?",
     "choices": [
       "Axillobifemoral bypass with excision of the infected graft",
-      "In-situ replacement with a new prosthetic graft",
+      "Observation with serial imaging",
       "IV antibiotics alone without surgery",
-      "Observation with serial imaging"
+      "In-situ replacement with a new prosthetic graft"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -809,12 +809,12 @@
     "difficulty": 3,
     "question": "Two days after ax-bifem bypass with aortic graft excision, a patient becomes profoundly hypotensive and loses consciousness in the ICU. What is the concern?",
     "choices": [
+      "Chylous ascites",
       "Aortic stump blowout",
-      "Anastomotic stroke",
       "Acute limb ischemia of the bypass",
-      "Chylous ascites"
+      "Anastomotic stroke"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "This is the feared complication of a ligated infrarenal aortic stump after graft excision.",
     "clinical_pearl": null,
@@ -833,8 +833,8 @@
     "choices": [
       "Oversewing in multiple layers, possibly with a tensor fascia lata buttress",
       "Wrapping in prosthetic mesh",
-      "Leaving it open to heal by secondary intention",
-      "Placing a covered stent across the stump"
+      "Placing a covered stent across the stump",
+      "Leaving it open to heal by secondary intention"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -853,12 +853,12 @@
     "difficulty": 2,
     "question": "A patient presents years after aortic surgery with hematemesis and hypotension. What is the diagnosis?",
     "choices": [
-      "Aortoenteric fistula",
+      "Aortic stump blowout",
       "Mesenteric venous thrombosis",
-      "Type B aortic dissection",
-      "Aortic stump blowout"
+      "Aortoenteric fistula",
+      "Type B aortic dissection"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "This presentation is classic for an aortoenteric fistula, connecting the aortic suture line to the duodenum.",
     "clinical_pearl": null,
@@ -918,8 +918,8 @@
     "question": "During aortobifemoral bypass, when should an end-to-end proximal anastomosis be performed rather than end-to-side?",
     "choices": [
       "When the external iliac arteries are patent, allowing retrograde flow to the internal iliacs",
-      "When the external iliac arteries are occluded",
       "Only in emergency cases",
+      "When the external iliac arteries are occluded",
       "End-to-end is never appropriate"
     ],
     "correct_answer": 0,
@@ -939,12 +939,12 @@
     "difficulty": 3,
     "question": "When should an end-to-side proximal aortic anastomosis be used during aortobifemoral bypass?",
     "choices": [
+      "Never — end-to-side is not used in aortobifemoral bypass",
       "When the external iliac arteries are not patent, to allow antegrade flow into the internal iliacs",
-      "When the external iliac arteries are widely patent",
       "Only for ruptured AAA repair",
-      "Never — end-to-side is not used in aortobifemoral bypass"
+      "When the external iliac arteries are widely patent"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "If external iliacs are occluded, end-to-side anastomosis preserves antegrade native flow into the internal iliac arteries.",
     "clinical_pearl": null,
@@ -962,9 +962,9 @@
     "question": "Which of the following is NOT one of the anatomic criteria required for EVAR eligibility?",
     "choices": [
       "Ejection fraction greater than 50%",
+      "Iliac diameter at least 7 mm",
       "Neck diameter less than 32 mm",
-      "Neck length at least 10 mm",
-      "Iliac diameter at least 7 mm"
+      "Neck length at least 10 mm"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1003,12 +1003,12 @@
     "difficulty": 2,
     "question": "A patient being considered for EVAR has an iliac artery diameter of 4 mm. What does this mean?",
     "choices": [
-      "The patient does not qualify for standard EVAR due to inadequate access vessel size",
       "This is an ideal iliac diameter for EVAR",
+      "The patient does not qualify for standard EVAR due to inadequate access vessel size",
       "This only affects the choice of contrast agent",
       "This has no bearing on EVAR candidacy"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Iliac arteries must be at least 7 mm in diameter to accommodate the delivery device; 4 mm disqualifies standard EVAR access.",
     "clinical_pearl": null,
@@ -1025,12 +1025,12 @@
     "difficulty": 1,
     "question": "What is an endoleak?",
     "choices": [
+      "A leak from the aortic suture line after open repair",
       "Persistent blood flow into the aneurysm sac after EVAR",
-      "A leak of contrast during angiography only",
       "A hematoma at the femoral access site",
-      "A leak from the aortic suture line after open repair"
+      "A leak of contrast during angiography only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "An endoleak is persistent perfusion of the aneurysm sac despite EVAR placement.",
     "clinical_pearl": null,
@@ -1047,12 +1047,12 @@
     "difficulty": 2,
     "question": "What distinguishes a type IA from a type IB endoleak?",
     "choices": [
-      "Type IA is a proximal seal failure; type IB is a distal seal failure",
-      "Type IA is distal; type IB is proximal",
+      "There is no distinction between the two",
       "Type IA involves lumbar arteries; type IB involves the IMA",
-      "There is no distinction between the two"
+      "Type IA is distal; type IB is proximal",
+      "Type IA is a proximal seal failure; type IB is a distal seal failure"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Type I endoleaks are subdivided based on location of the seal failure: proximal (IA) or distal (IB).",
     "clinical_pearl": null,
@@ -1069,12 +1069,12 @@
     "difficulty": 2,
     "question": "How is a type I endoleak generally managed?",
     "choices": [
-      "Placement of a proximal cuff or extension of the graft to achieve seal",
       "Observation, since it usually resolves spontaneously",
+      "Placement of a proximal cuff or extension of the graft to achieve seal",
       "Coil embolization of the IMA",
       "No treatment is ever required"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Type I endoleaks expose the sac to systemic pressure and require fixing, typically by extending the graft to achieve an adequate seal.",
     "clinical_pearl": null,
@@ -1091,12 +1091,12 @@
     "difficulty": 2,
     "question": "When does a type II endoleak require treatment?",
     "choices": [
-      "Only if the aneurysm sac is growing",
       "Immediately in all cases",
+      "Never — type II endoleaks are always benign and untreated",
       "Only if diagnosed within 30 days of EVAR",
-      "Never — type II endoleaks are always benign and untreated"
+      "Only if the aneurysm sac is growing"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Type II endoleaks from branch vessels like lumbars or the IMA are common and only require treatment if the sac is enlarging.",
     "clinical_pearl": null,
@@ -1136,8 +1136,8 @@
     "choices": [
       "Porosity of the graft fabric or a tear in the graft material",
       "Failure of proximal seal",
-      "Retrograde filling from lumbar arteries",
-      "Separation of modular graft components"
+      "Separation of modular graft components",
+      "Retrograde filling from lumbar arteries"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1157,9 +1157,9 @@
     "question": "An otherwise healthy patient has chronic upper abdominal pain and celiac artery compression on CT. What is the diagnosis?",
     "choices": [
       "Median arcuate ligament syndrome",
-      "Celiac artery aneurysm",
       "Chronic mesenteric ischemia from atherosclerosis",
-      "SMA syndrome"
+      "SMA syndrome",
+      "Celiac artery aneurysm"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1178,12 +1178,12 @@
     "difficulty": 2,
     "question": "What test helps confirm the diagnosis of MALS?",
     "choices": [
-      "Celiac plexus block that relieves the pain",
-      "Doppler ultrasound of the celiac artery alone",
       "Colonoscopy",
-      "Gastric emptying study"
+      "Celiac plexus block that relieves the pain",
+      "Gastric emptying study",
+      "Doppler ultrasound of the celiac artery alone"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Pain relief with a celiac plexus block supports the diagnosis, since MALS is primarily a nerve compression syndrome.",
     "clinical_pearl": null,
@@ -1260,12 +1260,12 @@
     "difficulty": 2,
     "question": "An ABI of 0.4 is most consistent with which clinical presentation?",
     "choices": [
-      "Rest pain",
-      "Normal",
+      "Asymptomatic disease",
       "Claudication only",
-      "Asymptomatic disease"
+      "Rest pain",
+      "Normal"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "An ABI below 0.5 is associated with rest pain.",
     "clinical_pearl": null,
@@ -1283,9 +1283,9 @@
     "question": "An ABI of less than 0.3 is most consistent with which clinical finding?",
     "choices": [
       "Tissue loss",
-      "Claudication only",
       "Normal perfusion",
-      "Mild PAD without symptoms"
+      "Mild PAD without symptoms",
+      "Claudication only"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1305,12 +1305,12 @@
     "difficulty": 2,
     "question": "A patient has heavily calcified, non-compressible vessels leading to falsely elevated ABIs. What alternative measurement should be obtained?",
     "choices": [
-      "Toe pressures / toe-brachial index",
-      "Repeat ABI on the contralateral leg only",
       "Segmental limb pressures only",
-      "Venous duplex"
+      "Toe pressures / toe-brachial index",
+      "Venous duplex",
+      "Repeat ABI on the contralateral leg only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Toe vessels are generally spared from significant calcification, making toe pressures/TBI more reliable in this setting.",
     "clinical_pearl": null,
@@ -1347,12 +1347,12 @@
     "difficulty": 2,
     "question": "A patient has claudication symptoms but a normal resting ABI. What is the next appropriate test?",
     "choices": [
-      "Exercise/treadmill ABI testing",
-      "MRA of the aorta",
       "Immediate angiography",
-      "Venous duplex of the legs"
+      "Exercise/treadmill ABI testing",
+      "Venous duplex of the legs",
+      "MRA of the aorta"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Proximal iliac lesions can have normal resting ABIs due to collateralization; exercise testing unmasks a significant post-exertional drop.",
     "clinical_pearl": null,
@@ -1369,12 +1369,12 @@
     "difficulty": 1,
     "question": "What is the first-line treatment for classic claudication in most patients?",
     "choices": [
-      "Lifestyle modification: smoking cessation, exercise, and statin therapy",
-      "Immediate stenting",
+      "Long-term opioid therapy",
       "Immediate bypass surgery",
-      "Long-term opioid therapy"
+      "Lifestyle modification: smoking cessation, exercise, and statin therapy",
+      "Immediate stenting"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Medical/lifestyle management is first-line for the vast majority of claudication patients.",
     "clinical_pearl": null,
@@ -1391,12 +1391,12 @@
     "difficulty": 2,
     "question": "What does structured exercise therapy for claudication involve?",
     "choices": [
-      "Walking until pain occurs, then continuing to walk through the pain for a moderate distance",
       "Complete rest until pain resolves entirely",
-      "High-intensity interval training only",
-      "Avoiding all walking until revascularized"
+      "Avoiding all walking until revascularized",
+      "Walking until pain occurs, then continuing to walk through the pain for a moderate distance",
+      "High-intensity interval training only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Patients are encouraged to walk through claudication pain to build collateral circulation and endurance over time.",
     "clinical_pearl": null,
@@ -1414,9 +1414,9 @@
     "question": "What is the LDL goal for medical management of peripheral arterial disease?",
     "choices": [
       "Less than 100",
+      "Less than 200",
       "Less than 70",
-      "Less than 150",
-      "Less than 200"
+      "Less than 150"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1437,8 +1437,8 @@
     "choices": [
       "Development of rest pain",
       "Mild, non-lifestyle-limiting symptoms",
-      "A normal ABI",
-      "Recent smoking cessation"
+      "Recent smoking cessation",
+      "A normal ABI"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1457,12 +1457,12 @@
     "difficulty": 2,
     "question": "What lesion characteristics favor endovascular treatment of an SFA occlusion?",
     "choices": [
-      "Short, non-heavily-calcified lesions",
-      "Long occlusions with dense calcification",
       "Lesions in the common femoral artery",
-      "Lesions in the popliteal artery"
+      "Lesions in the popliteal artery",
+      "Short, non-heavily-calcified lesions",
+      "Long occlusions with dense calcification"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Short, less-calcified lesions are well-suited for endovascular intervention.",
     "clinical_pearl": null,
@@ -1479,12 +1479,12 @@
     "difficulty": 2,
     "question": "A patient has good inflow, good tibial outflow, and a beautiful 3mm saphenous vein. What does this favor for treatment of an SFA lesion?",
     "choices": [
-      "Open surgical bypass",
       "Balloon angioplasty alone",
+      "Atherectomy alone",
       "Primary stenting",
-      "Atherectomy alone"
+      "Open surgical bypass"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Excellent inflow, outflow, and conduit favor a durable open bypass over endovascular options.",
     "clinical_pearl": null,
@@ -1521,12 +1521,12 @@
     "difficulty": 1,
     "question": "What are the three main endovascular techniques for treating peripheral arterial lesions?",
     "choices": [
-      "Balloon angioplasty, stenting, and atherectomy",
       "Embolectomy, thrombolysis, and bypass",
-      "Sclerotherapy, ablation, and ligation",
-      "Angioplasty, endarterectomy, and fasciotomy"
+      "Angioplasty, endarterectomy, and fasciotomy",
+      "Balloon angioplasty, stenting, and atherectomy",
+      "Sclerotherapy, ablation, and ligation"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "These are the three primary endovascular modalities discussed for treating PAD lesions.",
     "clinical_pearl": null,
@@ -1543,12 +1543,12 @@
     "difficulty": 2,
     "question": "What is the primary risk of atherectomy for treating peripheral arterial lesions?",
     "choices": [
-      "Distal embolization",
-      "Vessel perforation from balloon rupture",
       "Contrast-induced nephropathy only",
-      "Stent fracture"
+      "Stent fracture",
+      "Distal embolization",
+      "Vessel perforation from balloon rupture"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Atherectomy carries the risk of embolizing plaque distally, potentially converting a stable claudicant into a limb-threatening ischemia case.",
     "clinical_pearl": null,
@@ -1565,12 +1565,12 @@
     "difficulty": 1,
     "question": "Buttock claudication, impotence, and absent femoral pulses describe which syndrome?",
     "choices": [
+      "Subclavian steal syndrome",
       "Leriche syndrome",
       "May-Thurner syndrome",
-      "Buerger's disease",
-      "Subclavian steal syndrome"
+      "Buerger's disease"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "This triad is classic for Leriche syndrome, from aortoiliac occlusive disease.",
     "clinical_pearl": null,
@@ -1587,12 +1587,12 @@
     "difficulty": 2,
     "question": "How does treatment of an acute embolus at the aortic bifurcation differ from treatment of Leriche syndrome?",
     "choices": [
-      "Embolic disease is treated with bilateral transfemoral retrograde embolectomy; Leriche syndrome requires bypass",
       "Both are treated identically with aortobifemoral bypass",
+      "Leriche syndrome is treated with embolectomy alone",
       "Embolic disease always requires open aortic surgery",
-      "Leriche syndrome is treated with embolectomy alone"
+      "Embolic disease is treated with bilateral transfemoral retrograde embolectomy; Leriche syndrome requires bypass"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Embolectomy addresses acute embolic occlusion, while chronic atherosclerotic (Leriche) disease requires bypass.",
     "clinical_pearl": null,
@@ -1629,12 +1629,12 @@
     "difficulty": 1,
     "question": "Thigh claudication localizes disease to which arterial segment?",
     "choices": [
-      "Iliac artery",
       "SFA",
-      "Popliteal artery",
-      "Tibial vessels"
+      "Iliac artery",
+      "Tibial vessels",
+      "Popliteal artery"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Thigh claudication corresponds to iliac artery disease.",
     "clinical_pearl": null,
@@ -1651,12 +1651,12 @@
     "difficulty": 1,
     "question": "Calf claudication localizes disease to which arterial segment?",
     "choices": [
-      "SFA",
       "Iliac artery",
+      "Aorta",
       "Common femoral artery",
-      "Aorta"
+      "SFA"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Calf claudication corresponds to superficial femoral artery (SFA) disease.",
     "clinical_pearl": null,
@@ -1674,9 +1674,9 @@
     "question": "What is the most common site for an arterial embolism to lodge in the leg?",
     "choices": [
       "Femoral bifurcation (profunda/SFA)",
-      "Popliteal bifurcation",
+      "Posterior tibial artery",
       "Common iliac bifurcation",
-      "Posterior tibial artery"
+      "Popliteal bifurcation"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1695,12 +1695,12 @@
     "difficulty": 2,
     "question": "A patient has diminished arterial signals in the foot with no motor or sensory loss. What Rutherford class is this, and what is the management?",
     "choices": [
-      "Rutherford I; heparinize and obtain CTA, non-emergent revascularization",
-      "Rutherford IIB; emergent thrombectomy",
       "Rutherford III; primary amputation",
-      "Rutherford IIA; semi-urgent revascularization"
+      "Rutherford IIA; semi-urgent revascularization",
+      "Rutherford IIB; emergent thrombectomy",
+      "Rutherford I; heparinize and obtain CTA, non-emergent revascularization"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Rutherford I disease has intact neuro function and can be managed non-emergently after heparinization and imaging.",
     "clinical_pearl": null,
@@ -1717,12 +1717,12 @@
     "difficulty": 2,
     "question": "A patient has absent arterial signals with sensory loss but no motor loss. What Rutherford class is this, and what is the urgency of treatment?",
     "choices": [
-      "Rutherford IIA; semi-urgent, often first thing the next morning",
       "Rutherford I; non-urgent",
-      "Rutherford IIB; emergent overnight",
-      "Rutherford III; non-salvageable"
+      "Rutherford III; non-salvageable",
+      "Rutherford IIA; semi-urgent, often first thing the next morning",
+      "Rutherford IIB; emergent overnight"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "IIA disease is semi-urgent, generally not requiring emergent middle-of-the-night intervention.",
     "clinical_pearl": null,
@@ -1739,12 +1739,12 @@
     "difficulty": 2,
     "question": "A patient has absent arterial signals with both sensory and motor loss. What Rutherford class is this, and what is the urgency?",
     "choices": [
-      "Rutherford IIB; emergent revascularization required",
       "Rutherford IIA; semi-urgent",
       "Rutherford I; elective",
-      "Rutherford III; the limb is salvageable with elective repair"
+      "Rutherford III; the limb is salvageable with elective repair",
+      "Rutherford IIB; emergent revascularization required"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "The onset of motor loss (IIB) makes this the most urgent category requiring emergent intervention.",
     "clinical_pearl": null,
@@ -1762,9 +1762,9 @@
     "question": "A patient has no arterial signals, no motor function, and no sensation in the foot. What Rutherford class is this?",
     "choices": [
       "Rutherford III (non-salvageable)",
-      "Rutherford I",
+      "Rutherford IIB",
       "Rutherford IIA",
-      "Rutherford IIB"
+      "Rutherford I"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1823,12 +1823,12 @@
     "difficulty": 2,
     "question": "Which artery is the first major branch off the popliteal artery, running horizontally and more laterally?",
     "choices": [
-      "Anterior tibial artery",
       "Posterior tibial artery",
+      "Anterior tibial artery",
       "Peroneal artery",
       "Sural artery"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "The anterior tibial artery is the first major branch, coursing laterally and horizontally before diving distally.",
     "clinical_pearl": null,
@@ -1846,9 +1846,9 @@
     "question": "After the tibioperoneal trunk bifurcates, which artery continues 'straight down' and which courses medially?",
     "choices": [
       "Peroneal artery continues straight down; posterior tibial artery courses medially",
+      "Anterior tibial artery continues straight down",
       "Posterior tibial artery continues straight down; peroneal artery courses medially",
-      "Both continue straight down in parallel",
-      "Anterior tibial artery continues straight down"
+      "Both continue straight down in parallel"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -1887,12 +1887,12 @@
     "difficulty": 2,
     "question": "Which nerve is contained within the lateral compartment of the leg?",
     "choices": [
-      "Superficial peroneal nerve",
-      "Tibial nerve",
+      "Saphenous nerve",
       "Sural nerve",
-      "Saphenous nerve"
+      "Tibial nerve",
+      "Superficial peroneal nerve"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "The superficial peroneal nerve runs through the lateral compartment.",
     "clinical_pearl": null,
@@ -1909,12 +1909,12 @@
     "difficulty": 2,
     "question": "Which structures are found in the deep posterior compartment of the leg?",
     "choices": [
-      "Tibial nerve, posterior tibial artery, and peroneal artery",
-      "Superficial peroneal nerve and anterior tibial artery",
       "Gastrocnemius and sural nerve",
+      "Superficial peroneal nerve and anterior tibial artery",
+      "Tibial nerve, posterior tibial artery, and peroneal artery",
       "Femoral nerve and saphenous vein"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "The deep posterior compartment contains the tibial nerve along with the posterior tibial and peroneal arteries.",
     "clinical_pearl": null,
@@ -1972,12 +1972,12 @@
     "difficulty": 2,
     "question": "How is a diabetic foot ulcer with confirmed osteomyelitis managed?",
     "choices": [
-      "Debridement back to healthy bone plus a prolonged (up to 6-week) antibiotic course",
-      "Antibiotics alone without debridement",
+      "Observation without intervention",
       "Immediate below-knee amputation in all cases",
-      "Observation without intervention"
+      "Antibiotics alone without debridement",
+      "Debridement back to healthy bone plus a prolonged (up to 6-week) antibiotic course"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Surgical debridement to healthy bone margins combined with prolonged antibiotics is standard management.",
     "clinical_pearl": null,
@@ -1994,12 +1994,12 @@
     "difficulty": 2,
     "question": "Before definitive diabetic foot surgery, what must be assessed and optimized first?",
     "choices": [
-      "Adequate perfusion, using ABIs/flow studies and angiography if impaired",
-      "Nutritional status via albumin level",
       "HbA1c must be under 6%",
-      "Nothing — surgery should proceed immediately"
+      "Adequate perfusion, using ABIs/flow studies and angiography if impaired",
+      "Nothing — surgery should proceed immediately",
+      "Nutritional status via albumin level"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Revascularization should be maximized before definitive foot surgery to promote healing.",
     "clinical_pearl": null,
@@ -2016,12 +2016,12 @@
     "difficulty": 2,
     "question": "A patient has both a foot infection and severe peripheral arterial disease. What is managed first?",
     "choices": [
-      "The infection (resuscitation and antibiotics)",
       "Revascularization before addressing infection",
-      "Both simultaneously with no priority",
-      "Neither — refer to podiatry"
+      "Neither — refer to podiatry",
+      "The infection (resuscitation and antibiotics)",
+      "Both simultaneously with no priority"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Infection control takes priority, followed by revascularization.",
     "clinical_pearl": null,
@@ -2038,12 +2038,12 @@
     "difficulty": 2,
     "question": "A diabetic patient presents with a 'hot foot,' borderline septic, high white count, and purulent drainage. What is the priority?",
     "choices": [
-      "Immediate source control (open/drain the foot or amputate the toe) without waiting for angiography",
+      "Elevate the leg and reassess in the morning",
       "Obtain an angiogram before any intervention",
-      "Start broad-spectrum antibiotics and discharge with close follow-up",
-      "Elevate the leg and reassess in the morning"
+      "Immediate source control (open/drain the foot or amputate the toe) without waiting for angiography",
+      "Start broad-spectrum antibiotics and discharge with close follow-up"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "In a septic patient with a foot infection, source control cannot be delayed for imaging or revascularization planning.",
     "clinical_pearl": null,
@@ -2060,12 +2060,12 @@
     "difficulty": 2,
     "question": "Why can the left common iliac vein be difficult to access in trauma, and what maneuver may be needed?",
     "choices": [
-      "The right common iliac artery overlies it and may need to be divided (then repaired)",
       "The vein lies deep to the sacrum and cannot be accessed",
       "It is protected by the psoas muscle",
-      "The ureter must always be resected to access it"
+      "The ureter must always be resected to access it",
+      "The right common iliac artery overlies it and may need to be divided (then repaired)"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "The overlying right common iliac artery must sometimes be divided to access the underlying venous injury.",
     "clinical_pearl": null,
@@ -2102,12 +2102,12 @@
     "difficulty": 2,
     "question": "Which veins can generally be ligated in trauma when repair is not feasible?",
     "choices": [
-      "Essentially any vein distal to the renal veins, with higher morbidity the more proximal the ligation",
-      "Only veins below the knee",
+      "No veins should ever be ligated",
       "Only the superficial venous system",
-      "No veins should ever be ligated"
+      "Only veins below the knee",
+      "Essentially any vein distal to the renal veins, with higher morbidity the more proximal the ligation"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Most veins distal to the renal veins can be safely ligated in extremis, though morbidity increases with more proximal ligation.",
     "clinical_pearl": null,
@@ -2145,9 +2145,9 @@
     "question": "What is the treatment for unilateral leg swelling with isolated deep venous reflux on duplex?",
     "choices": [
       "Conservative management with compression stockings and elevation",
-      "Endovenous ablation of the deep system",
+      "Deep vein stripping",
       "Surgical valve repair",
-      "Deep vein stripping"
+      "Endovenous ablation of the deep system"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -2166,12 +2166,12 @@
     "difficulty": 2,
     "question": "A patient has greater saphenous vein reflux >500 ms from the saphenofemoral junction to the thigh with symptomatic swelling. What treatment is appropriate?",
     "choices": [
-      "Heat ablation (radiofrequency or laser) or chemical ablation",
       "Compression stockings only, indefinitely",
-      "Immediate saphenous vein stripping only",
-      "Systemic anticoagulation"
+      "Heat ablation (radiofrequency or laser) or chemical ablation",
+      "Systemic anticoagulation",
+      "Immediate saphenous vein stripping only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "Endovenous ablation techniques are effective for symptomatic above-knee GSV reflux.",
     "clinical_pearl": null,
@@ -2188,12 +2188,12 @@
     "difficulty": 2,
     "question": "Why is chemical (rather than heat) ablation preferred for below-the-knee greater saphenous vein reflux?",
     "choices": [
+      "Below-knee veins are too large for heat ablation",
       "Heat ablation below the knee risks injury to the saphenous nerve",
       "Chemical ablation is more effective overall",
-      "Heat ablation cannot reach below-knee veins technically",
-      "Below-knee veins are too large for heat ablation"
+      "Heat ablation cannot reach below-knee veins technically"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "The saphenous nerve runs close to the GSV below the knee, making heat-based ablation riskier there.",
     "clinical_pearl": null,
@@ -2252,12 +2252,12 @@
     "difficulty": 2,
     "question": "What term describes thrombus from GSV ablation encroaching on the saphenofemoral junction?",
     "choices": [
-      "Endothermal heat-induced thrombosis (EHIT)",
-      "Post-thrombotic syndrome",
       "Phlegmasia cerulea dolens",
-      "May-Thurner syndrome"
+      "May-Thurner syndrome",
+      "Endothermal heat-induced thrombosis (EHIT)",
+      "Post-thrombotic syndrome"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "EHIT specifically refers to thrombus extension toward/into the deep system following endovenous ablation.",
     "clinical_pearl": null,
@@ -2274,12 +2274,12 @@
     "difficulty": 2,
     "question": "How is EHIT managed when thrombus protrudes into the common femoral vein?",
     "choices": [
-      "Full anticoagulation, typically for 3 months, as this is equivalent to a DVT",
       "Observation with repeat imaging in 1 week only",
-      "NSAIDs and warm compresses only",
-      "No treatment needed"
+      "No treatment needed",
+      "Full anticoagulation, typically for 3 months, as this is equivalent to a DVT",
+      "NSAIDs and warm compresses only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Protrusion into the common femoral vein represents a true DVT requiring full anticoagulation.",
     "clinical_pearl": null,
@@ -2296,12 +2296,12 @@
     "difficulty": 2,
     "question": "How is EHIT managed when thrombus is within 2 cm of the saphenofemoral junction but not flush with or protruding into it?",
     "choices": [
-      "Repeat imaging within 1-2 weeks",
       "Immediate full anticoagulation for 3 months",
+      "Emergent thrombectomy",
       "IVC filter placement",
-      "Emergent thrombectomy"
+      "Repeat imaging within 1-2 weeks"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "This scenario has a low risk of progression, so repeat imaging in 1-2 weeks is sufficient.",
     "clinical_pearl": null,
@@ -2318,12 +2318,12 @@
     "difficulty": 2,
     "question": "In which scenario would GSV stripping still be considered instead of endovenous ablation?",
     "choices": [
-      "A very large (>2 cm) saphenous vein or one too close to the skin",
-      "A first-time, small, deep saphenous vein",
+      "Patients under age 40 only",
       "Any straightforward case of GSV reflux",
-      "Patients under age 40 only"
+      "A very large (>2 cm) saphenous vein or one too close to the skin",
+      "A first-time, small, deep saphenous vein"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Large veins that won't scar down well with catheter-based methods, or superficial veins at risk of skin injury, may still be treated with stripping.",
     "clinical_pearl": null,
@@ -2359,12 +2359,12 @@
     "difficulty": 2,
     "question": "A patient has a swollen, blue leg up to the buttocks with intact motor and sensation. What is the diagnosis?",
     "choices": [
-      "Phlegmasia cerulea dolens from an iliofemoral DVT",
-      "Compartment syndrome",
       "May-Thurner syndrome without DVT",
-      "Lymphedema"
+      "Lymphedema",
+      "Compartment syndrome",
+      "Phlegmasia cerulea dolens from an iliofemoral DVT"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "This presentation, with preserved motor/sensory function, describes phlegmasia cerulea dolens from iliofemoral DVT.",
     "clinical_pearl": null,
@@ -2401,12 +2401,12 @@
     "difficulty": 1,
     "question": "Which leg is more commonly affected by DVT, and why?",
     "choices": [
-      "The left leg, due to compression of the left common iliac vein by the overlying right common iliac artery",
       "The right leg, due to IVC anatomy",
+      "Neither leg has a predisposition",
       "Both legs equally",
-      "Neither leg has a predisposition"
+      "The left leg, due to compression of the left common iliac vein by the overlying right common iliac artery"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "May-Thurner physiology causes the left leg to be about twice as likely to develop DVT.",
     "clinical_pearl": null,
@@ -2423,12 +2423,12 @@
     "difficulty": 1,
     "question": "A patient has a DVT and a contraindication to anticoagulation (e.g., recent brain bleed). What can be offered?",
     "choices": [
-      "IVC filter",
-      "Full-dose heparin regardless of contraindication",
       "Warfarin with close INR monitoring",
+      "Full-dose heparin regardless of contraindication",
+      "IVC filter",
       "No intervention is possible"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "An IVC filter provides mechanical protection against PE when anticoagulation is contraindicated.",
     "clinical_pearl": null,
@@ -2466,12 +2466,12 @@
     "difficulty": 1,
     "question": "How long should anticoagulation be continued for a provoked DVT?",
     "choices": [
-      "3 months",
+      "Lifelong",
       "6 weeks",
-      "6 months",
-      "Lifelong"
+      "3 months",
+      "6 months"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Provoked DVTs (e.g., from surgery or trauma) are typically treated for 3 months.",
     "clinical_pearl": null,
@@ -2488,12 +2488,12 @@
     "difficulty": 2,
     "question": "A DVT patient has active cancer. How long should anticoagulation continue, and with what agent?",
     "choices": [
-      "Indefinitely (until cancer cured and a period after), with LMWH (e.g., Lovenox)",
-      "3 months, with warfarin",
+      "Lifelong, with unfractionated heparin only",
       "6 weeks, with aspirin",
-      "Lifelong, with unfractionated heparin only"
+      "3 months, with warfarin",
+      "Indefinitely (until cancer cured and a period after), with LMWH (e.g., Lovenox)"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Active malignancy warrants indefinite anticoagulation with low molecular weight heparin as the preferred agent.",
     "clinical_pearl": null,
@@ -2512,8 +2512,8 @@
     "choices": [
       "Lifelong",
       "3 months",
-      "6 months",
-      "1 year"
+      "1 year",
+      "6 months"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
@@ -2532,12 +2532,12 @@
     "difficulty": 2,
     "question": "A patient has a painful cord on the inner leg with 10 cm of thrombosed GSV on duplex, no DVT. What is the diagnosis and management if the segment is close to the saphenofemoral junction?",
     "choices": [
-      "Superficial thrombophlebitis; anticoagulation (fondaparinux 2.5mg for 45 days)",
       "DVT; standard 3-month anticoagulation",
       "Cellulitis; oral antibiotics",
-      "Lymphangitis; IV antibiotics"
+      "Lymphangitis; IV antibiotics",
+      "Superficial thrombophlebitis; anticoagulation (fondaparinux 2.5mg for 45 days)"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
     "explanation": "Longer segments or those near the saphenofemoral junction are treated with anticoagulation to prevent progression to DVT.",
     "clinical_pearl": null,
@@ -2574,12 +2574,12 @@
     "difficulty": 2,
     "question": "A patient has a chronic non-healing wound over the medial malleolus. What is the likely cause and first-line treatment?",
     "choices": [
-      "Chronic venous insufficiency; Unna boot compression",
+      "Pressure ulcer; offloading only",
       "Arterial ulcer; revascularization first",
-      "Lymphedema; decongestive therapy",
-      "Pressure ulcer; offloading only"
+      "Chronic venous insufficiency; Unna boot compression",
+      "Lymphedema; decongestive therapy"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "The classic location (medial malleolus) points to venous insufficiency, first treated with an Unna boot.",
     "clinical_pearl": null,
@@ -2596,12 +2596,12 @@
     "difficulty": 2,
     "question": "How do you clinically differentiate lymphedema from venous insufficiency?",
     "choices": [
-      "Lymphedema involves swelling of the feet/toes; venous insufficiency swelling stops at the ankle",
       "Lymphedema always causes ulceration; venous disease never does",
+      "Lymphedema involves swelling of the feet/toes; venous insufficiency swelling stops at the ankle",
       "Venous insufficiency is always bilateral; lymphedema is always unilateral",
       "There is no clinical way to differentiate them"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
     "explanation": "The distribution of swelling (foot/toe involvement vs. stopping at the ankle) helps distinguish the two conditions.",
     "clinical_pearl": null,
@@ -2660,12 +2660,12 @@
     "difficulty": 2,
     "question": "How is the supraceliac aorta exposed in trauma?",
     "choices": [
-      "Enter the lesser sac through the gastrohepatic ligament, then divide the diaphragmatic crus",
+      "Enter through a right thoracotomy only",
       "Enter through the retroperitoneum via a left-sided approach only",
-      "Divide the ligament of Treitz and retract the duodenum",
-      "Enter through a right thoracotomy only"
+      "Enter the lesser sac through the gastrohepatic ligament, then divide the diaphragmatic crus",
+      "Divide the ligament of Treitz and retract the duodenum"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
     "explanation": "Entering the lesser sac through the gastrohepatic ligament and dividing the crus of the diaphragm exposes the supraceliac aorta for control.",
     "clinical_pearl": null,
@@ -2684,8 +2684,8 @@
     "choices": [
       "Temporal arteritis; confirmed with temporal artery biopsy, treated with steroids",
       "Buerger's disease; confirmed with angiography, treated with smoking cessation",
-      "Takayasu arteritis; confirmed with MRA, treated with steroids",
-      "MALS; confirmed with celiac plexus block, treated with ligament release"
+      "MALS; confirmed with celiac plexus block, treated with ligament release",
+      "Takayasu arteritis; confirmed with MRA, treated with steroids"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
