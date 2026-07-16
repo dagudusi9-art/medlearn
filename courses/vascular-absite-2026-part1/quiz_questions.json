@@ -1,2350 +1,2979 @@
 [
   {
-    "id": "VASC1-Q001",
+    "id": "TR2-Q001",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-001"
+      "TR2-001"
     ],
-    "category": "Carotid Anatomy",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "Which structure is NOT contained within the carotid sheath?",
+    "category": "Gastric Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A thoracoabdominal penetrating injury crosses from chest to abdomen. What injury must always be considered?",
     "choices": [
-      "Vagus nerve",
-      "Internal jugular vein",
-      "Common carotid artery",
-      "Hypoglossal nerve"
+      "Esophageal injury only",
+      "Splenic laceration only",
+      "Isolated rib fracture",
+      "Diaphragm injury"
     ],
     "correct_answer": 3,
     "accepted_answers": null,
-    "explanation": "The carotid sheath contains the carotid artery, internal jugular vein, and vagus nerve. The hypoglossal nerve runs superficial to the sheath, not within it.",
+    "explanation": "Any thoracoabdominal trajectory raises concern for a diaphragm injury, which should in turn raise suspicion for gastric injury.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q002",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-002"
-    ],
-    "category": "Carotid Anatomy",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "The vertebral artery segment that travels through the transverse foramina from C6 to C2 is called ____.",
-    "choices": null,
-    "correct_answer": "V2",
-    "accepted_answers": [
-      "V2",
-      "the V2 segment"
-    ],
-    "explanation": "V1 is the origin to C6, V2 is the foraminal portion from C6 to C2, V3 is C2 to the dura, and V4 is intracranial.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q003",
+    "id": "TR2-Q002",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-003"
+      "TR2-002"
     ],
-    "category": "Carotid Anatomy",
-    "importance": 3,
-    "difficulty": 2,
-    "question": "Which vertebral artery segment is amenable to open surgical exposure without endovascular techniques?",
-    "choices": [
-      "V1",
-      "V2",
-      "V3",
-      "V4"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Only V1, from the subclavian origin to the C6 transverse foramen, is surgically accessible by open technique.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q004",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-004"
-    ],
-    "category": "Carotid Anatomy",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "Which structure classically overlies the carotid bifurcation and is divided as the 'gateway' to expose it?",
-    "choices": [
-      "Facial vein",
-      "Superior thyroid artery",
-      "Hypoglossal nerve",
-      "Ansa cervicalis"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The facial vein, a branch of the internal jugular vein, crosses over the bifurcation and is typically divided to gain access.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q005",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-005"
-    ],
-    "category": "Carotid Anatomy",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "What is the first branch of the external carotid artery?",
-    "choices": [
-      "Superior thyroid artery",
-      "Lingual artery",
-      "Facial artery",
-      "Occipital artery"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The superior thyroid artery is the first branch of the ECA and helps confirm ECA identity intraoperatively.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q006",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-006"
-    ],
-    "category": "Carotid Anatomy",
+    "category": "Gastric Injuries",
     "importance": 5,
     "difficulty": 2,
-    "question": "Which feature best distinguishes the internal carotid artery from the external carotid artery intraoperatively?",
+    "question": "An anterior penetrating gastric injury is identified. How should the posterior surface be evaluated?",
     "choices": [
-      "The ICA has no branches in the neck",
-      "The ICA is more anterior",
-      "The ICA has multiple visible branches",
-      "The ICA has a triphasic Doppler waveform"
+      "By performing an upper GI contrast study only",
+      "It does not need evaluation",
+      "By opening the lesser sac",
+      "By palpation through the anterior wound alone"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
-    "explanation": "The absence of cervical branches, along with a more posterior position, is the most reliable way to identify the ICA.",
+    "explanation": "The lesser sac must be opened to directly inspect the posterior gastric wall.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q007",
+    "id": "TR2-Q003",
     "type": "true_false",
     "source_card_ids": [
-      "VASC1-007"
+      "TR2-003"
     ],
-    "category": "Carotid Anatomy",
+    "category": "Gastric Injuries",
     "importance": 4,
-    "difficulty": 1,
-    "question": "The external carotid artery has a low-resistance waveform with continuous forward flow on Doppler.",
+    "difficulty": 2,
+    "question": "If a posterior gastric wall injury is found, the pancreas should also be examined for injury.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "The pancreas lies adjacent to the posterior stomach and must be evaluated when a posterior gastric injury is found.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q004",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-004"
+    ],
+    "category": "Gastric Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How are most gastric injuries managed, given the stomach's blood supply?",
+    "choices": [
+      "Total gastrectomy in most cases",
+      "Non-operative management only",
+      "Primary repair or wedge resection",
+      "Gastric bypass"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The stomach's robust multi-source blood supply makes it resilient, allowing primary repair or wedge resection in most cases.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q005",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-005"
+    ],
+    "category": "Gastric Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "A gastric injury involves the antrum and pylorus. What reconstruction may be required?",
+    "choices": [
+      "Distal or subtotal gastrectomy with reconstruction",
+      "Total gastrectomy with esophagojejunostomy",
+      "Observation without repair",
+      "Simple primary closure only"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Injuries involving the antrum/pylorus/proximal duodenum may require distal or subtotal gastrectomy.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q006",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-006"
+    ],
+    "category": "Gastric Injuries",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "Where is a gastric injury most commonly missed in penetrating trauma, and why?",
+    "choices": [
+      "At the greater curvature, due to poor blood supply",
+      "At the lesser curvature, due to adhesions",
+      "Proximally, because the stomach can fold over itself and hide the injury",
+      "Distally, because the pylorus is hard to visualize"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Proximal injuries can be hidden when the stomach folds on itself, requiring thorough mobilization and inspection, plus adjuncts like NG leak test or EGD.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q007",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-007"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A CT scan raises concern for a duodenal laceration. What is the recommended next step?",
+    "choices": [
+      "Observation with repeat CT in 24 hours",
+      "Operative exploration",
+      "Upper GI contrast study only",
+      "Discharge with outpatient follow-up"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Concerning findings for duodenal injury on CT warrant operative exploration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q008",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-008"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the best surgical maneuver to expose and evaluate the duodenum?",
+    "choices": [
+      "Pringle maneuver",
+      "Mattox maneuver",
+      "Kocher maneuver",
+      "Cattell-Braasch maneuver alone"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "A Kocher maneuver is the classic approach to mobilize and expose the duodenum.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q009",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-009"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Most duodenal hematomas resolve without intervention and can be managed with observation.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "The majority of duodenal hematomas are self-limited and resolve with observation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q010",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-010"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "A duodenal hematoma causes gastric outlet obstruction. How is this initially managed?",
+    "choices": [
+      "NG tube decompression for 5-7 days",
+      "Immediate surgical resection",
+      "IV antibiotics alone",
+      "Duodenal stenting"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "NG decompression for 5-7 days is first-line; TPN and repeat contrast studies follow if needed.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q011",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-010"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Gastric outlet obstruction from a duodenal hematoma typically does not develop until after ____ hours.",
+    "choices": null,
+    "correct_answer": "24",
+    "accepted_answers": [
+      "24"
+    ],
+    "explanation": "This complication typically manifests more than 24 hours after injury, not immediately.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q012",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-011"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "During operative repair of a duodenal injury, what critical structures must be identified, and how?",
+    "choices": [
+      "Common bile duct and ampulla, via an extended Kocher maneuver",
+      "Renal vessels, via medial visceral rotation",
+      "SMA and SMV, via ligament of Treitz mobilization",
+      "Splenic vessels, via lesser sac entry"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "The common bile duct and ampulla must be identified; a catheter through the cystic duct can help locate the ampulla if needed.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q013",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-012"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How is exposure of the third and fourth portions of the duodenum increased?",
+    "choices": [
+      "Splenectomy",
+      "Right-to-left medial visceral rotation with ligament release",
+      "Division of the ligament of Treitz alone",
+      "Left-to-right medial visceral rotation only"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "A right-to-left medial visceral rotation with release of surrounding ligaments improves exposure of the distal duodenum.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q014",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-013"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the preferred method of duodenal repair when feasible?",
+    "choices": [
+      "Two-layer primary closure with a drain",
+      "Duodenojejunostomy in all cases",
+      "Pyloric exclusion in all cases",
+      "Single-layer closure without drainage"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Two-layer primary closure with drainage is preferred when the defect allows.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q015",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-014"
+    ],
+    "category": "Duodenal Injuries and Hematoma",
+    "importance": 3,
+    "difficulty": 2,
+    "question": "A trauma Whipple procedure is typically the correct answer on the ABSITE for severe combined pancreaticoduodenal injuries.",
     "choices": [
       true,
       false
     ],
     "correct_answer": false,
     "accepted_answers": null,
-    "explanation": "This describes the internal carotid artery. The external carotid artery has a high-resistance, triphasic waveform.",
+    "explanation": "A trauma Whipple is essentially never the correct ABSITE answer, even though it may occasionally be needed clinically in extreme cases, and should be staged if performed.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q008",
+    "id": "TR2-Q016",
     "type": "true_false",
     "source_card_ids": [
-      "VASC1-008"
+      "TR2-016"
     ],
-    "category": "Carotid Anatomy",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "The internal carotid artery has continuous forward flow because it must constantly perfuse the brain.",
-    "choices": [
-      true,
-      false
-    ],
-    "correct_answer": true,
-    "accepted_answers": null,
-    "explanation": "The ICA has low resistance flow with continuous forward diastolic flow to maintain constant cerebral perfusion.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q009",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-009"
-    ],
-    "category": "Carotid Anatomy",
-    "importance": 3,
-    "difficulty": 1,
-    "question": "The external carotid artery can be safely ligated to control life-threatening facial bleeding in trauma.",
-    "choices": [
-      true,
-      false
-    ],
-    "correct_answer": true,
-    "accepted_answers": null,
-    "explanation": "Because the ECA does not supply the brain, it can be ligated when needed to control facial hemorrhage.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q010",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-010"
-    ],
-    "category": "CEA Cranial Nerve Complications",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "A patient develops hoarseness after CEA. Which nerve was most likely injured?",
-    "choices": [
-      "Vagus nerve",
-      "Hypoglossal nerve",
-      "Marginal mandibular nerve",
-      "Glossopharyngeal nerve"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Hoarseness after CEA reflects vagus nerve injury, typically from inadvertent inclusion in the carotid clamp.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q011",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-011"
-    ],
-    "category": "CEA Cranial Nerve Complications",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "What is the classic mechanism of vagus nerve injury during CEA?",
-    "choices": [
-      "Inadvertent inclusion of the nerve during carotid clamping",
-      "Division during ligation of the facial vein",
-      "Retraction of the mandible",
-      "Division of the digastric muscle"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The vagus nerve runs within the carotid sheath and can be injured if it is not carefully dissected free before clamping.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q012",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-012"
-    ],
-    "category": "CEA Cranial Nerve Complications",
-    "importance": 5,
-    "difficulty": 1,
-    "question": "Tongue deviation toward the side of injury after CEA suggests injury to which nerve?",
-    "choices": [
-      "Hypoglossal nerve",
-      "Vagus nerve",
-      "Glossopharyngeal nerve",
-      "Marginal mandibular nerve"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Hypoglossal nerve injury causes ipsilateral tongue deviation due to weakness of the genioglossus muscle.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q013",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-013"
-    ],
-    "category": "CEA Cranial Nerve Complications",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "The hypoglossal nerve lies ____ to the carotid bifurcation, making it vulnerable during dissection.",
-    "choices": null,
-    "correct_answer": "superficial",
-    "accepted_answers": [
-      "superficial",
-      "superficially"
-    ],
-    "explanation": "Its superficial course over the bifurcation places it at risk during exposure and dissection.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q014",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-014"
-    ],
-    "category": "CEA Cranial Nerve Complications",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "A PACU patient after CEA has isolated ipsilateral mouth droop with an otherwise normal neuro exam. What is the most likely cause?",
-    "choices": [
-      "Marginal mandibular nerve retraction injury",
-      "Acute stroke",
-      "Hypoglossal nerve injury",
-      "Vagus nerve injury"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "This is a common retraction injury to the marginal mandibular nerve; a full neuro exam should still be performed to rule out stroke, but isolated mouth droop is characteristic.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q015",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-015"
-    ],
-    "category": "CEA Cranial Nerve Complications",
-    "importance": 3,
-    "difficulty": 1,
-    "question": "Marginal mandibular nerve injury during CEA is typically caused by ____ on the mandible.",
-    "choices": null,
-    "correct_answer": "retraction",
-    "accepted_answers": [
-      "retraction",
-      "excessive retraction"
-    ],
-    "explanation": "Retraction injury of the marginal mandibular nerve is a common, usually self-limited complication.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q016",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-016"
-    ],
-    "category": "CEA Cranial Nerve Complications",
-    "importance": 4,
-    "difficulty": 3,
-    "question": "Injury to which nerve during a high carotid dissection can cause disabling dysphagia?",
-    "choices": [
-      "Glossopharyngeal nerve",
-      "Hypoglossal nerve",
-      "Vagus nerve",
-      "Marginal mandibular nerve"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The glossopharyngeal nerve lies deep to the posterior belly of the digastric muscle and is at risk during high dissections requiring division of that muscle.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q017",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-017"
-    ],
-    "category": "CEA Cranial Nerve Complications",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "During carotid endarterectomy, the intima and part of the media are removed.",
-    "choices": [
-      true,
-      false
-    ],
-    "correct_answer": true,
-    "accepted_answers": null,
-    "explanation": "CEA removes the diseased intima and part of the media, leaving the adventitia and outer media intact.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q018",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-018"
-    ],
-    "category": "Carotid Stenosis Indications",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "Atherosclerosis in the carotid artery most typically develops at the ____, related to turbulent flow.",
-    "choices": null,
-    "correct_answer": "bifurcation",
-    "accepted_answers": [
-      "bifurcation",
-      "carotid bifurcation"
-    ],
-    "explanation": "Turbulent flow at the bifurcation predisposes this site to atherosclerotic plaque formation.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q019",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-019"
-    ],
-    "category": "Carotid Stenosis Indications",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What degree of stenosis warrants CEA in a symptomatic patient (stroke or TIA) with no other identifiable cause?",
-    "choices": [
-      "Greater than 50%",
-      "Greater than 30%",
-      "Greater than 90%",
-      "Any measurable stenosis"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "In symptomatic patients without another identifiable cause of stroke, greater than 50% stenosis is an indication for CEA.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q020",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-020"
-    ],
-    "category": "Carotid Stenosis Indications",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "Which of the following criteria supports intervention for an asymptomatic carotid stenosis?",
-    "choices": [
-      ">90% stenosis or EDV >140 cm/s with good life expectancy",
-      "Any stenosis greater than 30%",
-      "EDV less than 100 cm/s",
-      "Stenosis found incidentally regardless of severity"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Asymptomatic patients are generally considered for intervention when stenosis exceeds about 90% or EDV is above 140 cm/s, and life expectancy is favorable.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q021",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-021",
-      "VASC1-022"
-    ],
-    "category": "Carotid Stenosis Indications",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "An asymptomatic patient is incidentally found to have mild-to-moderate carotid stenosis on imaging. What is the best next step?",
-    "choices": [
-      "Best medical therapy: smoking cessation, aspirin, high-dose statin, repeat imaging",
-      "Immediate CEA",
-      "Immediate carotid stenting",
-      "No follow-up needed"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "For an incidental, non-severe asymptomatic stenosis, best medical therapy with repeat imaging is the appropriate answer rather than proceeding straight to intervention.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q022",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-022"
-    ],
-    "category": "Carotid Stenosis Indications",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "On the ABSITE, an asymptomatic patient with greater than 70% carotid stenosis and a good life expectancy should be offered a CEA.",
-    "choices": [
-      true,
-      false
-    ],
-    "correct_answer": true,
-    "accepted_answers": null,
-    "explanation": "This is the accepted testable threshold for offering CEA in an asymptomatic patient with a favorable life expectancy.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q023",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-023"
-    ],
-    "category": "Carotid Stenosis Indications",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "A symptomatic patient (recent TIA) has less than 50% carotid stenosis on duplex. What is the correct management?",
-    "choices": [
-      "Best medical therapy without surgery",
-      "Emergent CEA",
-      "Elective CEA within 2 weeks",
-      "Carotid stenting"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The patient does not meet the >50% stenosis threshold for surgery in symptomatic disease, so medical management is indicated instead.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q024",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-024"
-    ],
-    "category": "Carotid Stenosis Indications",
-    "importance": 5,
-    "difficulty": 3,
-    "question": "A patient with a stroke is found to have a completely occluded carotid artery on imaging. What is the best management?",
-    "choices": [
-      "Anticoagulation or dual antiplatelet therapy; no attempt at recanalization",
-      "Emergent CEA",
-      "Immediate thrombolysis of the occluded carotid",
-      "Emergent carotid stenting"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Recanalizing a chronically occluded carotid offers no benefit once neurologic damage has occurred, and risks converting an ischemic stroke into a hemorrhagic one.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q025",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-025"
-    ],
-    "category": "Carotid Stenosis Indications",
+    "category": "Duodenal Injuries and Hematoma",
     "importance": 3,
     "difficulty": 2,
-    "question": "One of the few indications for operating on a chronically occluded carotid artery is ____.",
-    "choices": null,
-    "correct_answer": "carotid stump syndrome",
-    "accepted_answers": [
-      "carotid stump syndrome",
-      "stump syndrome"
-    ],
-    "explanation": "Carotid stump syndrome, in which the occluded stump becomes a source of embolization, is a rare indication for intervention on an occluded carotid.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q026",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-026"
-    ],
-    "category": "CEA Timing Considerations",
-    "importance": 5,
-    "difficulty": 1,
-    "question": "The classic emergent indication for CEA is ____.",
-    "choices": null,
-    "correct_answer": "crescendo TIAs",
-    "accepted_answers": [
-      "crescendo TIAs",
-      "crescendo TIA"
-    ],
-    "explanation": "Crescendo TIAs — worsening or increasingly frequent TIA symptoms — represent one of the few true emergent indications for CEA.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q027",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-027"
-    ],
-    "category": "CEA Timing Considerations",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What is the most common non-stroke cause of morbidity and mortality after CEA?",
-    "choices": [
-      "Myocardial infarction / cardiac events",
-      "Wound infection",
-      "Nerve injury",
-      "Restenosis"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Cardiac events are the most common non-stroke complication, underscoring the importance of preoperative cardiac risk assessment.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q028",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-028",
-      "VASC1-029"
-    ],
-    "category": "CEA Timing Considerations",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "A patient had a small TIA/stroke last week from carotid stenosis and has since resolved neurologically. When should CEA be performed?",
-    "choices": [
-      "Within about 2 weeks of symptom resolution",
-      "Immediately, within 24 hours",
-      "After waiting at least 3 months",
-      "Never — CEA is contraindicated after any stroke"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "For small strokes/TIAs, CEA within about 2 weeks of symptom resolution balances the risk of hemorrhagic conversion against the risk of recurrent stroke.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q029",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-029"
-    ],
-    "category": "CEA Timing Considerations",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "A patient with a large hemorrhagic stroke from carotid stenosis should undergo CEA within 2 weeks, just like a patient with a small stroke.",
+    "question": "Adjuncts like pyloric exclusion and duodenal diverticulization are well-supported, commonly tested ABSITE answers.",
     "choices": [
       true,
       false
     ],
     "correct_answer": false,
     "accepted_answers": null,
-    "explanation": "Patients with large or hemorrhagic strokes should wait longer, generally 6 to 8 weeks, to allow the brain to recover before CEA.",
+    "explanation": "These bailout procedures are not well supported by strong evidence and are unlikely to be tested.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q030",
+    "id": "TR2-Q017",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-030"
+      "TR2-017"
     ],
-    "category": "Cerebral Monitoring and Shunting",
+    "category": "Duodenal Injuries and Hematoma",
     "importance": 4,
-    "difficulty": 1,
-    "question": "What is a downside of routine carotid shunting during CEA?",
+    "difficulty": 2,
+    "question": "What should always be done at the time of duodenal repair surgery regarding tube placement?",
     "choices": [
-      "It can limit visibility of the distal endarterectomy endpoint",
-      "It always causes a stroke",
-      "It cannot be used with general anesthesia",
-      "It requires cardiopulmonary bypass"
+      "No tubes are needed if repair is successful",
+      "Place a gastrostomy tube proximal to the repair only",
+      "Place a rectal tube for decompression",
+      "Leave an NG tube in the stomach and a feeding tube past the repair"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "NG decompression and distal feeding access are both important adjuncts at the time of repair.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q018",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-018"
+    ],
+    "category": "Small Bowel Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How is a destructive small bowel injury defined?",
+    "choices": [
+      "Greater than 50% circumference involved or devascularization",
+      "Any injury requiring suture repair",
+      "Less than 25% circumference involved",
+      "Injury limited to the mesentery only"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
-    "explanation": "Routine shunting maintains cerebral perfusion but can obstruct the surgeon's view of the distal endpoint of the endarterectomy.",
+    "explanation": "Destructive injuries involve >50% of the bowel wall circumference or devascularization (e.g., bucket-handle injury).",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q031",
+    "id": "TR2-Q019",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-031"
+      "TR2-019"
     ],
-    "category": "Cerebral Monitoring and Shunting",
-    "importance": 4,
+    "category": "Small Bowel Injuries",
+    "importance": 5,
     "difficulty": 2,
-    "question": "During an awake CEA, how is neurologic status monitored during carotid clamping?",
+    "question": "How is a non-destructive small bowel injury managed?",
     "choices": [
-      "The patient squeezes a toy so the surgeon can watch for loss of function",
-      "Continuous EEG monitoring is required",
-      "A stump pressure is always measured",
-      "The patient is intubated and monitored by capnography"
+      "Primary suture repair",
+      "Observation without repair",
+      "Damage control with discontinuity",
+      "Resection and anastomosis"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
-    "explanation": "Under local/regional anesthesia, the awake patient squeezes an object during clamping, allowing real-time assessment of neurologic function.",
+    "explanation": "Non-destructive injuries (<50% circumference, no vascular compromise) can typically be repaired primarily.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q032",
-    "type": "fill_blank",
+    "id": "TR2-Q020",
+    "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-032"
+      "TR2-020"
     ],
-    "category": "Cerebral Monitoring and Shunting",
+    "category": "Small Bowel Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "An unstable trauma patient has a destructive small bowel injury. What is the management?",
+    "choices": [
+      "Non-operative observation",
+      "Primary repair without resection",
+      "Resection and leave the bowel in discontinuity for damage control",
+      "Immediate anastomosis regardless of stability"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "In unstable patients, resection with discontinuity (deferring anastomosis) is preferred for damage control.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q021",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-021"
+    ],
+    "category": "Small Bowel Injuries",
     "importance": 4,
     "difficulty": 2,
-    "question": "A carotid stump pressure below approximately ____ mmHg indicates the need to place a shunt.",
-    "choices": null,
-    "correct_answer": "40-50",
-    "accepted_answers": [
-      "40-50",
-      "40 to 50",
-      "40",
-      "50"
+    "question": "After controlling bleeding from a mesenteric injury, what must always be assessed?",
+    "choices": [
+      "Splenic perfusion",
+      "Renal function",
+      "Gastric emptying",
+      "Viability of the bowel supplied by the injured mesentery"
     ],
-    "explanation": "Stump pressures below roughly 40–50 mmHg suggest inadequate collateral cerebral perfusion, warranting a shunt.",
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Bowel viability must be confirmed after mesenteric bleeding control, since ischemic segments require resection.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q033",
+    "id": "TR2-Q022",
     "type": "true_false",
     "source_card_ids": [
-      "VASC1-033"
+      "TR2-022"
     ],
-    "category": "Cerebral Monitoring and Shunting",
-    "importance": 3,
-    "difficulty": 1,
-    "question": "During EEG-based selective shunting, decrements in the EEG waveform after clamping indicate the need to place a shunt.",
+    "category": "Small Bowel Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "A bucket-handle mesenteric injury with bowel torn away from its blood supply can usually be left in place safely.",
     "choices": [
       true,
       false
     ],
-    "correct_answer": true,
+    "correct_answer": false,
     "accepted_answers": null,
-    "explanation": "EEG decrements after clamping suggest inadequate cerebral perfusion and prompt shunt placement.",
+    "explanation": "It is rare to safely leave bowel with a large bucket-handle injury unless the affected area is very small; resection is usually required.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q034",
+    "id": "TR2-Q023",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-034"
+      "TR2-023"
     ],
-    "category": "Cerebral Monitoring and Shunting",
-    "importance": 3,
-    "difficulty": 1,
-    "question": "Where is the cerebral oximetry probe placed to monitor perfusion during CEA?",
-    "choices": [
-      "Forehead",
-      "Earlobe",
-      "Fingertip",
-      "Neck"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The cerebral oximetry probe is placed on the forehead and monitored for changes suggesting inadequate perfusion.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q035",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-035",
-      "VASC1-036"
-    ],
-    "category": "Post-CEA Complications",
+    "category": "Colon Injuries",
     "importance": 5,
-    "difficulty": 3,
-    "question": "A patient develops severe headache and hypertension several days after CEA, with a normal neurologic exam. What is the diagnosis and treatment?",
+    "difficulty": 2,
+    "question": "What defines a destructive penetrating colon injury?",
     "choices": [
-      "Cerebral hyperperfusion syndrome; treat with BP control, ICU admission, and seizure prophylaxis",
-      "Acute stroke; obtain emergent thrombectomy",
-      "Wound hematoma; return to OR",
-      "Vagus nerve injury; observe"
+      "Less than 25% of the circumference involved",
+      "Greater than 50% of the lumen circumference involved",
+      "Injury confined to the serosa",
+      "Any injury visible on CT"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
-    "explanation": "Cerebral hyperperfusion syndrome results from dysregulated cerebral autoregulation, often after bilateral high-grade stenosis has been treated; management is CT imaging plus aggressive blood pressure control, ICU care, and seizure prophylaxis.",
+    "explanation": "The same >50% circumference threshold used for small bowel applies to colon injury classification.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q036",
+    "id": "TR2-Q024",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-024"
+    ],
+    "category": "Colon Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which factor favors damage control surgery over definitive repair in colon trauma?",
+    "choices": [
+      "A stable patient with normal vital signs",
+      "Absence of associated injuries",
+      "A single isolated small colon laceration",
+      "Hemodynamic instability with multiple concurrent injuries"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Instability, significant blood loss, and multiple concurrent injuries favor a damage control approach.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q025",
     "type": "true_false",
     "source_card_ids": [
-      "VASC1-036"
+      "TR2-025"
     ],
-    "category": "Post-CEA Complications",
-    "importance": 4,
+    "category": "Colon Injuries",
+    "importance": 5,
     "difficulty": 2,
-    "question": "Cerebral hyperperfusion syndrome most classically occurs in patients who have had both carotids opened over a period of months for bilateral high-grade stenosis.",
+    "question": "Left-sided colon injuries always require a colostomy, unlike right-sided injuries which can be primarily anastomosed.",
     "choices": [
       true,
       false
     ],
-    "correct_answer": true,
+    "correct_answer": false,
     "accepted_answers": null,
-    "explanation": "The dysfunctional autoregulation underlying hyperperfusion syndrome is classically seen after staged bilateral carotid interventions.",
+    "explanation": "This is outdated teaching; left-sided anastomosis without diversion has been shown to be safe. Management now depends more on physiologic status.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q037",
+    "id": "TR2-Q026",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-037"
+      "TR2-026"
     ],
-    "category": "Post-CEA Complications",
-    "importance": 5,
-    "difficulty": 3,
-    "question": "A patient develops stroke symptoms in the PACU after CEA. What is the appropriate first diagnostic step?",
-    "choices": [
-      "Urgent duplex ultrasound of the carotid",
-      "CT angiogram of the head and neck",
-      "MRI of the brain",
-      "Immediate anticoagulation without imaging"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Urgent duplex first evaluates for a local technical problem (patch failure, thrombosis); if flow is normal, a CT scan is then obtained to look for a distal embolic or watershed event.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q038",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-037"
-    ],
-    "category": "Post-CEA Complications",
+    "category": "Colon Injuries",
     "importance": 4,
     "difficulty": 2,
-    "question": "If a patient has a normal carotid duplex after developing PACU stroke symptoms following CEA, the next step is a CT scan to evaluate for distal embolus or watershed infarct.",
+    "question": "What is the most common location for a colonic bucket-handle injury?",
     "choices": [
-      true,
-      false
+      "The transverse colon, torn from the omentum",
+      "The ascending colon only",
+      "The rectum, torn from the presacral fascia",
+      "Near the sigmoid colon, torn off the abdominal wall"
     ],
-    "correct_answer": true,
+    "correct_answer": 3,
     "accepted_answers": null,
-    "explanation": "A patent duplex points away from a local technical problem and toward an intracranial process requiring CT/CTA evaluation.",
+    "explanation": "The sigmoid colon, with its attachments to the abdominal wall, is the most common site for this injury.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q039",
+    "id": "TR2-Q027",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-038"
+      "TR2-027"
     ],
-    "category": "Carotid Stenting and TCAR",
+    "category": "Colon Injuries",
     "importance": 4,
     "difficulty": 2,
-    "question": "Which patient would be the best candidate for carotid stenting over CEA?",
+    "question": "How is a colonic bucket-handle (devascularization) injury managed?",
     "choices": [
-      "A patient with severe cardiac disease and prior neck radiation",
-      "A young, healthy patient with a straightforward bifurcation lesion",
-      "A patient with no prior neck surgery and a low cardiac risk",
-      "A patient who wants the shortest possible hospital stay"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Carotid stenting is favored in poor surgical candidates: those with severe cardiac disease, prior neck dissection/radiation, or recurrent carotid disease.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q040",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-039"
-    ],
-    "category": "Carotid Stenting and TCAR",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "TCAR stands for transcarotid artery revascularization, and its key advantage over transfemoral stenting is ____ during lesion crossing, which lowers stroke risk.",
-    "choices": null,
-    "correct_answer": "flow reversal",
-    "accepted_answers": [
-      "flow reversal",
-      "reversal of flow"
-    ],
-    "explanation": "TCAR uses flow reversal during lesion crossing, which reduces the risk of embolic stroke compared with a transfemoral approach.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q041",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-040"
-    ],
-    "category": "Non-Atherosclerotic Carotid Disease",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "A blunt trauma patient is found to have an asymptomatic carotid dissection. What is the management?",
-    "choices": [
-      "Anticoagulation (heparin or Plavix) with repeat imaging before discharge",
-      "Immediate carotid stenting",
-      "Observation without antithrombotic therapy",
-      "Emergent open surgical repair"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Anticoagulation or antiplatelet therapy plus repeat imaging (preferably CT, since dissections often extend higher than duplex can visualize) is standard management.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q042",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-040"
-    ],
-    "category": "Non-Atherosclerotic Carotid Disease",
-    "importance": 3,
-    "difficulty": 2,
-    "question": "CT imaging is generally preferred over duplex ultrasound for following blunt traumatic carotid dissections.",
-    "choices": [
-      true,
-      false
-    ],
-    "correct_answer": true,
-    "accepted_answers": null,
-    "explanation": "Dissections frequently extend to a level higher than duplex ultrasound can adequately visualize, making CT the preferred follow-up modality.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q043",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-041"
-    ],
-    "category": "Non-Atherosclerotic Carotid Disease",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "A blunt trauma patient has a symptomatic carotid dissection with recurrent symptoms despite antithrombotic therapy. What is the next step?",
-    "choices": [
-      "Carotid stenting",
-      "Observation only",
-      "Open surgical bypass",
-      "Emergent CEA"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Dissections are not well suited to open repair; stenting is the preferred intervention for symptomatic dissections that fail medical therapy.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q044",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-042"
-    ],
-    "category": "Non-Atherosclerotic Carotid Disease",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "A blunt trauma patient has a traumatic carotid occlusion with an established neurologic deficit. What is the best management?",
-    "choices": [
-      "Antithrombotic therapy alone; do not attempt to open the occluded segment",
-      "Emergent thrombectomy",
-      "Emergent carotid bypass",
-      "Carotid stenting"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Once neurologic injury has occurred with an occluded carotid, opening the vessel offers no benefit and risks secondary injury; antithrombotic therapy alone is preferred.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q045",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-043",
-      "VASC1-044"
-    ],
-    "category": "Non-Atherosclerotic Carotid Disease",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "What is the standard management for a carotid body tumor, and what is considered for large (>5 cm) tumors?",
-    "choices": [
-      "Surgical resection, with preoperative embolization of feeding ECA branches for tumors >5 cm",
-      "Observation only",
-      "Chemotherapy followed by resection",
-      "Radiation therapy alone"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Carotid body tumors require resection; preoperative embolization of the ECA branches feeding the tumor reduces intraoperative bleeding, especially for larger tumors.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q046",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-044"
-    ],
-    "category": "Non-Atherosclerotic Carotid Disease",
-    "importance": 3,
-    "difficulty": 2,
-    "question": "For bilateral carotid body tumors, resections should be staged, and a ____ should be performed between surgeries to confirm nerve function before the second operation.",
-    "choices": null,
-    "correct_answer": "laryngoscopy",
-    "accepted_answers": [
-      "laryngoscopy"
-    ],
-    "explanation": "Laryngoscopy between staged resections confirms vocal cord/nerve function is intact before proceeding to the contralateral side.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q047",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-045"
-    ],
-    "category": "Non-Atherosclerotic Carotid Disease",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "A young patient with a TIA has a 'string of beads' appearance of the ICA on CTA. What is the diagnosis?",
-    "choices": [
-      "Fibromuscular dysplasia",
-      "Carotid dissection",
-      "Takayasu arteritis",
-      "Atherosclerotic disease"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The 'string of beads' appearance is classic for fibromuscular dysplasia, most commonly affecting the renal and carotid arteries.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q048",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-045"
-    ],
-    "category": "Non-Atherosclerotic Carotid Disease",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "A patient with fibromuscular dysplasia has recurrent TIAs despite antiplatelet therapy. What is the treatment of choice?",
-    "choices": [
-      "Balloon angioplasty",
-      "Carotid stenting",
-      "Carotid endarterectomy",
-      "Increase antiplatelet dose only"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Balloon angioplasty, not stenting or endarterectomy, is the treatment of choice for symptomatic FMD refractory to antiplatelet therapy.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q049",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-046"
-    ],
-    "category": "Thoracic Outlet Syndrome",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "Going from anterior to posterior in the thoracic outlet, which structure lies immediately behind the anterior scalene muscle?",
-    "choices": [
-      "Subclavian artery",
-      "Subclavian vein",
-      "Phrenic nerve",
-      "Brachial plexus"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The order anterior to posterior is: subclavian vein, phrenic nerve (on the anterior scalene), subclavian artery (behind the anterior scalene), brachial plexus, then the middle scalene and first rib.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q050",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-047"
-    ],
-    "category": "Thoracic Outlet Syndrome",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "The anatomic anomaly that puts patients at risk for thoracic outlet syndrome is a ____.",
-    "choices": null,
-    "correct_answer": "cervical rib",
-    "accepted_answers": [
-      "cervical rib"
-    ],
-    "explanation": "A cervical rib is the classic anatomic risk factor for developing thoracic outlet syndrome.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q051",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-048"
-    ],
-    "category": "Thoracic Outlet Syndrome",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "Where is the brachial plexus located relative to the subclavian artery in the thoracic outlet?",
-    "choices": [
-      "Posterior to the subclavian artery, along the middle scalene",
-      "Anterior to the subclavian artery",
-      "Medial to the subclavian vein",
-      "Superficial to the anterior scalene"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The brachial plexus lies posterior to the subclavian artery, coursing along the middle scalene muscle.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q052",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-049"
-    ],
-    "category": "Thoracic Outlet Syndrome",
-    "importance": 5,
-    "difficulty": 1,
-    "question": "What percentage of thoracic outlet syndrome cases are neurogenic?",
-    "choices": [
-      "About 95%",
-      "About 50%",
-      "About 25%",
-      "About 75%"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Neurogenic TOS accounts for roughly 95% of all TOS cases.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q053",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-049"
-    ],
-    "category": "Thoracic Outlet Syndrome",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "Neurogenic TOS symptoms are classically worsened with elevation of the arm.",
-    "choices": [
-      true,
-      false
-    ],
-    "correct_answer": true,
-    "accepted_answers": null,
-    "explanation": "Arm elevation exacerbates the pain, numbness, and tingling of neurogenic TOS, usually in an ulnar distribution.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q054",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-050"
-    ],
-    "category": "Thoracic Outlet Syndrome",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What is the correct treatment sequence for neurogenic TOS?",
-    "choices": [
-      "Physical therapy first, then scalene block/nerve conduction study to confirm, then first rib resection with scalenectomy and neurolysis",
-      "Immediate first rib resection",
-      "Immediate scalenectomy without confirmatory testing",
-      "Long-term opioid management only"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Physical therapy is first-line. If it fails, a scalene block or nerve conduction study helps confirm the diagnosis and predict surgical benefit before proceeding to first rib resection with scalenectomy and neurolysis.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q055",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-051",
-      "VASC1-052"
-    ],
-    "category": "Thoracic Outlet Syndrome",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "A competitive swimmer presents with a blue, swollen arm. What is the diagnosis and initial treatment?",
-    "choices": [
-      "Subclavian vein thrombosis (Paget-Schroetter); catheter-directed thrombolysis followed by eventual first rib resection",
-      "Arterial TOS; first rib resection and interposition graft",
-      "Deep vein thrombosis of the leg; systemic anticoagulation only",
-      "Cerebral hyperperfusion syndrome"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Paget-Schroetter syndrome is caused by compression at the costoclavicular junction and is treated with thrombolysis to restore vein patency followed by first rib resection, typically 1-2 weeks later.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q056",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-053"
-    ],
-    "category": "Thoracic Outlet Syndrome",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "A young patient with no atherosclerotic risk factors has hand ischemia. What is the diagnosis and treatment?",
-    "choices": [
-      "Arterial TOS; first rib resection with interposition graft of the artery",
-      "Neurogenic TOS; physical therapy",
-      "Venous TOS; thrombolysis",
-      "Raynaud phenomenon; calcium channel blockers"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Arterial TOS is rare but presents with hand ischemia in a young patient without atherosclerotic risk factors; the subclavian artery becomes aneurysmal from chronic thoracic outlet compression and can embolize, requiring first rib resection plus an interposition graft.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q057",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-054"
-    ],
-    "category": "Subclavian Steal Syndrome",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What lesion causes subclavian steal syndrome?",
-    "choices": [
-      "A proximal subclavian artery stenosis or occlusion, proximal to the vertebral artery origin",
-      "A distal subclavian artery aneurysm",
-      "A carotid bifurcation stenosis",
-      "A vertebral artery dissection"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Proximal subclavian stenosis or occlusion proximal to the vertebral artery origin causes reversal of vertebral flow, producing subclavian steal syndrome.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q058",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-055"
-    ],
-    "category": "Subclavian Steal Syndrome",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "In subclavian steal syndrome, arm exertion causes blood flow to reverse down the ____ artery, producing vertebrobasilar symptoms.",
-    "choices": null,
-    "correct_answer": "vertebral",
-    "accepted_answers": [
-      "vertebral"
-    ],
-    "explanation": "During arm exertion, blood is 'stolen' by reversing down the vertebral artery to supply the ischemic arm, causing vertebrobasilar symptoms such as unsteady gait.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q059",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-056"
-    ],
-    "category": "Subclavian Steal Syndrome",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "What are the treatment options for subclavian steal syndrome?",
-    "choices": [
-      "Proximal subclavian stenting or carotid-subclavian bypass",
-      "Balloon angioplasty of the carotid artery only",
-      "Vertebral artery ligation",
+      "Colostomy without resection",
+      "Resection and anastomosis or damage control surgery",
+      "Primary repair without resection",
       "Observation only"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
-    "explanation": "Treatment options include endovascular stenting of the proximal subclavian lesion or a carotid-subclavian bypass.",
+    "explanation": "Devascularized colon segments require resection, either with anastomosis or as part of damage control.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q060",
-    "type": "fill_blank",
+    "id": "TR2-Q028",
+    "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-057"
+      "TR2-028"
     ],
-    "category": "Dialysis Access Basics",
+    "category": "Rectal Injuries",
     "importance": 5,
-    "difficulty": 1,
-    "question": "A temporary dialysis catheter ('vas cath') should be left in place no more than ____ due to infection risk.",
-    "choices": null,
-    "correct_answer": "3 weeks",
-    "accepted_answers": [
-      "3 weeks",
-      "three weeks"
+    "difficulty": 2,
+    "question": "Which of the following should raise suspicion for a rectal injury?",
+    "choices": [
+      "Isolated upper extremity fracture",
+      "Isolated flank contusion",
+      "Normal rectal exam alone",
+      "Penetrating trauma to the perineum"
     ],
-    "explanation": "Temporary catheters carry a significant infection risk and should generally be removed within 3 weeks.",
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Penetrating perineal or pelvic trauma, pelvic fractures, and blood on rectal exam all raise concern for rectal injury.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q061",
+    "id": "TR2-Q029",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-058"
+      "TR2-029"
     ],
-    "category": "Dialysis Access Basics",
-    "importance": 4,
+    "category": "Rectal Injuries",
+    "importance": 5,
     "difficulty": 2,
-    "question": "Compared to a temporary catheter, a tunneled cuffed catheter (permcath) has:",
+    "question": "What is the best way to evaluate for a rectal injury in the operating room?",
     "choices": [
-      "Lower infection risk but still a high risk of central venous stenosis",
-      "Higher infection risk and lower stenosis risk",
-      "No risk of infection",
-      "No risk of central venous stenosis"
+      "Proctoscopy or sigmoidoscopy",
+      "Barium enema",
+      "Digital rectal exam alone",
+      "CT scan alone"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
-    "explanation": "Tunneling and cuffing lower (but do not eliminate) infection risk; central venous stenosis remains a significant risk with prolonged use.",
+    "explanation": "Direct visualization via proctoscopy/sigmoidoscopy is the best intraoperative evaluation method.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q062",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-059"
-    ],
-    "category": "Dialysis Access Basics",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "What is the preferred site for temporary dialysis access, and what should influence the side chosen?",
-    "choices": [
-      "Right internal jugular vein; avoid the side of planned future permanent access",
-      "Left internal jugular vein; no side preference matters",
-      "Femoral vein; always preferred over IJ",
-      "Subclavian vein; preferred for its low stenosis risk"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The right IJ is preferred since it drains directly into the right atrium; the side should ideally spare the arm planned for future permanent access to avoid central venous stenosis.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q063",
+    "id": "TR2-Q030",
     "type": "true_false",
     "source_card_ids": [
-      "VASC1-059"
+      "TR2-031"
     ],
-    "category": "Dialysis Access Basics",
-    "importance": 3,
+    "category": "Rectal Injuries",
+    "importance": 5,
     "difficulty": 2,
-    "question": "The subclavian vein is a preferred site for temporary or long-term dialysis catheters due to a low risk of central venous stenosis.",
+    "question": "Extraperitoneal rectal injuries can always be identified during exploratory laparotomy.",
     "choices": [
       true,
       false
     ],
     "correct_answer": false,
     "accepted_answers": null,
-    "explanation": "Subclavian catheters carry a notably higher risk of central venous stenosis and are generally avoided in dialysis patients when possible.",
+    "explanation": "Extraperitoneal injuries are often not visible during laparotomy and may only be seen on proctoscopy.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q064",
+    "id": "TR2-Q031",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-060"
+      "TR2-032"
     ],
-    "category": "Dialysis Access Basics",
+    "category": "Rectal Injuries",
     "importance": 5,
     "difficulty": 2,
-    "question": "What are the basic principles for planning an AV fistula?",
+    "question": "What is the safe ABSITE answer for managing an extraperitoneal rectal injury?",
     "choices": [
-      "Non-dominant arm, start distal, cephalic vein preferred before basilic",
-      "Dominant arm, start proximal, basilic vein preferred first",
-      "Either arm is equivalent, start with a graft",
-      "Lower extremity vessels should always be evaluated first"
+      "Observation alone",
+      "Rectal irrigation and presacral drainage",
+      "Fecal diversion with a sigmoid loop colostomy",
+      "Primary repair without diversion"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
-    "explanation": "Fistula planning favors the non-dominant arm, starting as distally as possible, and preferring the cephalic vein over the basilic vein since it does not require transposition.",
+    "explanation": "Diversion is the key modern management principle; irrigation and presacral drainage are outdated and carry higher infection risk.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q065",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-061"
-    ],
-    "category": "Dialysis Access Basics",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "Preoperative vein mapping criteria for an AV fistula require a vein diameter greater than ____ mm and an artery diameter greater than ____ mm.",
-    "choices": null,
-    "correct_answer": "3 mm and 2 mm",
-    "accepted_answers": [
-      "3mm and 2mm",
-      "3 and 2",
-      "3mm/2mm"
-    ],
-    "explanation": "The vein should be >3mm throughout its course, and the target artery should be >2mm with triphasic waveforms.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q066",
+    "id": "TR2-Q032",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-062"
+      "TR2-033"
     ],
-    "category": "Dialysis Access Complications",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "What is the most common cause of a fistula that is not maturing or is malfunctioning?",
-    "choices": [
-      "Venous outflow problem",
-      "Arterial inflow problem",
-      "Infection",
-      "Side branch steal"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Veins accustomed to low pressure tend to scar down under the high pressure and flow of a fistula, making venous outflow stenosis the most common cause of malfunction.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q067",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-063"
-    ],
-    "category": "Dialysis Access Complications",
+    "category": "Pancreatic Injuries",
     "importance": 5,
     "difficulty": 2,
-    "question": "A dialysis patient has high venous pressures and must hold pressure much longer than usual after dialysis. What is the diagnosis and next step?",
+    "question": "Which mechanism classically raises suspicion for a pancreatic and/or duodenal injury?",
     "choices": [
-      "Venous outflow stenosis; obtain duplex, then fistulogram with balloon angioplasty",
-      "Arterial steal syndrome; obtain wave flow analysis",
-      "Graft infection; start antibiotics",
-      "Aneurysmal degeneration; observe"
+      "A handlebar injury in a child",
+      "A simple fall from standing",
+      "A minor rear-end MVC without seat belt sign",
+      "An isolated ankle twist"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
-    "explanation": "This presentation is classic for venous outflow stenosis. Diagnosis is with duplex, followed by fistulogram and balloon angioplasty (stenting if angioplasty fails).",
+    "explanation": "Handlebar injuries, seat belt injuries, and steering wheel impacts are classic mechanisms for pancreaticoduodenal trauma.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q068",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-064"
-    ],
-    "category": "Dialysis Access Complications",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "According to the 'rule of sixes,' which of the following describes a mature fistula at 6 weeks?",
-    "choices": [
-      "≥6 mm diameter, ≤6 mm depth, ≥600 mL/min flow",
-      "≤6 mm diameter, ≥6 mm depth, ≤600 mL/min flow",
-      "6 cm diameter, 6 cm depth, 60 mL/min flow",
-      "≥6 mm diameter only, depth and flow are not relevant"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The rule of sixes requires a diameter of at least 6mm, a depth of no more than 6mm, and flow of at least 600 mL/min.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q069",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-065"
-    ],
-    "category": "Dialysis Access Complications",
-    "importance": 5,
-    "difficulty": 3,
-    "question": "A fistula fails to mature at 6 weeks due to competing flow from large side branches. What is the appropriate management?",
-    "choices": [
-      "Ligate or coil the side branches",
-      "Perform balloon angioplasty of the central veins",
-      "Immediately abandon the fistula and place a graft",
-      "Superficialize the fistula"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Large side branches divert flow and pressure away from the maturing fistula; ligating or coiling them redirects flow appropriately.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q070",
+    "id": "TR2-Q033",
     "type": "true_false",
     "source_card_ids": [
-      "VASC1-065"
+      "TR2-034"
     ],
-    "category": "Dialysis Access Complications",
-    "importance": 4,
+    "category": "Pancreatic Injuries",
+    "importance": 5,
     "difficulty": 2,
-    "question": "A fistula failing to mature due to an anastomotic stricture (inadequate inflow) is typically treated with angioplasty or surgical revision.",
+    "question": "Persistently elevated amylase and lipase after trauma should prompt evaluation for a pancreatic injury.",
     "choices": [
       true,
       false
     ],
     "correct_answer": true,
     "accepted_answers": null,
-    "explanation": "Inadequate inflow from an anastomotic stricture is managed with angioplasty or revision of the anastomosis.",
+    "explanation": "Rising or persistently elevated pancreatic enzymes after trauma should raise concern for pancreatic injury.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q071",
+    "id": "TR2-Q034",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-066"
+      "TR2-035"
     ],
-    "category": "Dialysis Access Complications",
+    "category": "Pancreatic Injuries",
     "importance": 5,
     "difficulty": 2,
-    "question": "How is steal syndrome after fistula creation confirmed on wave flow analysis?",
+    "question": "What two factors most influence operative management of a pancreatic injury?",
     "choices": [
-      "A ≥50% improvement in distal flow with compression of the fistula",
-      "A decrease in flow with compression of the fistula",
-      "No change in flow with or without compression",
-      "An increase in venous pressure with compression"
+      "Time since injury and mechanism only",
+      "Patient age and BMI",
+      "Ductal involvement and associated duodenal injury",
+      "Amylase level and lipase level only"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Ductal involvement and associated duodenal injury are the key determinants of management approach.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q035",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-036"
+    ],
+    "category": "Pancreatic Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How is a main pancreatic duct injury involving the head of the pancreas managed?",
+    "choices": [
+      "Wide local drainage",
+      "Total pancreatectomy",
+      "Whipple procedure as first-line",
+      "Distal pancreatectomy"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
-    "explanation": "A ≥50% improvement in flow to the hand when the fistula is compressed confirms that the fistula is diverting (stealing) arterial flow away from the hand.",
+    "explanation": "Head-of-pancreas ductal injuries are managed with wide drainage, per the 'treat it like a crawfish' principle.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q072",
+    "id": "TR2-Q036",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-067",
-      "VASC1-068"
+      "TR2-037"
     ],
-    "category": "Dialysis Access Complications",
+    "category": "Pancreatic Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How is a distal pancreatic injury typically managed in trauma?",
+    "choices": [
+      "Pancreaticojejunostomy",
+      "Wide drainage alone",
+      "Distal pancreatectomy, often with splenectomy",
+      "Whipple procedure"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Distal pancreatectomy (often including splenectomy in trauma) is the standard approach; spleen preservation should be attempted if hemodynamically stable, especially in children.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q037",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-038"
+    ],
+    "category": "Pancreatic Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "An incidental pancreatic hematoma found when opening the lesser sac, without suspected ductal injury, always requires resection.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Without ductal injury concern, drains can be placed and the hematoma observed rather than resected.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q038",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-039"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "The majority of splenic injuries, especially after blunt trauma, can be managed non-operatively.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Non-operative management is the standard approach for most blunt splenic injuries.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q039",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-040"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What should non-operative management of a splenic injury include?",
+    "choices": [
+      "Discharge home with outpatient follow-up",
+      "Monitored bed with serial hematocrits and abdominal exams",
+      "Immediate splenectomy regardless of stability",
+      "Only a single CT scan with no further monitoring"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "A protocolized, monitored approach with serial labs and exams is standard for non-operative splenic injury management.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q040",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-041"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A splenic injury shows a contrast blush on initial CT. What is the next step?",
+    "choices": [
+      "Consider angioembolization via interventional radiology",
+      "Discharge with outpatient imaging",
+      "No further action needed",
+      "Immediate splenectomy regardless of stability"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "A blush prompts consideration of angioembolization in a hemodynamically stable patient.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q041",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-042"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "A hemodynamically unstable patient has a splenic injury, regardless of grade. What is the management?",
+    "choices": [
+      "Observation with serial hematocrits",
+      "Angioembolization",
+      "Repeat CT in 6 hours",
+      "Operating room"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "An unstable patient should never be sent to angioembolization — go straight to the OR.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q042",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-043"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Post-splenectomy vaccination against encapsulated organisms is ideally given ____ days after splenectomy.",
+    "choices": null,
+    "correct_answer": "14",
+    "accepted_answers": [
+      "14"
+    ],
+    "explanation": "14 days post-splenectomy is the ideal timing, though trauma patients are often vaccinated before discharge in practice.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q043",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-043"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which organisms require vaccination coverage after splenectomy?",
+    "choices": [
+      "E. coli, Klebsiella, Pseudomonas",
+      "Clostridium difficile, Bacteroides fragilis",
+      "Staphylococcus aureus, Streptococcus pyogenes",
+      "Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "These are the classic encapsulated organisms requiring vaccination after splenectomy.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q044",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-044"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the most common early complication after open splenectomy, and where does it typically originate?",
+    "choices": [
+      "Bleeding, most commonly from the short gastric vessels/greater curvature area",
+      "Bleeding from the splenic hilum only",
+      "Pancreatic fistula",
+      "Wound infection"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Bleeding is the most common early complication, often related to the short gastric vessels and greater curvature.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q045",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-045"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What late complication after splenectomy is related to the intimate relationship between the spleen and pancreatic tail?",
+    "choices": [
+      "Colonic ischemia",
+      "Renal failure",
+      "Gastric outlet obstruction",
+      "Pancreatic fistula or fluid collection"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Splenic hilar mobilization risks pancreatic tail injury, leading to fistula or fluid collection.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q046",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-046"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "The most common causative organism of overwhelming post-splenectomy infection (OPSI) is ____.",
+    "choices": null,
+    "correct_answer": "Streptococcus pneumoniae",
+    "accepted_answers": [
+      "Streptococcus pneumoniae",
+      "Strep pneumoniae",
+      "strep pneumo"
+    ],
+    "explanation": "Strep pneumoniae is the most common organism responsible for OPSI.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q047",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-047"
+    ],
+    "category": "Splenic Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "OPSI can occur many years after splenectomy and can rapidly progress to DIC and multisystem organ failure.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "OPSI is rare but can occur years later with rapid, severe progression, warranting a high index of suspicion.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q048",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-048"
+    ],
+    "category": "Liver Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the most commonly injured solid organ in trauma?",
+    "choices": [
+      "Pancreas",
+      "Liver",
+      "Kidney",
+      "Spleen"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "The liver is the most frequently injured solid organ overall.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q049",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-049"
+    ],
+    "category": "Liver Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "The majority of liver injuries can be managed non-operatively.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Similar to splenic injury, most liver injuries are managed non-operatively with monitoring.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q050",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-050"
+    ],
+    "category": "Liver Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A high-grade liver injury is found on initial CT. What follow-up imaging is recommended, and when?",
+    "choices": [
+      "MRI at 1 week",
+      "Repeat CT around 72 hours to rule out pseudoaneurysm",
+      "No repeat imaging is needed",
+      "Repeat CT at 6 hours only"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Repeat CT around 72 hours helps identify delayed pseudoaneurysm formation in high-grade liver injuries.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q051",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-051"
+    ],
+    "category": "Liver Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What is the first determination that must be made when evaluating a liver injury patient?",
+    "choices": [
+      "Patient's age",
+      "Injury grade on CT",
+      "Mechanism of injury",
+      "Hemodynamic stability versus instability"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Stability determines whether the patient goes to the OR versus non-operative management/IR.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q052",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-052"
+    ],
+    "category": "Liver Injuries",
     "importance": 5,
     "difficulty": 3,
-    "question": "A patient with established, reliable dialysis access develops chronic steal syndrome with fingertip ulcers. What is the preferred surgical treatment?",
+    "question": "What is the stepwise approach to controlling liver hemorrhage intraoperatively?",
     "choices": [
-      "DRIL procedure (distal revascularization and interval ligation)",
-      "Simple ligation of the fistula",
+      "Immediate anatomic resection in all cases",
+      "Immediate total vascular isolation in all cases",
+      "Pringle maneuver first, then packing",
+      "Packing, then Pringle maneuver, then total vascular isolation if bleeding persists"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "The stepwise, least-to-most invasive approach is packing, then Pringle maneuver, then total vascular isolation if a retrohepatic caval/hepatic vein injury is suspected.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q053",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-052"
+    ],
+    "category": "Liver Injuries",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "If liver bleeding continues despite a Pringle maneuver, a hepatic vein or retrohepatic IVC injury should be suspected.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "The Pringle maneuver occludes inflow (portal vein/hepatic artery); persistent bleeding suggests an outflow (hepatic vein/IVC) source.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q054",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-054"
+    ],
+    "category": "Liver Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A coagulopathic, hypothermic, acidotic trauma patient has ongoing liver bleeding. What is the best management?",
+    "choices": [
+      "Discharge from OR without packing",
+      "Immediate total hepatectomy",
+      "Damage control with packing, then ICU resuscitation",
+      "Definitive anatomic liver resection immediately"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The lethal triad mandates damage control rather than attempting definitive repair in the unstable patient.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q055",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-055"
+    ],
+    "category": "Liver Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A post-op liver injury patient develops hypotension and downtrending hematocrit. What should be suspected?",
+    "choices": [
+      "Re-bleeding, requiring return to the OR",
+      "Adrenal insufficiency",
+      "Pulmonary embolism as the most likely cause",
+      "Normal postoperative recovery"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "This presentation is concerning for ongoing/recurrent hepatic hemorrhage.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q056",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-056"
+    ],
+    "category": "Liver Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How is a post-traumatic bile leak typically managed?",
+    "choices": [
+      "Observation without any intervention",
+      "Percutaneous drainage, ERCP with biliary stent, and antibiotics",
+      "Oral antibiotics only",
+      "Immediate hepatectomy"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Bile leaks are managed with drainage, ERCP/stenting to optimize ductal flow, and antibiotics as needed.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q057",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-058"
+    ],
+    "category": "Liver Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A patient with prior liver trauma develops hematemesis, and upper endoscopy shows blood from the ampulla. What is the diagnosis and treatment?",
+    "choices": [
+      "Arterial-biliary fistula (hemobilia); treated with angioembolization",
+      "Esophageal varices; treated with banding",
+      "Peptic ulcer disease; treated with PPI",
+      "Mallory-Weiss tear; treated with observation"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Blood from the ampulla after liver trauma is classic for an arterial-biliary fistula (hemobilia), treated with angioembolization.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q058",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-059"
+    ],
+    "category": "Pelvic Fractures",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "When should a pelvic binder be placed for an open-book pelvic fracture?",
+    "choices": [
+      "Only if the patient is unstable",
+      "In the prehospital setting",
+      "Only in the operating room",
+      "Only after CT confirmation in the ED"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Prehospital pelvic binder placement is standard for suspected open-book pelvic fractures.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q059",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-060"
+    ],
+    "category": "Pelvic Fractures",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Approximately ____% of pelvic hemorrhage is venous in origin.",
+    "choices": null,
+    "correct_answer": "85",
+    "accepted_answers": [
+      "85"
+    ],
+    "explanation": "The majority (85%) of pelvic hemorrhage is venous, not arterial.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q060",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-061"
+    ],
+    "category": "Pelvic Fractures",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A relatively stable pelvic fracture patient has a blush on CTA. What is the management?",
+    "choices": [
+      "Pelvic binder alone without further intervention",
       "Observation only",
-      "Amputation of the affected digit"
+      "Angioembolization",
+      "Immediate laparotomy for preperitoneal packing"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
-    "explanation": "DRIL preserves the hard-won dialysis access while correcting the steal physiology, and is preferred over simple ligation when tissue loss occurs in the setting of reliable, established access.",
+    "explanation": "A blush in a stable patient is managed with angioembolization.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q073",
-    "type": "true_false",
+    "id": "TR2-Q061",
+    "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-068"
+      "TR2-062"
     ],
-    "category": "Dialysis Access Complications",
+    "category": "Pelvic Fractures",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "An unstable pelvic fracture patient continues to bleed and IR is unavailable. What is the management?",
+    "choices": [
+      "Immediate discharge to a Level 1 center",
+      "Continued observation",
+      "Operating room for preperitoneal packing",
+      "Pelvic binder alone"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Unstable patients without IR access go to the OR for preperitoneal packing; IR can follow if bleeding persists.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q062",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-063"
+    ],
+    "category": "Pelvic Fractures",
     "importance": 3,
     "difficulty": 2,
-    "question": "Simple ligation of a fistula is the preferred treatment for acute steal syndrome occurring the day of or the day after fistula creation.",
+    "question": "A zone ____ REBOA, placed just above the aortic bifurcation, can be used as an adjunct for pelvic hemorrhage control.",
+    "choices": null,
+    "correct_answer": "3",
+    "accepted_answers": [
+      "3",
+      "III"
+    ],
+    "explanation": "Zone 3 REBOA occludes the aorta just above the bifurcation for pelvic hemorrhage control.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q063",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-064"
+    ],
+    "category": "Pelvic Fractures",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which structures should raise concern for associated injury in a patient with a pelvic fracture?",
+    "choices": [
+      "Lung and heart",
+      "Thyroid and parathyroid",
+      "Brain and spinal cord",
+      "Bladder, urethra, vagina, and rectum"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "These pelvic organs are at risk with pelvic fractures and must be evaluated.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q064",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-065"
+    ],
+    "category": "Pelvic Fractures",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A patient with a pelvic fracture has gross hematuria. What is the next step?",
+    "choices": [
+      "Retrograde urethrogram or cystogram",
+      "IV pyelogram",
+      "Observation without further workup",
+      "Immediate cystoscopy in the ED"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Gross hematuria with a pelvic fracture warrants evaluation for urethral or bladder injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q065",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-066"
+    ],
+    "category": "Renal Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "The absence of hematuria reliably excludes a significant renal injury.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Hematuria is not always present with renal injury, so its absence should not provide false reassurance.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q066",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-067"
+    ],
+    "category": "Renal Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What imaging protocol is used to evaluate a suspected renal injury?",
+    "choices": [
+      "CT without contrast",
+      "CT abdomen/pelvis with IV contrast, immediate and delayed images",
+      "Ultrasound alone",
+      "MRI with contrast"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Both immediate and delayed contrast images are needed to fully evaluate renal injury and collecting system integrity.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q067",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-068"
+    ],
+    "category": "Renal Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How is a renal injury managed in a hemodynamically stable patient?",
+    "choices": [
+      "Immediate nephrectomy",
+      "Non-operative management with supportive care",
+      "Immediate angioembolization regardless of findings",
+      "Immediate operative exploration"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Stable patients with renal injury are managed conservatively.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q068",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-069"
+    ],
+    "category": "Renal Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What clinical findings should prompt repeat CT imaging days after a high-grade renal injury?",
+    "choices": [
+      "Improving pain",
+      "Resolving hematuria",
+      "Fever, increased pain, or distension",
+      "Normal vital signs"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "New or worsening symptoms after high-grade renal injury should prompt repeat imaging to assess for complications.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q069",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-070",
+      "TR2-071"
+    ],
+    "category": "Renal Trauma",
+    "importance": 5,
+    "difficulty": 3,
+    "question": "During laparotomy for blunt trauma, how should a zone 2 retroperitoneal hematoma be managed based on its behavior?",
+    "choices": [
+      "Always pack and refer to IR",
+      "Leave non-expanding hematomas alone; explore expanding/pulsatile ones",
+      "Never explore regardless of appearance",
+      "Always explore regardless of appearance"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Stable, non-expanding zone 2 hematomas from blunt trauma should be left alone; expanding or pulsatile ones require exploration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q070",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-072"
+    ],
+    "category": "Renal Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "For a penetrating mechanism, a stable zone 2 retroperitoneal hematoma should still generally be explored, unlike blunt trauma.",
     "choices": [
       true,
       false
     ],
     "correct_answer": true,
     "accepted_answers": null,
-    "explanation": "For acute steal syndrome immediately after surgery, or for ischemic monomelic neuropathy, ligation is a reasonable and often preferred option, unlike in chronic steal with an established, valuable access.",
+    "explanation": "Penetrating injury generally warrants exploration of retroperitoneal hematomas, unlike the more conservative approach for blunt trauma.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q074",
+    "id": "TR2-Q071",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-070"
+    ],
+    "category": "Renal Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Opening a non-expanding, contained retroperitoneal hematoma from blunt trauma is generally recommended to rule out injury.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": false,
+    "accepted_answers": null,
+    "explanation": "Violating a stable, non-expanding hematoma risks increasing bleeding and is generally avoided.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q072",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-073"
+    ],
+    "category": "Ureteral Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the most commonly injured segment of the ureter, and how is it managed?",
+    "choices": [
+      "Proximal ureter; nephrectomy",
+      "Distal ureter; reimplantation into the bladder",
+      "Mid ureter; primary anastomosis",
+      "Ureteropelvic junction; pyeloplasty"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "The distal ureter is most commonly injured and managed with reimplantation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q073",
     "type": "fill_blank",
     "source_card_ids": [
-      "VASC1-069"
+      "TR2-074"
     ],
-    "category": "Dialysis Access Complications",
+    "category": "Ureteral Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "If a distal ureteral injury cannot reach the bladder for direct reimplantation, a ____ procedure is used.",
+    "choices": null,
+    "correct_answer": "psoas hitch",
+    "accepted_answers": [
+      "psoas hitch"
+    ],
+    "explanation": "A psoas hitch mobilizes the bladder to allow reimplantation when there is a length gap.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q074",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-075"
+    ],
+    "category": "Ureteral Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How is a mid-ureteral injury managed?",
+    "choices": [
+      "Segmental resection without reconstruction",
+      "Immediate nephrectomy",
+      "Spatulated primary anastomosis over a double-J stent with absorbable suture",
+      "Permanent suture anastomosis without a stent"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Mid-ureteral injuries are repaired with a spatulated, stented anastomosis using fine absorbable suture.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q075",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-076"
+    ],
+    "category": "Bladder Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "____% of bladder injuries are associated with pelvic fractures.",
+    "choices": null,
+    "correct_answer": "90",
+    "accepted_answers": [
+      "90"
+    ],
+    "explanation": "90% of bladder injuries occur in association with pelvic fractures.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q076",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-077"
+    ],
+    "category": "Bladder Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Hematuria is a more reliable indicator of bladder injury than of renal injury.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Hematuria correlates more reliably with bladder injury compared to renal injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q077",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-078"
+    ],
+    "category": "Bladder Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What imaging study evaluates a suspected bladder injury?",
+    "choices": [
+      "IV pyelogram",
+      "Ultrasound alone",
+      "Cystography (retrograde or CT cystogram)",
+      "Standard CT abdomen/pelvis without cystogram protocol"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Cystography, whether retrograde or CT-based, is required to properly evaluate for bladder injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q078",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-079"
+    ],
+    "category": "Bladder Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "How is an intraperitoneal bladder injury managed?",
+    "choices": [
+      "Immediate operative repair",
+      "Percutaneous drainage",
+      "Observation without intervention",
+      "Foley catheter drainage alone"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Intraperitoneal bladder injuries require operative repair due to risk of urinary ascites/peritonitis.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q079",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-080"
+    ],
+    "category": "Bladder Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "How is an uncomplicated extraperitoneal bladder injury managed?",
+    "choices": [
+      "Non-operative management with Foley catheter drainage",
+      "Suprapubic tube alone",
+      "Nephrostomy tube placement",
+      "Immediate operative repair"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Uncomplicated extraperitoneal injuries heal with simple catheter drainage.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q080",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-081"
+    ],
+    "category": "Bladder Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What suture type should be used for bladder repair, and why?",
+    "choices": [
+      "Staples only",
+      "Either type is equally appropriate",
+      "Permanent suture, for maximum strength",
+      "Absorbable suture, to avoid stone formation with permanent suture"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Permanent suture in the urinary tract can act as a nidus for stone formation, so absorbable suture is used.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q081",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-081"
+    ],
+    "category": "Bladder Injuries",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "After bladder repair, a catheter is typically left in place for ____ to ____ days before a retrograde cystogram is obtained.",
+    "choices": null,
+    "correct_answer": "10 to 14",
+    "accepted_answers": [
+      "10 to 14",
+      "10-14"
+    ],
+    "explanation": "Catheter drainage for 10-14 days allows healing before confirming closure with cystogram.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q082",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-082"
+    ],
+    "category": "Urethral Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which of the following findings suggests a urethral injury?",
+    "choices": [
+      "Absence of blood at the meatus",
+      "High-riding prostate",
+      "Normal digital rectal exam",
+      "Normal ability to void"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "A high-riding prostate, blood at the meatus, and inability to void are classic signs of urethral injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q083",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-083"
+    ],
+    "category": "Urethral Injuries",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What imaging study evaluates suspected urethral injury?",
+    "choices": [
+      "Cystoscopy first-line",
+      "CT urogram",
+      "Voiding cystourethrogram only",
+      "Retrograde urethrogram"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Retrograde urethrogram is the classic diagnostic study for urethral injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q084",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-084"
+    ],
+    "category": "Urethral Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How are blunt posterior urethral injuries managed?",
+    "choices": [
+      "Urethral stenting",
+      "Foley catheter placement across the injury",
+      "Percutaneous suprapubic tube",
+      "Immediate primary repair"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Suprapubic tube diversion is standard for blunt posterior urethral injuries, avoiding attempts at catheter passage across the injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q085",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-085"
+    ],
+    "category": "Urethral Injuries",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How are penetrating anterior urethral injuries managed?",
+    "choices": [
+      "Percutaneous suprapubic tube alone",
+      "Observation without intervention",
+      "Foley catheterization without exploration",
+      "Surgical exploration and primary closure"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Penetrating anterior urethral injuries are managed with direct surgical repair.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q086",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-086"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which nerve is associated with shoulder dislocation?",
+    "choices": [
+      "Axillary nerve",
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Axillary nerve injury is classically associated with shoulder dislocation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q087",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-087"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which nerve is associated with humeral shaft fracture?",
+    "choices": [
+      "Radial nerve",
+      "Ulnar nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Radial nerve injury is classic with humeral shaft fractures, particularly at the spiral groove.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q088",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-088"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which nerve is associated with hip dislocation?",
+    "choices": [
+      "Femoral nerve",
+      "Sciatic nerve",
+      "Obturator nerve",
+      "Pudendal nerve"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Sciatic nerve injury is classic with posterior hip dislocation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q089",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-089"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "Which structures are at risk with a knee dislocation or medial tibial plateau fracture?",
+    "choices": [
+      "Femoral artery and sciatic nerve",
+      "Anterior tibial artery and tibial nerve",
+      "Popliteal artery and common peroneal nerve",
+      "Posterior tibial artery and sural nerve"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The popliteal artery and common peroneal nerve are classically at risk with knee dislocation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q090",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-090"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What compartment pressure threshold (relative to diastolic pressure) is classically used to diagnose compartment syndrome?",
+    "choices": [
+      "Within 60 mmHg of diastolic pressure",
+      "Above 100 mmHg absolute pressure",
+      "Within 10 mmHg of systolic pressure",
+      "Within 30 mmHg of diastolic pressure"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "A compartment pressure within 30 mmHg of diastolic pressure is the classic threshold, though clinical diagnosis is emphasized.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q091",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-090"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Compartment syndrome should ultimately be a clinical diagnosis rather than relying solely on pressure measurements.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Clinical findings remain paramount even though pressure thresholds exist as an adjunct.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q092",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-091"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which injury carries a high risk for compartment syndrome?",
+    "choices": [
+      "Isolated patella fracture",
+      "Distal radius fracture without deformity",
+      "Tibial shaft fracture",
+      "Isolated clavicle fracture"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Tibial fractures, along with crush injuries and forearm fractures, carry high compartment syndrome risk.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q093",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-093"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "An extremity arterial defect is less than 2 cm with tension-free approximation possible. What repair is preferred?",
+    "choices": [
+      "Ligation",
+      "Interposition graft",
+      "Primary repair after spatulating the edges",
+      "Patch angioplasty"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Small, tension-free defects are best managed with primary repair.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q094",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-094"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What conduit is generally preferred for extremity arterial interposition grafting?",
+    "choices": [
+      "Synthetic graft in all cases",
+      "PTFE in contaminated fields only",
+      "Cryopreserved artery",
+      "Reversed saphenous vein"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Reversed saphenous vein is generally preferred, with synthetic graft accepted for more proximal, non-contaminated injuries.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q095",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-095"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Extremity venous injuries can generally be ligated safely if primary repair is not feasible.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Ligation of extremity veins is usually well tolerated when repair is not feasible, though repair is preferred, especially in combined arterial/venous injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q096",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-096"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is a reasonable option for vascular control in an unstable patient with multiple traumatic extremity injuries?",
+    "choices": [
+      "Vascular shunting",
+      "Observation without intervention",
+      "Ligation of all injured vessels",
+      "Immediate definitive bypass in all cases"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Shunting allows temporary restoration of flow while other life-threatening issues and orthopedic stabilization are addressed.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q097",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-097"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "In a combined extremity fracture and vascular injury, what is the general sequence of management?",
+    "choices": [
+      "Shunt the vessel, fix the fracture, then perform definitive vascular repair",
+      "Fix the fracture first without addressing the vessel",
+      "Repair the vessel definitively first, then fix the fracture",
+      "Amputate first in all cases"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Shunting first allows orthopedic stabilization before definitive vascular repair, minimizing repeated vascular injury risk.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q098",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-098"
+    ],
+    "category": "Extremity Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Fasciotomy should always be considered with extremity vascular injuries, especially after prolonged ischemia time.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Prolonged ischemia significantly raises the risk of compartment syndrome, making fasciotomy an important consideration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q099",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-099"
+    ],
+    "category": "Pediatric Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "How does the pediatric airway differ from the adult airway, and what does this mean for intubation?",
+    "choices": [
+      "Wider and more posterior; requires a curved blade only",
+      "Longer than adults; requires deeper tube insertion",
+      "Narrower, shorter, more anterior; often requires a straight blade with upward angulation",
+      "Identical to adults; no technique change needed"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The pediatric airway's anatomic differences necessitate a straight laryngoscope blade technique.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q100",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-100"
+    ],
+    "category": "Pediatric Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is a common side effect of direct laryngoscopy in pediatric patients, and how is it treated?",
+    "choices": [
+      "Hypertension, treated with labetalol",
+      "Bradycardia, treated with atropine",
+      "Tachycardia, treated with beta blockers",
+      "Laryngospasm, treated with succinylcholine"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Vagally-mediated bradycardia is common during pediatric laryngoscopy and is treated with atropine.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q101",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-101"
+    ],
+    "category": "Pediatric Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Only infants should receive uncuffed endotracheal tubes; all other pediatric patients should receive cuffed tubes.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "Current practice favors cuffed tubes for all pediatric patients except infants.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q102",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-102"
+    ],
+    "category": "Pediatric Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Pediatric ET tube size can be estimated with the formula (age / 4) + ____.",
+    "choices": null,
+    "correct_answer": "4",
+    "accepted_answers": [
+      "4"
+    ],
+    "explanation": "The formula (age/4) + 4 is a common method to estimate pediatric ET tube size.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q103",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-103"
+    ],
+    "category": "Pediatric Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the weight-based bolus volume for pediatric trauma resuscitation with crystalloid?",
+    "choices": [
+      "20 mL/kg",
+      "10 mL/kg",
+      "40 mL/kg",
+      "5 mL/kg"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "20 mL/kg is the standard crystalloid bolus for pediatric trauma resuscitation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q104",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-103"
+    ],
+    "category": "Pediatric Trauma",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "The weight-based blood product bolus volume for pediatric trauma resuscitation is ____ mL/kg.",
+    "choices": null,
+    "correct_answer": "10",
+    "accepted_answers": [
+      "10"
+    ],
+    "explanation": "10 mL/kg is the standard blood product bolus for pediatric trauma resuscitation.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q105",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-104"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which lab finding is expected in normal pregnancy and should not be mistaken for pathology after trauma?",
+    "choices": [
+      "Decreased fibrinogen",
+      "Thrombocytopenia",
+      "Decreased clotting factors 7-10",
+      "Leukocytosis"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Pregnancy causes leukocytosis, thrombocytosis, and increased fibrinogen/clotting factors as normal physiologic changes.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q106",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-105"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Fetal compromise can occur due to catecholamine-mediated uterine vasoconstriction even when maternal vital signs are normal.",
+    "choices": [
+      true,
+      false
+    ],
+    "correct_answer": true,
+    "accepted_answers": null,
+    "explanation": "The placental vasculature's sensitivity to catecholamines means fetal compromise can occur despite normal-appearing maternal vitals.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q107",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-106"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "What is the baseline acid-base status of pregnancy, and what does this mean for apnea tolerance?",
+    "choices": [
+      "Respiratory acidosis; apnea is well tolerated",
+      "Compensated respiratory alkalosis; apnea is poorly tolerated",
+      "Normal acid-base status; no change in apnea tolerance",
+      "Compensated metabolic acidosis; apnea is well tolerated"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Pregnancy causes a chronic compensated respiratory alkalosis with increased O2 consumption, making apnea poorly tolerated.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q108",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-107"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "How should a pregnant trauma patient be positioned, and why?",
+    "choices": [
+      "Supine flat, for optimal spinal precautions",
+      "Left side down, to relieve IVC compression",
+      "Right side down, to relieve aortic compression",
+      "Trendelenburg, to improve venous return"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Left lateral positioning relieves IVC compression by the gravid uterus, improving venous return.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q109",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-108"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which finding is NOT required to diagnose placental abruption?",
+    "choices": [
+      "Uterine rigidity or tenderness",
+      "Abdominal pain",
+      "Contractions",
+      "Vaginal bleeding must always be present"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Abruption can occur without vaginal bleeding, so its absence should not be falsely reassuring.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q110",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-109"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What does the Kleihauer-Betke test measure, and in whom should it be performed?",
+    "choices": [
+      "Maternal platelet count; all trauma patients",
+      "Fetal lung maturity; third trimester patients only",
+      "Amniotic fluid volume; all pregnant patients",
+      "Fetal hemoglobin in maternal circulation; Rh-negative patients routinely"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "The KB test quantifies fetomaternal hemorrhage and is performed routinely in Rh-negative patients.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q111",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-110"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which patients should receive Rh immunoglobulin (RhoGAM) after trauma?",
+    "choices": [
+      "All pregnant trauma patients regardless of Rh status",
+      "Rh-negative mothers with concern for fetomaternal hemorrhage",
+      "Only Rh-positive mothers",
+      "Only mothers beyond 36 weeks gestation"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "RhoGAM prevents alloimmunization in Rh-negative mothers at risk of fetomaternal hemorrhage.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q112",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-111"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Which finding suggests uterine rupture in a pregnant trauma patient?",
+    "choices": [
+      "Normal fetal heart tracing",
+      "Normal maternal hemodynamics",
+      "Palpable fetal parts outside the uterus",
+      "Absence of abdominal tenderness"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Palpable fetal parts outside the uterine contour is a hallmark of uterine rupture.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q113",
+    "type": "fill_blank",
+    "source_card_ids": [
+      "TR2-112"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Fetal heart monitoring after trauma is generally indicated at ____ or more weeks gestation.",
+    "choices": null,
+    "correct_answer": "24",
+    "accepted_answers": [
+      "24"
+    ],
+    "explanation": "24 weeks gestation is the threshold for viability-based fetal monitoring after trauma.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q114",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-113"
+    ],
+    "category": "Pregnant Trauma Patients",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "Which finding warrants extended (>24 hour) fetal monitoring after trauma?",
+    "choices": [
+      "A low-speed MVC with no other findings",
+      "Gestational age less than 20 weeks",
+      "Injury Severity Score greater than 9",
+      "Maternal age under 30"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "ISS > 9, high-risk mechanisms, abdominal injury, and other listed findings warrant extended monitoring beyond the standard 2-6 hours.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q115",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-114"
+    ],
+    "category": "Geriatric Trauma",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "How does physiological reserve in geriatric trauma patients affect their management?",
+    "choices": [
+      "No difference compared to younger patients",
+      "Lower reserve leads to a lower threshold for ICU admission or transfer",
+      "Higher reserve allows for more conservative management",
+      "Geriatric patients require less monitoring than younger patients"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Reduced physiological reserve in geriatric patients means a lower threshold for higher-level care.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q116",
+    "type": "true_false",
+    "source_card_ids": [
+      "TR2-115"
+    ],
+    "category": "Geriatric Trauma",
     "importance": 3,
     "difficulty": 2,
-    "question": "Proximalization of inflow treats steal syndrome by moving the arterial inflow from the brachial artery to the ____ artery, increasing circuit resistance.",
-    "choices": null,
-    "correct_answer": "axillary",
-    "accepted_answers": [
-      "axillary"
-    ],
-    "explanation": "Moving the inflow to the axillary artery lengthens the circuit and increases resistance, reducing excess flow into the fistula.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q075",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-070"
-    ],
-    "category": "Fasciotomy",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What duration of acute limb ischemia warrants consideration of a prophylactic fasciotomy?",
-    "choices": [
-      "Greater than 4 hours",
-      "Greater than 1 hour",
-      "Greater than 24 hours",
-      "Greater than 30 minutes"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Acute limb ischemia lasting more than about 4 hours raises concern for reperfusion-related compartment syndrome, warranting a prophylactic fasciotomy.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q076",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-071"
-    ],
-    "category": "Fasciotomy",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "What is the classic finding of compartment syndrome, even when the leg appears grossly normal?",
-    "choices": [
-      "Pain out of proportion to exam, worsened with passive motion of the foot",
-      "Absent distal pulses in all cases",
-      "Obvious gross deformity of the leg",
-      "Warmth and erythema of the skin"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Pain out of proportion to exam findings, especially with passive stretch of the foot, is the classic early sign of compartment syndrome.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q077",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-072"
-    ],
-    "category": "Fasciotomy",
-    "importance": 5,
-    "difficulty": 3,
-    "question": "How do you access the anterior and lateral compartments during a four-compartment fasciotomy?",
-    "choices": [
-      "An H-type incision lateral to the tibia, between the tibia and fibula",
-      "A medial incision 2 cm posterior to the tibia",
-      "A midline anterior incision directly over the tibia",
-      "A posterior popliteal incision"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The anterior and lateral compartments are accessed through a lateral incision between the tibia and fibula, with the fascia opened anterior and posterior to the intermuscular septum.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q078",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-073"
-    ],
-    "category": "Fasciotomy",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "Injury to the ____ nerve during the lateral fasciotomy incision causes difficulty with foot eversion.",
-    "choices": null,
-    "correct_answer": "superficial peroneal",
-    "accepted_answers": [
-      "superficial peroneal",
-      "superficial peroneal nerve"
-    ],
-    "explanation": "The superficial peroneal nerve runs through the lateral compartment and is at risk during this incision; injury impairs foot eversion.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q079",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-074"
-    ],
-    "category": "Fasciotomy",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "How are the superficial and deep posterior compartments accessed during fasciotomy?",
-    "choices": [
-      "Through a single incision 2 cm posteromedial to the tibia",
-      "Through two separate lateral incisions",
-      "Through an anterior midline incision",
-      "Through a popliteal fossa incision only"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Both posterior compartments are decompressed through a single medial incision placed 2 cm posteromedial to the tibia.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q080",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-075"
-    ],
-    "category": "Fasciotomy",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "Adequate decompression of the deep posterior compartment is confirmed by taking the ____ muscle off of the tibia.",
-    "choices": null,
-    "correct_answer": "soleus",
-    "accepted_answers": [
-      "soleus"
-    ],
-    "explanation": "Releasing the soleus origin from the tibia confirms the deep posterior compartment has been fully decompressed.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q081",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-076"
-    ],
-    "category": "Thoracic Aortic Injury and Aneurysm",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "Where is the most common site of injury in blunt thoracic aortic trauma?",
-    "choices": [
-      "Just distal to the left subclavian artery at the ligamentum arteriosum",
-      "At the aortic root",
-      "At the diaphragmatic hiatus",
-      "At the origin of the celiac trunk"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "This is the point of aortic tethering by the ligamentum arteriosum, making it the classic site of shear injury in blunt deceleration trauma.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q082",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-077"
-    ],
-    "category": "Thoracic Aortic Injury and Aneurysm",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "What is the standard treatment for blunt thoracic aortic injury?",
-    "choices": [
-      "TEVAR with a covered stent graft",
-      "Open aortic replacement in nearly all cases",
-      "Observation with serial imaging",
-      "Medical management with beta blockade alone"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "TEVAR has become the standard treatment for blunt thoracic aortic injury given the high morbidity of open repair.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q083",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-078"
-    ],
-    "category": "Thoracic Aortic Injury and Aneurysm",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What size threshold generally warrants endovascular repair of a descending thoracic aortic aneurysm?",
-    "choices": [
-      "5 to 5.5 cm",
-      "3 to 3.5 cm",
-      "7 to 7.5 cm",
-      "4 to 4.5 cm"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Endovascular repair is generally considered at 5–5.5 cm; if endovascular repair is not feasible, the threshold rises to 6–6.5 cm given the higher morbidity of open repair.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q084",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-078"
-    ],
-    "category": "Thoracic Aortic Injury and Aneurysm",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "If endovascular repair of a descending thoracic aortic aneurysm is not anatomically feasible, the size threshold for open repair is higher, around 6-6.5 cm.",
+    "question": "Geriatric patients with rib fractures generally warrant a lower threshold for admission given their risk of decompensation.",
     "choices": [
       true,
       false
     ],
     "correct_answer": true,
     "accepted_answers": null,
-    "explanation": "Because open descending thoracic aortic replacement carries higher morbidity, a larger aneurysm size is tolerated before proceeding to open repair.",
+    "explanation": "Given low physiologic reserve, geriatric rib fracture patients are managed with a lower threshold for admission, often to the ICU.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q085",
+    "id": "TR2-Q117",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-079",
-      "VASC1-080"
+      "TR2-116"
     ],
-    "category": "Thoracic Aortic Injury and Aneurysm",
-    "importance": 5,
-    "difficulty": 3,
-    "question": "What measures help reduce the risk of paraplegia after thoracic aortic repair?",
-    "choices": [
-      "Lumbar drain placement and increasing blood pressure to maximize spinal perfusion pressure",
-      "Lowering blood pressure to reduce spinal cord swelling",
-      "Avoiding lumbar drains due to bleeding risk",
-      "Hyperventilation to reduce spinal cord edema"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Spinal perfusion pressure equals MAP minus ICP; placing a lumbar drain lowers ICP (via CSF drainage) while raising blood pressure increases MAP, together maximizing spinal cord perfusion.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q086",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-081"
-    ],
-    "category": "Aortic Dissection",
+    "category": "Quick Hits",
     "importance": 5,
     "difficulty": 2,
-    "question": "A 50-year-old hypertensive patient has new-onset tearing chest pain. What imaging should be ordered to evaluate for aortic dissection?",
+    "question": "Which of the following patients should NOT receive succinylcholine?",
     "choices": [
-      "CTA of the chest, abdomen, and pelvis",
-      "CT of the chest only",
-      "Chest X-ray only",
-      "MRI of the chest"
+      "A patient with a simple ankle fracture",
+      "A patient with an isolated clavicle fracture",
+      "A patient with a minor scalp laceration",
+      "A patient with a large burn injury"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
-    "explanation": "Dissections frequently propagate down to the groins, so imaging must extend beyond the chest to the abdomen and pelvis.",
+    "explanation": "Burn patients, crush injury patients, those with muscular dystrophy, hyperkalemia, or significant spinal cord trauma should avoid succinylcholine due to hyperkalemia risk.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q087",
+    "id": "TR2-Q118",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-117"
+    ],
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 1,
+    "question": "What are the earliest signs of hemorrhagic shock?",
+    "choices": [
+      "Tachycardia and narrowed pulse pressure",
+      "Hypotension and confusion",
+      "Fever and tachypnea",
+      "Anuria and bradycardia"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Subtle tachycardia and narrowing pulse pressure are the earliest detectable signs.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q119",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-118"
+    ],
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A trauma patient has hypotension with paradoxical bradycardia. What should be suspected?",
+    "choices": [
+      "Septic shock",
+      "Hemorrhagic shock",
+      "Neurogenic shock",
+      "Cardiogenic shock"
+    ],
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "Neurogenic shock is classically associated with hypotension and paradoxical bradycardia (rather than the expected tachycardia).",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q120",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-119"
+    ],
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "What is the most common mechanism of ureteral injury?",
+    "choices": [
+      "Iatrogenic, from procedures such as ureteroscopy or hysterectomy",
+      "Pelvic fracture",
+      "Blunt trauma from MVC",
+      "Penetrating gunshot wounds"
+    ],
+    "correct_answer": 0,
+    "accepted_answers": null,
+    "explanation": "Iatrogenic injury is the most common cause of ureteral injury overall.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q121",
     "type": "fill_blank",
     "source_card_ids": [
-      "VASC1-082"
+      "TR2-120"
     ],
-    "category": "Aortic Dissection",
+    "category": "Quick Hits",
     "importance": 5,
     "difficulty": 1,
-    "question": "The anatomic landmark that differentiates a Type A from a Type B aortic dissection is the ____ artery.",
+    "question": "Bladder injury is associated with pelvic fracture in approximately ____% of cases.",
     "choices": null,
-    "correct_answer": "left subclavian",
+    "correct_answer": "90",
     "accepted_answers": [
-      "left subclavian",
-      "subclavian"
+      "90"
     ],
-    "explanation": "Dissections proximal to the left subclavian artery are Type A; those distal to it are Type B.",
+    "explanation": "90% of bladder injuries occur with pelvic fractures.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q088",
+    "id": "TR2-Q122",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-083"
+      "TR2-122"
     ],
-    "category": "Aortic Dissection",
+    "category": "Quick Hits",
     "importance": 5,
     "difficulty": 2,
-    "question": "Why is a Type A aortic dissection considered a surgical emergency?",
+    "question": "What is the initial management of an open-book pelvic fracture?",
     "choices": [
-      "Risk of cardiac tamponade or aortic rupture",
-      "Risk of mesenteric ischemia only",
-      "Risk of limb ischemia only",
-      "It is not typically emergent"
+      "Immediate operative fixation",
+      "Emergent reduction with a pelvic binder and/or traction",
+      "IV fluids alone without mechanical stabilization",
+      "Immediate angioembolization"
     ],
-    "correct_answer": 0,
+    "correct_answer": 1,
     "accepted_answers": null,
-    "explanation": "Type A dissections require immediate cardiothoracic surgery due to the life-threatening risks of tamponade and rupture.",
+    "explanation": "Binder/traction tamponades venous bleeding from the sheared pelvic vessels by restoring anatomic alignment.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q089",
-    "type": "true_false",
+    "id": "TR2-Q123",
+    "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-083"
+      "TR2-123"
     ],
-    "category": "Aortic Dissection",
+    "category": "Quick Hits",
     "importance": 4,
     "difficulty": 2,
-    "question": "An uncomplicated Type B aortic dissection without rupture or malperfusion is typically managed medically rather than surgically.",
+    "question": "During resuscitative thoracotomy, bubbles are seen in the coronary vessels. What does this suggest?",
     "choices": [
-      true,
-      false
+      "Cardiac tamponade",
+      "Normal reperfusion physiology",
+      "Air embolism from a pulmonary injury",
+      "Fat embolism from a long bone fracture"
     ],
-    "correct_answer": true,
+    "correct_answer": 2,
     "accepted_answers": null,
-    "explanation": "Type B dissections are managed medically unless there is evidence of rupture or malperfusion, which would make them surgical emergencies.",
+    "explanation": "Coronary air bubbles suggest an air embolism, typically originating from a pulmonary venous injury.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q090",
+    "id": "TR2-Q124",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-084"
+      "TR2-124"
     ],
-    "category": "Aortic Dissection",
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "An MVC patient has a lumbar chance fracture with a seat belt sign. What injuries should be suspected?",
+    "choices": [
+      "Isolated bladder injury",
+      "Isolated splenic injury only",
+      "Isolated renal injury",
+      "Duodenal, pancreatic, or hollow viscus injury"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "The chance fracture/seat belt sign combination is classically associated with intra-abdominal hollow viscus/pancreaticoduodenal injury.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q125",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-127"
+    ],
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A patient has a left thoracoabdominal stab wound with negative imaging and a normal exam. What is the next step?",
+    "choices": [
+      "Repeat imaging in 24 hours",
+      "Discharge home",
+      "Observation without further workup",
+      "Laparoscopy to evaluate for diaphragm injury"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Diaphragm injuries are poorly visualized on imaging, making laparoscopy necessary to rule them out.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q126",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-128"
+    ],
+    "category": "Quick Hits",
     "importance": 4,
     "difficulty": 2,
-    "question": "Which of the following is NOT a typical form of malperfusion seen in Type B aortic dissection?",
+    "question": "A found-down patient is oliguric with a creatinine of 3.5. What should be suspected?",
     "choices": [
-      "Coronary malperfusion",
-      "Mesenteric malperfusion",
-      "Renal malperfusion",
-      "Limb ischemia"
+      "Rhabdomyolysis",
+      "Bladder rupture",
+      "Diabetic ketoacidosis",
+      "Acute cholecystitis"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
-    "explanation": "Coronary malperfusion is characteristic of Type A dissection (risking tamponade/MI); Type B malperfusion typically involves mesenteric, hepatic, renal, or limb circulation.",
+    "explanation": "Found-down patients are at risk for rhabdomyolysis from prolonged immobilization, presenting with renal dysfunction.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q091",
+    "id": "TR2-Q127",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-085"
+      "TR2-129"
     ],
-    "category": "Aortic Dissection",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What is the initial medical management strategy for an uncomplicated Type B aortic dissection?",
-    "choices": [
-      "Impulse control with a short-acting titratable beta blocker and close monitoring for malperfusion",
-      "Immediate TEVAR",
-      "Aggressive fluid resuscitation to raise blood pressure",
-      "Anticoagulation with heparin"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Impulse control (blood pressure and heart rate reduction with a titratable beta blocker) combined with close monitoring for malperfusion is the cornerstone of initial management.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q092",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-086"
-    ],
-    "category": "Aortic Dissection",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What is the surgical principle for treating a Type B dissection complicated by malperfusion?",
-    "choices": [
-      "TEVAR to seal the entry tear and promote true lumen flow with false lumen thrombosis",
-      "Open replacement of the entire descending aorta",
-      "Fenestration of the aortic septum via laparotomy",
-      "Bilateral nephrectomy if renal malperfusion is present"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "TEVAR seals the proximal entry tear, redirecting flow into the true lumen and promoting false lumen thrombosis, which resolves malperfusion in the majority of cases.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q093",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-086"
-    ],
-    "category": "Aortic Dissection",
+    "category": "Quick Hits",
     "importance": 4,
     "difficulty": 2,
-    "question": "Placing a TEVAR alone resolves malperfusion in roughly 75% of complicated Type B dissection cases.",
+    "question": "A patient with a tracheostomy has bright red bleeding from the site. What should be suspected?",
     "choices": [
-      true,
-      false
+      "Normal post-procedure bleeding",
+      "Sentinel bleed for a tracheoinnominate fistula",
+      "Simple stoma site irritation",
+      "Tracheal stenosis"
     ],
-    "correct_answer": true,
+    "correct_answer": 1,
     "accepted_answers": null,
-    "explanation": "About 75% of malperfusion cases resolve with TEVAR alone; follow-up angiography is still needed to confirm resolution and identify any vessels needing additional treatment.",
+    "explanation": "Bleeding from a tracheostomy site should raise concern for a developing tracheoinnominate fistula, a life-threatening complication.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q094",
+    "id": "TR2-Q128",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-087"
+      "TR2-130"
     ],
-    "category": "Mesenteric Ischemia",
-    "importance": 5,
-    "difficulty": 1,
-    "question": "What are the four types of acute mesenteric ischemia?",
+    "category": "Quick Hits",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "A severe TBI patient has a sodium of 155 and high urine output. What is the diagnosis and treatment?",
     "choices": [
-      "Embolic, thrombotic, venous thrombosis, and NOMI",
-      "Embolic, hemorrhagic, ischemic, and infectious",
-      "Arterial, venous, lymphatic, and neurogenic",
-      "Acute, chronic, subacute, and recurrent"
+      "Cerebral salt wasting; treated with fluids and salt",
+      "Diabetes insipidus; treated with DDAVP",
+      "SIADH; treated with fluid restriction",
+      "Adrenal insufficiency; treated with hydrocortisone"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Hypernatremia with polyuria after TBI is classic for central diabetes insipidus, treated with DDAVP.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q129",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-131"
+    ],
+    "category": "Quick Hits",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "A trauma patient is paralyzed with no bulbocavernosus reflex. What is this called?",
+    "choices": [
+      "Spinal shock",
+      "Cauda equina syndrome",
+      "Central cord syndrome",
+      "Neurogenic shock"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
-    "explanation": "The four recognized types are embolic, thrombotic, mesenteric venous thrombosis, and non-occlusive mesenteric ischemia (NOMI).",
+    "explanation": "The absence of reflexes below the injury level, including the bulbocavernosus reflex, defines spinal shock.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q095",
+    "id": "TR2-Q130",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-088"
+      "TR2-133"
     ],
-    "category": "Mesenteric Ischemia",
+    "category": "Quick Hits",
     "importance": 5,
     "difficulty": 2,
-    "question": "What is the most common type of acute mesenteric ischemia and the best diagnostic study?",
+    "question": "Liver bleeding is unchanged after a Pringle maneuver. What procedure secures all blood flow to the liver?",
     "choices": [
-      "Embolic; CTA",
-      "Thrombotic; ultrasound",
-      "NOMI; MRI",
-      "Venous thrombosis; plain abdominal X-ray"
+      "Portal vein ligation alone",
+      "Hepatic artery ligation alone",
+      "Total vascular isolation",
+      "Repeat Pringle maneuver with longer clamp time"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
-    "explanation": "Embolic mesenteric ischemia is the most common type, presenting with pain out of proportion to exam; CTA is the best diagnostic study.",
+    "explanation": "Total vascular isolation controls both inflow and outflow, addressing suspected hepatic vein/retrohepatic caval injury.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q096",
+    "id": "TR2-Q131",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-089"
+      "TR2-134"
     ],
-    "category": "Mesenteric Ischemia",
-    "importance": 5,
+    "category": "Quick Hits",
+    "importance": 4,
     "difficulty": 2,
-    "question": "What is the operative management of embolic acute mesenteric ischemia?",
+    "question": "A chest X-ray shows an apical cap. What injury should be suspected?",
     "choices": [
-      "Heparinize, perform exploratory laparotomy with SMA embolectomy, leave abdomen open with planned second look in 12-24 hours",
-      "Heparinize and observe without surgery",
-      "Immediate bowel resection without embolectomy",
-      "Primary closure of the abdomen after embolectomy"
+      "Diaphragm rupture",
+      "Isolated rib fracture",
+      "Blunt thoracic aortic injury",
+      "Pneumonia"
     ],
-    "correct_answer": 0,
+    "correct_answer": 2,
     "accepted_answers": null,
-    "explanation": "Standard management includes heparinization, embolectomy, and a damage-control approach with a planned second-look laparotomy to reassess bowel viability.",
+    "explanation": "An apical cap (blood collecting at the lung apex) is a classic sign of blunt aortic injury.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q097",
+    "id": "TR2-Q132",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-090",
-      "VASC1-091"
+      "TR2-135"
     ],
-    "category": "Mesenteric Ischemia",
-    "importance": 5,
-    "difficulty": 3,
-    "question": "A heavy smoker with severe vascular disease presents with subacute abdominal pain from mesenteric ischemia. Where is the lesion located, and what is the treatment?",
+    "category": "Quick Hits",
+    "importance": 4,
+    "difficulty": 2,
+    "question": "Major posterior arterial bleeding is encountered during neck exploration. What vessel is most likely injured?",
     "choices": [
-      "At the SMA ostium; treated with mesenteric bypass or ostial stenting",
-      "Distal SMA branch; treated with embolectomy",
-      "SMV; treated with heparin",
-      "Celiac trunk; treated with observation"
+      "Carotid artery",
+      "Vertebral artery",
+      "Superior thyroid artery",
+      "Facial artery"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "The vertebral artery runs posteriorly in the neck and is the likely source of posterior bleeding during neck exploration.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q133",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-136"
+    ],
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A stab wound to the flank raises concern for which structures, and how is this evaluated?",
+    "choices": [
+      "Only intraperitoneal organs; standard CT",
+      "Retroperitoneal organs (kidney, colon); triple contrast CT",
+      "Only the spleen; ultrasound",
+      "Only vascular structures; CTA alone"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Flank wounds threaten retroperitoneal structures poorly seen on standard imaging, requiring triple contrast CT.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q134",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-137"
+    ],
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A trauma patient has an elevated LY30 on TEG. What should be given?",
+    "choices": [
+      "TXA",
+      "Cryoprecipitate",
+      "FFP",
+      "Platelets"
     ],
     "correct_answer": 0,
     "accepted_answers": null,
-    "explanation": "Thrombotic mesenteric ischemia occurs at the SMA origin due to chronic atherosclerotic disease and requires bypass or stenting rather than embolectomy.",
+    "explanation": "Elevated LY30 reflects hyperfibrinolysis, treated with TXA.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q098",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-092"
-    ],
-    "category": "Mesenteric Ischemia",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "Embolic mesenteric ischemia classically spares the proximal jejunum because the embolus lodges distal to the first jejunal branch.",
-    "choices": [
-      true,
-      false
-    ],
-    "correct_answer": true,
-    "accepted_answers": null,
-    "explanation": "Emboli typically lodge 3-10 cm distal to the SMA origin, past the first jejunal branch, sparing the proximal jejunum — unlike thrombotic disease at the ostium, which spares nothing.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q099",
+    "id": "TR2-Q135",
     "type": "fill_blank",
     "source_card_ids": [
-      "VASC1-093"
+      "TR2-138"
     ],
-    "category": "Mesenteric Ischemia",
+    "category": "Quick Hits",
     "importance": 4,
-    "difficulty": 3,
-    "question": "To expose the SMA for embolectomy, the surgeon lifts the transverse colon cephalad and mobilizes the ligament of ____ to find the SMA just to its right.",
+    "difficulty": 2,
+    "question": "The 'gateway' structure to the carotid bifurcation is the common ____ vein.",
     "choices": null,
-    "correct_answer": "Treitz",
+    "correct_answer": "facial",
     "accepted_answers": [
-      "Treitz",
-      "ligament of Treitz"
+      "facial"
     ],
-    "explanation": "The SMA is found just to the right of the ligament of Treitz at the base of the transverse mesocolon, requiring mobilization of the ligament for exposure.",
+    "explanation": "The common facial vein is divided/ligated as the gateway to expose the carotid bifurcation.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q100",
+    "id": "TR2-Q136",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-094",
-      "VASC1-095"
-    ],
-    "category": "Mesenteric Ischemia",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What is the classic presentation of mesenteric venous thrombosis, and what CTA findings support the diagnosis?",
-    "choices": [
-      "Subacute abdominal pain, sometimes with bloody diarrhea; CTA shows bowel wall thickening, mesenteric edema, and SMV/portal thrombosis",
-      "Acute pain out of proportion to exam; CTA shows a filling defect at the SMA origin",
-      "Painless GI bleeding; CTA shows normal bowel wall",
-      "Sudden onset shock; CTA shows free air"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Mesenteric venous thrombosis presents subacutely over several days, sometimes with bloody diarrhea, and CTA shows bowel wall thickening, mesenteric edema, and venous thrombosis.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q101",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-096"
-    ],
-    "category": "Mesenteric Ischemia",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "What is the primary treatment for mesenteric venous thrombosis in most patients?",
-    "choices": [
-      "Heparinization, with surgery reserved for ischemic bowel",
-      "Immediate exploratory laparotomy",
-      "TPA in all cases",
-      "Observation without anticoagulation"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Most patients with mesenteric venous thrombosis are managed successfully with heparinization and serial exams; surgery is reserved for those who develop ischemic bowel.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q102",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-097",
-      "VASC1-098"
-    ],
-    "category": "Mesenteric Ischemia",
-    "importance": 5,
-    "difficulty": 3,
-    "question": "A critically ill patient on multiple pressors develops ischemia in the splenic flexure and upper rectum. What is the diagnosis and primary treatment?",
-    "choices": [
-      "NOMI; improve cardiac output and resuscitate",
-      "Embolic mesenteric ischemia; embolectomy",
-      "Thrombotic mesenteric ischemia; mesenteric bypass",
-      "Mesenteric venous thrombosis; heparinization"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "NOMI occurs in critically ill patients with low cardiac output, producing ischemia in watershed areas like the splenic flexure and upper rectum; the primary treatment is improving perfusion and cardiac output rather than surgery, unless bowel resection is needed.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q103",
-    "type": "true_false",
-    "source_card_ids": [
-      "VASC1-098"
-    ],
-    "category": "Mesenteric Ischemia",
-    "importance": 4,
-    "difficulty": 2,
-    "question": "Surgery in NOMI is indicated primarily for resection of frankly ischemic bowel, not as a primary revascularization procedure.",
-    "choices": [
-      true,
-      false
-    ],
-    "correct_answer": true,
-    "accepted_answers": null,
-    "explanation": "NOMI is a perfusion/cardiac output problem rather than a fixed occlusive lesion, so surgery is reserved for resecting nonviable bowel.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q104",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-099"
-    ],
-    "category": "Quick Hits",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "What is the most common site for an upper extremity arterial embolus to lodge?",
-    "choices": [
-      "Brachial artery at the radial/ulnar bifurcation",
-      "Axillary artery",
-      "Subclavian artery",
-      "Radial artery at the wrist"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The brachial artery bifurcation into the radial and ulnar arteries is the most common site for upper extremity emboli to lodge.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q105",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-100"
-    ],
-    "category": "Quick Hits",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "What is the most common site for a lower extremity arterial embolus to lodge?",
-    "choices": [
-      "Common femoral artery at the profunda/SFA bifurcation",
-      "Popliteal artery",
-      "Common iliac artery",
-      "Posterior tibial artery"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "The common femoral artery bifurcation is the most common site for lower extremity emboli to lodge.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q106",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-101"
-    ],
-    "category": "Quick Hits",
-    "importance": 5,
-    "difficulty": 2,
-    "question": "In a ruptured AAA undergoing crash laparotomy, where is proximal aortic control obtained?",
-    "choices": [
-      "Supraceliac aorta via the gastrohepatic ligament",
-      "Infrarenal aorta only",
-      "Common iliac arteries bilaterally",
-      "Descending thoracic aorta via thoracotomy"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Supraceliac control is obtained through the gastrohepatic ligament, under the crus of the diaphragm, initially by compressing the aorta against the spine.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q107",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-102"
-    ],
-    "category": "Quick Hits",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "The permissive hypotension target systolic blood pressure for a patient with a ruptured AAA being transferred is ____ mmHg.",
-    "choices": null,
-    "correct_answer": "80-100",
-    "accepted_answers": [
-      "80-100",
-      "80 to 100"
-    ],
-    "explanation": "Permissive hypotension with a systolic BP goal of 80-100 mmHg avoids exacerbating hemorrhage while maintaining perfusion until definitive repair.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q108",
-    "type": "multiple_choice",
-    "source_card_ids": [
-      "VASC1-103"
-    ],
-    "category": "Quick Hits",
-    "importance": 4,
-    "difficulty": 1,
-    "question": "What is the most common organism responsible for vascular graft infections?",
-    "choices": [
-      "Staphylococcus epidermidis",
-      "Staphylococcus aureus",
-      "Escherichia coli",
-      "Pseudomonas aeruginosa"
-    ],
-    "correct_answer": 0,
-    "accepted_answers": null,
-    "explanation": "Staph epidermidis is a slow, indolent organism and the most common cause of vascular graft infections.",
-    "clinical_pearl": null,
-    "tags": []
-  },
-  {
-    "id": "VASC1-Q109",
-    "type": "fill_blank",
-    "source_card_ids": [
-      "VASC1-104"
+      "TR2-139"
     ],
     "category": "Quick Hits",
     "importance": 4,
     "difficulty": 2,
-    "question": "Popliteal entrapment syndrome is classically treated by resecting the medial head of the ____ muscle.",
-    "choices": null,
-    "correct_answer": "gastrocnemius",
-    "accepted_answers": [
-      "gastrocnemius"
+    "question": "What is the gateway structure to the great vessels during median sternotomy?",
+    "choices": [
+      "Superior vena cava",
+      "Azygos vein",
+      "Innominate vein",
+      "Ascending aorta"
     ],
-    "explanation": "Resection of the medial head of the gastrocnemius relieves compression of the popliteal artery in popliteal entrapment syndrome.",
+    "correct_answer": 2,
+    "accepted_answers": null,
+    "explanation": "The innominate (brachiocephalic) vein is the gateway structure encountered when exposing the great vessels via sternotomy, and it can be ligated if necessary.",
     "clinical_pearl": null,
     "tags": []
   },
   {
-    "id": "VASC1-Q110",
+    "id": "TR2-Q137",
     "type": "multiple_choice",
     "source_card_ids": [
-      "VASC1-105"
+      "TR2-140"
     ],
     "category": "Quick Hits",
     "importance": 5,
-    "difficulty": 1,
-    "question": "A 'beads on a string' angiographic appearance in the renal or carotid arteries is diagnostic of what condition?",
+    "difficulty": 2,
+    "question": "A patient presents two weeks after MVC with a grade 4 liver laceration and new hematemesis. What is the diagnosis and treatment?",
     "choices": [
-      "Fibromuscular dysplasia",
-      "Takayasu arteritis",
-      "Atherosclerosis",
-      "Vasculitis from polyarteritis nodosa"
+      "Mallory-Weiss tear; observation",
+      "Peptic ulcer disease; PPI therapy",
+      "Esophageal varices; banding",
+      "Hemobilia from arterial-biliary fistula; angioembolization"
     ],
-    "correct_answer": 0,
+    "correct_answer": 3,
     "accepted_answers": null,
-    "explanation": "This classic angiographic finding is diagnostic of fibromuscular dysplasia, most commonly affecting the renal arteries.",
+    "explanation": "Delayed hematemesis after liver trauma is classic for hemobilia from an arterial-biliary fistula, treated with angioembolization.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q138",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-141"
+    ],
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A patient has an open pelvic fracture with a complex perineal wound. What is the management?",
+    "choices": [
+      "Observation without fecal diversion",
+      "Diverting colostomy",
+      "Immediate abdominoperineal resection",
+      "Primary perineal wound closure without diversion"
+    ],
+    "correct_answer": 1,
+    "accepted_answers": null,
+    "explanation": "Complex perineal wounds with open pelvic fractures warrant fecal diversion to protect the wound and reduce infection risk.",
+    "clinical_pearl": null,
+    "tags": []
+  },
+  {
+    "id": "TR2-Q139",
+    "type": "multiple_choice",
+    "source_card_ids": [
+      "TR2-142"
+    ],
+    "category": "Quick Hits",
+    "importance": 5,
+    "difficulty": 2,
+    "question": "A gunshot wound to the pelvis shows a rectal wall hematoma on rigid proctoscopy without a clearly identified mucosal injury. What is the management?",
+    "choices": [
+      "Observation with repeat proctoscopy only",
+      "No intervention since no injury was directly visualized",
+      "Primary repair of the hematoma",
+      "Diverting colostomy given high suspicion"
+    ],
+    "correct_answer": 3,
+    "accepted_answers": null,
+    "explanation": "Given the high suspicion from the hematoma finding, diversion is still pursued even without a definitively visualized mucosal injury.",
     "clinical_pearl": null,
     "tags": []
   }
